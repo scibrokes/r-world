@@ -1,0 +1,100 @@
+---
+title: "RStudio Scibrokes Base"
+author: '[Ryo®, Eng Lian Hu](http://englianhu.wordpress.com) <img src=''figure/TonyStark.png''
+  width=''24''> TonyStark®'
+date: "11/3/2015"
+output:
+  html_document:
+    fig_height: 3
+    fig_width: 5
+    highlight: zenburn
+    theme: cerulean
+    toc: yes
+  pdf_document:
+    fig_height: 3
+    fig_width: 5
+    highlight: zenburn
+    toc: yes
+  word_document:
+    fig_height: 3
+    fig_width: 5
+    highlight: zenburn
+---
+
+
+```{r load-packages, include=FALSE}
+# Don't delete this chunk if you are using the mosaic package
+# This loads the mosaic and dplyr packages
+
+## Setting to omit all warnings
+options(warn=-1)
+
+## Loading the packages
+if(!'devtools' %in% installed.packages()){
+  install.packages('devtools')}
+if(!'BBmisc' %in% installed.packages()){
+  install.packages('BBmisc')}
+
+suppressPackageStartupMessages(library('BBmisc'))
+pkgs <- c('mosaic','devtools','lubridate','knitr','markdown','rmarkdown','REmap','ggmap')
+suppressAll(lib(pkgs)); rm(pkgs)
+```
+
+```{r get-data, include=FALSE}
+data = data.frame(country=mapNames('world'), value=5*sample(178)+200)
+
+vec = c('Tokyo','Shanghai','New York','Sydney','London','Bangkok','Taipei',
+        'Moscow','Beijing','Washington','Lyon','Milan','Rome','Macao',
+        'Singapore','Hong Kong','Kuala Lumpur','Madrid','Geneva','Paris',
+        'Melbourne','Boston','Washington','Liverpool','Brighton','Bali',
+        'San Francisco','Jakarta','Ho Chi Minh','Brasilia','Barcelona',
+        'Rio de Janeiro','Buenos Aires','Bern','Basel','Zurich','Manila',
+        'Toronto','Vancouver','Bogotá','New Delhi','Thimphu','Mumbai',
+        'Cairo','Greater Johannesburg','Durban','Alexandria','Zaria','Fès',
+        'Istanbul','Mexico City','Sapporo','Osaka','Ulaanbaatar','Vienna')
+
+## get world city geocode by ggmap
+geodata = as.data.frame(cbind(geocode(vec),vec))
+
+## design a line data.frame
+markLinedata = data.frame(origin=rep('Tokyo',54),destination = vec[-2])
+```
+
+```{r plot-map, echo=FALSE, result='asis'}
+remapC(data, maptype='world',color=c('black','black'),
+       theme=get_theme(backgroundColor='black'),
+       markPointData=vec, markLineData=markLinedata, geoData=geodata)
+```
+
+
+## Appendices
+  
+  
+  
+### Documenting File Creation 
+
+It's useful to record some information about how your file was created.
+  
+  * File creation/updated date: `r Sys.Date()`
+  * `r R.version.string`
+  * R version (short form): `r getRversion()`
+  * `mosaic` package version: `r packageVersion("mosaic")`
+  * File version: 1.0.0
+  * GitHub: [source code](https://github.com/Scibrokes/r-world)
+  * Additional session information
+  
+```{r echo=FALSE, results='asis'}
+now()
+session_info()$platform
+```
+
+
+
+### References
+
+  * You are feel free to create  your own webpage by R Markdown V2 by refer to [Document Templates](http://rmarkdown.rstudio.com/developer_document_templates.html?version=0.99.484&mode=server)
+  * `rticles` package version: `r packageVersion("rticles")`
+  * [Pandoc Markdown]()
+  * You can plot the shining map by using [REmap](http://lchiffon.github.io/REmap) package.
+  * You can also modify the layout of website by refering [Top Five CSS Customizations for R Presentations](http://rstudio-pubs-static.s3.amazonaws.com/27777_55697c3a476640caa0ad2099fe914ae5.html#/).
+  
