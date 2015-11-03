@@ -1,5 +1,5 @@
 ---
-title: "RStudio Scibrokes Base"
+title: "Scibrokes"
 author: '[Ryo®, Eng Lian Hu](http://englianhu.wordpress.com) <img src=''figure/TonyStark.png''
   width=''24''> TonyStark®'
 date: "11/3/2015"
@@ -21,6 +21,7 @@ output:
     highlight: zenburn
 ---
 
+明治維新は、まずは西欧から「学ぶ」ことに特化したのである。
 
 ```{r load-packages, include=FALSE}
 # Don't delete this chunk if you are using the mosaic package
@@ -65,6 +66,14 @@ remapC(data, maptype='world',color=c('black','black'),
        theme=get_theme(backgroundColor='black'),
        markPointData=vec, markLineData=markLinedata, geoData=geodata)
 ```
+  
+  * Rooted from EDO, towards a global perspective.
+  * 江戸に根ざし、世界の未来を展望する。
+  * Radicata da EDO, in direzione un prospettiva globale.
+  * von EDO verwurzelt ist, in Richtung einer globalen Perspektive.
+  
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221986532&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 
 
 ## Appendices
@@ -78,8 +87,8 @@ It's useful to record some information about how your file was created.
   * File creation/updated date: `r Sys.Date()`
   * `r R.version.string`
   * R version (short form): `r getRversion()`
-  * `mosaic` package version: `r packageVersion("mosaic")`
   * File version: 1.0.0
+  * Author Profile: [Ryo®, Eng Lian Hu](http://rpubs.com/englianhu/ryoeng)
   * GitHub: [source code](https://github.com/Scibrokes/r-world)
   * Additional session information
   
@@ -94,7 +103,6 @@ session_info()$platform
 
   * You are feel free to create  your own webpage by R Markdown V2 by refer to [Document Templates](http://rmarkdown.rstudio.com/developer_document_templates.html?version=0.99.484&mode=server)
   * `rticles` package version: `r packageVersion("rticles")`
-  * [Pandoc Markdown]()
   * You can plot the shining map by using [REmap](http://lchiffon.github.io/REmap) package.
   * You can also modify the layout of website by refering [Top Five CSS Customizations for R Presentations](http://rstudio-pubs-static.s3.amazonaws.com/27777_55697c3a476640caa0ad2099fe914ae5.html#/).
   
