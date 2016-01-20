@@ -1,0 +1,241 @@
+---
+title: "ワールド・ビジョン・ジャパン"
+author: "[®γσ, Eng Lian Hu](http://englianhu.wordpress.com) <img src='figure/ShirotoNorimichi.jpg' width='24'> 白戸則道®"
+date: "11/3/2015"
+output:
+  html_document:
+    fig_height: 3
+    fig_width: 5
+    highlight: haddock
+    theme: cerulean
+    toc: yes
+---
+
+
+
+## 第1章：日本の物語
+
+
+### A. 日本のミステリー
+
+#### 東大寺
+  
+  あるアルティス[ロン．コーブ](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%96)がにほんに遊びに来て，日本で居た時はなんか神秘的であるが感じだ，[東大寺](http://www.eonet.ne.jp/~kotonara/toudaiji.htm)が巡礼者の処。最近の作品は["Ancient China" from "Asia Beauty"](https://www.youtube.com/watch?v=AOknCjSYDXE)。
+  
+  ロン．コーブ：`僕は日本東京に音楽を学び時は，ある友達が僕は日本竜笛を一生懸命に勉強する時の辛さとか、悩みとか、苦しさとか、難しさとかは「馴竜記」と言った。竜を馴れる/調教の意味だからさあ。竜笛を学んでは楽器を学んでだけじゃなくて，自分の成長のプロセスの原因もあるし，外見からの先入観がもたらす竜笛恐怖症の障害を突破する原因もあった。このアルバムの中に多くの異なる状況や色々な感情もあって，それは極端や冷静な感情の状態も含みますた。僕は音楽の学び旅で，色々な状況を会ってで、すべては様々なドラゴンに遭遇しましたと思ってた。`
+
+  人々は竜笛の声は竜の低吟みたい。あの神秘的な深い北インド笛は，恋は生みだしできる様に。日本薄いフルートから発出の声は、伝えられる天国からの神々様と同じ度数だ，その曲が素晴らしいだけじゃなくて，深奧の祕密と非常に非常に靈性的であるだね！えっえええええ！！！
+
+```{}
+It is the tear of the earth that keep her smiles in bloom.
+因著大地的淚水,使她的微笑常開不謝。
+```
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/g4uqQDXizO4?list=PL_g3Na7z0hQMBAhM0ASHD6ZH2XmIqqHwv" frameborder="0" allowfullscreen></iframe>
+
+#### ロン．コーブ
+
+  ロン・コーブ（Ron Korb）は、カナダ・オンタリオ州トロント出身のフルート奏者、作曲家、作詞家、音楽プロデューサー。また、中国では龍笛、台湾では雷恩冠伯、そして日本ではフルートの貴公子として知られている。
+
+
+### B. 侍の精神
+
+  [「侍（サムライ）」](https://ja.wikipedia.org/wiki/%E4%BE%8D)は，古代から中世にかけての日本における官人の身分呼称、あるいはそこから発展的に生じた武士の別名である。「伺候する」「従う」を意味する「さぶらう」に由来する。
+  
+  [《侍魂》](https://zh.wikipedia.org/wiki/%E4%BE%8D%E9%AD%82%E7%B3%BB%E5%88%97)（サムライスピリッツSamurai Spirits，Samurai Shodown）と[《るろうに剣心》](http://www.j-rurouni.com/)（るろうに剣心-明治剣客）は日本古代からの侍の精神を発揚してるね！
+  
+<iframe width="420" height="315" src="https://www.youtube.com/embed/saFnC7WFIuk" frameborder="0" allowfullscreen></iframe>
+
+
+
+## 第2章：日本の学
+
+
+### A. 日本の興国論
+
+  明治維新は、まずは西欧から「学ぶ」ことに特化したのである。
+
+```{r load-packages, include=FALSE}
+# Don't delete this chunk if you are using the mosaic package
+# This loads the mosaic and dplyr packages
+
+## Setting to omit all warnings
+options(warn=-1)
+
+## Loading the packages
+if(!'devtools' %in% installed.packages()){
+  install.packages('devtools')}
+if(!'BBmisc' %in% installed.packages()){
+  install.packages('BBmisc')}
+
+suppressMessages(library('BBmisc'))
+pkgs <- c('mosaic','devtools','lubridate','knitr','markdown','rmarkdown','REmap','ggmap')
+suppressAll(lib(pkgs)); rm(pkgs)
+
+## Reinitialize remap configuration
+remap.init()
+```
+
+```{r get-data, include=FALSE}
+data = data.frame(country=mapNames('world'), value=5*sample(178)+200)
+
+vec = c('Tokyo','Shanghai','New York','Sydney','London','Bangkok','Taipei',
+        'Moscow','Beijing','Washington','Lyon','Milan','Rome','Macao',
+        'Singapore','Hong Kong','Kuala Lumpur','Madrid','Geneva','Paris',
+        'Melbourne','Boston','Washington','Liverpool','Brighton','Bali',
+        'San Francisco','Jakarta','Ho Chi Minh','Brasilia','Barcelona',
+        'Rio de Janeiro','Buenos Aires','Bern','Basel','Zurich','Manila',
+        'Toronto','Vancouver','Bogotá','New Delhi','Thimphu','Mumbai',
+        'Cairo','Greater Johannesburg','Durban','Alexandria','Zaria','Fès',
+        'Istanbul','Mexico City','Sapporo','Osaka','Ulaanbaatar','Vienna')
+
+## get world city geocode by ggmap
+geodata = as.data.frame(cbind(geocode(vec),vec))
+
+## design a line data.frame
+markLinedata = data.frame(origin=rep('Tokyo',54),destination = vec[-2])
+```
+
+```{r plot-map, echo=FALSE, result='asis'}
+## Plot a shining World map
+remapC(data, maptype='world',color=c('black','black'),
+       theme=get_theme(backgroundColor='black'),
+       markPointData=vec, markLineData=markLinedata, geoData=geodata)
+```
+  
+  * Rooted from EDO, towards a global perspective.
+  * 江戸に根ざし、世界の未来を展望する。
+  * Radicata da EDO, in direzione un prospettiva globale.
+  * von EDO verwurzelt ist, in Richtung einer globalen Perspektive.
+  
+  大ニッポン帝国時の日本人が侍魂の最大の精神は「死も恐れない，いつまでも、何処までも天皇に忠誠する」。
+  
+<iframe width="420" height="315" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221986532&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;visual=true"></iframe>
+
+
+### B. 日本の慈善活動
+
+  慈善活動はいつまでも，どこまでも社会に貢献する。
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/k8rgaGj9c88" frameborder="0" allowfullscreen></iframe>
+
+
+
+## 第3章：和平案
+
+
+### A. 「AMANI」
+
+「DELIBERATE～猶豫～／'91･9発売」
+
+  1曲目の[「AMANI」](https://www.youtube.com/watch?v=zxv3F99NpYk)はBEYONDがアフリカの子供たちを慰問したのをきっかけに生まれた曲で、反戦をテーマに掲げている(｢AMANI｣はスワヒリ語で｢平和｣の意)。後にBEYONDは、アフリカの子供たちのために「BEYOND第三世界基金」を設立している。10曲目の「完全的擁有」はドラムのWINGが初めてリードヴォーカルをとった曲。3曲目「不再猶豫」と6曲目「誰伴我闖蕩」はBEYOND主演映画「BEYOND日記之莫欺少年窮」の挿入歌となっている。 
+
+```{}
+平和（AMANI 訳詞）
+作曲：ウォン・ガークィ 　
+作詩：ウォン・ガークィ 　
+
+AMANI NAKUPENDA
+NAKUPENDA WE WE
+( 平和　愛　私たちに勇気を）
+AMANI NAKUPENDA
+NAKUPENDA WE WE
+
+神は　この世の全てをつかさどり
+神の御歌は　愛を生まれさせ
+神の真理は　この地球にあまねく行き渡った
+
+神は　なぜ行きて再び帰られないのか
+神は　お気づきになっておられるのか
+天空と未来を　烽火が覆っていることを
+
+救いもなく　凍てついたまなざし
+悲憤に涙し　天の果てを見つめる
+訴える　戦争で傷つくのは結局子どもたちなんだと
+
+僕は世界に呼びかける
+AMANI NAKUPENDA
+NAKUPENDA WE WE
+TUNA TAKA WE WE
+( 繰り返し　繰り返し　呼びかける）
+AMANI NAKUPENDA
+NAKUPENDA WE WE
+
+空を　鳥は飛ぶ
+せわしなく翼をはためかせて
+ただ自由を求め　天の果てにすべるように消える
+心は　あまたのあいに痛んで
+今の世の全ての困難は
+真理が地球から消え去ったのだと匂わせる
+
+権力と物欲の戦い
+愚かで頑なな争い
+ここで戦いつづけたら もう平和はやって来やしない
+```
+
+
+### B. ウォン・ガークィ
+
+| 原 名：      |     黄 家駒 Wong Ka Kui ウォン・ガークィ |
+|:-------------|-----------------------------------------:|
+| 英 名：      |                                     無し |
+| 愛 称：      |                           ＫＯＭＡ(コマ) |
+| 生年月日：   |                            1962年6月10日 |
+| 星 座：      |                                   双子座 |
+| 干 支：      |                                       虎 |
+| 本 籍：      |                               広東省台山 |
+| 出生地：     |                                     香港 |
+| 身 長：      |                                  約171cm |
+| 体 重：      |                                   約61kg |
+| 血液型：     |                                     Ａ型 |
+| 担当パート： |                       ヴォーカル、ギター |
+
+※ここでいう愛称とは日本デビューに際しての日本での呼ばれ方のことです。
+
+  香港のミュージックシーン(外国のカバー曲ばかり、ゆったりとしたバラード曲ばかり)を変えるために戦った偉大な天才音楽家。日本でテレビ出演した際「香港には自分の好きな音楽がない。だから自分達で創るんだ（香港では生き残るのが難しいといわれているバンドを続けていくんだ）」と語っていた(事実、活動を十数年も続けているバンドはBEYOND意外にない!!)。彼の偉大さを象徴するようにBEYONDのバンドルームには家駒の胸像が飾られている!!!弟の家強とはすごく仲がいい(日本のバンドでは考えられないくらいメンバーは皆すごく仲がいい）。愛称である「KOMA」はもちろん、彼の名前に使われている「駒」の日本語読みで、彼は日本でデビューする前からすごく気に 入ってたらしい。
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/NrSZ0sCXIEQ" frameborder="0" allowfullscreen></iframe>
+
+
+### C. 日本の経済
+
+  日本人が愛国主義の**魂**が持ったら，戦後、日本の急速な経済回復と発展を日本に広めたい、一連の変更の、経済的、社会的政治的およびその他の側面の遺跡の中で、わずか数十年を取った。尊重日本の人口の利益は、グループの調和を意識しメンテナンスやグループの意識の統一、日本の経済発展のプロセスは、重要な役割を果たした。私が原因で日本のグループの意識を提案し、分析は、日本の社会経済開発と長所と短所、インスピレーション、参照するより良いことから日本のグループの意識の日本のグループの意識を説明様々なASEAN諸国の社会主義経済建設。
+
+
+
+## 第4章：付録
+
+
+### A. 文件の作り情報
+
+It's useful to record some information about how your file was created.
+  
+  * 文件の作り日付：2015-11-03
+  * `r R.version.string`
+  * R版本：`r getRversion()`
+  * `rmarkdown`パッケージの版本：`r packageVersion('rmarkdown')`
+  * 文件の版本：1.0.1（日本語版）
+  * 文件最後の更新日：`r Sys.Date()`
+  * 作者：[®γσ, Eng Lian Hu](http://rpubs.com/englianhu/ryoeng)
+  * ギットハブ：[ソースコード](https://github.com/Scibrokes/r-world)
+  * セションの追加した情報
+  
+```{r session-info, echo=FALSE, results='asis'}
+lubridate::now()
+devtools::session_info()$platform
+Sys.info()
+```
+
+
+### B. 参考文献
+
+  * You are feel free to create  your own webpage by R Markdown V2 by refer to [Document Templates](http://rmarkdown.rstudio.com/developer_document_templates.html?version=0.99.484&mode=server)
+  * `rticles` package version: `r packageVersion("rticles")`
+  * You can plot the shining map by using [REmap](http://lchiffon.github.io/REmap) package.
+  * You can also modify the layout of website by referring [Top Five CSS Customizations for R Presentations](http://rstudio-pubs-static.s3.amazonaws.com/27777_55697c3a476640caa0ad2099fe914ae5.html#/).
+  * [沪江：战后日本用了短短几十年的时间，在一片废墟上实现了政治、经济、社会等方面的一系列变革，促使日本经济迅速](http://bulo.hujiang.com/question/207833/)
+
+
+**Powered by - Copyright© Intellectual Property Rights of <img src='figure/oda-army.jpg' width='24'> [Scibrokes®](http://www.scibrokes.com)個人の経営企業**
+
+
