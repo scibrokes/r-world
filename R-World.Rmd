@@ -51,7 +51,7 @@ remap.init()
 ```
 
 ```{r read-data, echo=FALSE}
-## Setup a data frame format cities
+## Set a data frame format cities and randomly set country code
 data = data.frame(country=mapNames('world'), value=5*sample(178)+200)
 
 vec = c('Tokyo','Shanghai','New York','Sydney','London','Bangkok','Taipei',
