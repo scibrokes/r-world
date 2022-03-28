@@ -68,7 +68,7 @@ vec = c('Tokyo','Shanghai','New York','Sydney','London','Bangkok','Taipei',
 geodata = suppressAll(as.data.frame(cbind(geocode(vec),vec)))
 
 ## Design a line data.frame
-markLinedata = data.frame(origin=rep('Tokyo',54),destination = vec[-2])
+markLinedata = data.frame(origin=rep('Tokyo',54),destination = vec[-1])
 ```
 
 ```{r plot-map, echo=FALSE}
