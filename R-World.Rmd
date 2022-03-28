@@ -65,7 +65,7 @@ vec = c('Tokyo','Shanghai','New York','Sydney','London','Bangkok','Taipei',
         'Istanbul','Mexico City','Sapporo','Osaka','Ulaanbaatar','Vienna')
 
 ## Get world city geocode by ggmap
-geodata = suppressAll(as.data.frame(cbind(geocode(vec),vec)))
+geodata = suppressAll(as.data.frame(cbind(ggmap::geocode(vec),vec)))
 
 ## Design a line data.frame
 markLinedata = data.frame(origin=rep('Tokyo',54),destination = vec[-1])
@@ -78,7 +78,7 @@ p <- remapC(data, maptype='world',color=c('black','black'),
        markPointData=vec, markLineData=markLinedata, geoData=geodata)
 knitrREmap(p,local=F)
 ```
-  
+
   * Rooted from EDO, towards a global perspective.
   * 江戸に根ざし、世界の未来を展望する。
   * Radicata da EDO, in direzione un prospettiva globale.
