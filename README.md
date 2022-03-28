@@ -20,6 +20,7 @@ Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plo
 - [🇹🇼陸戰隊---英雄夢](https://youtu.be/uXJin6jdpeE)
 - [🇨🇳《真正男子汉》精彩看点: 男子汉主题曲首发热血沸腾唤醒英雄梦 Takes A Real Man Highlight:Theme Song](https://youtu.be/68i9IfIf4Xo)
 - [振兴中华🇨🇳🇹🇼共识，赢驷统一东南亚，拯救亚洲🌏的亚洲🌏人](https://vk.com/englianhu?w=wall611842020_84)
+- [List of country calling codes](https://en.wikipedia.org/wiki/List_of_country_calling_codes)
 
 ---
 
