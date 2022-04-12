@@ -26,10 +26,8 @@ output:
 
   人々は竜笛の声は竜の低吟みたい。あの神秘的な深い北インド笛は，恋は生みだしできる様に。日本薄いフルートから発出の声は、伝えられる天国からの神々様と同じ度数だ，その曲が素晴らしいだけじゃなくて，深奧の祕密と非常に非常に靈性的であるだね！えっえええええ！！！
 
-```{}
-It is the tear of the earth that keep her smiles in bloom.
+>It is the tear of the earth that keep her smiles in bloom.
 因著大地的淚水,使她的微笑常開不謝。
-```
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/g4uqQDXizO4?list=PL_g3Na7z0hQMBAhM0ASHD6ZH2XmIqqHwv" frameborder="0" allowfullscreen></iframe>
 
@@ -72,6 +70,12 @@ suppressMessages(library('BBmisc'))
 pkgs <- c('mosaic','devtools','lubridate','knitr','markdown','rmarkdown','REmap','ggmap')
 suppressAll(lib(pkgs)); rm(pkgs)
 
+knitr::opts_chunk$set(
+  message = FALSE, warning = FALSE, error = TRUE, 
+  autodep = TRUE, aniopts = 'loop', 
+  progress = TRUE, verbose = TRUE, 
+  cache = FALSE, cache.lazy = FALSE, result = 'asis')
+
 ## Reinitialize remap configuration
 remap.init()
 ```
@@ -97,11 +101,18 @@ geodata = as.data.frame(cbind(geocode(vec),vec))
 markLinedata = data.frame(origin=rep('Tokyo',54),destination = vec[-1])
 ```
 
-```{r plot-map, echo=FALSE, result='asis'}
+```{r plot-map, echo=FALSE}
 ## Plot a shining World map
-remapC(data, maptype='world',color=c('black','black'),
-       theme=get_theme(backgroundColor='black'),
-       markPointData=vec, markLineData=markLinedata, geoData=geodata)
+tryCatch(
+        expr = {
+          remapC(data, maptype='world',color=c('black','black'),
+            theme=get_theme(backgroundColor='black'),
+            markPointData=vec, markLineData=markLinedata, geoData=geodata)
+          },
+        error = function(e){
+            message('<simpleError: Google now requires an API key\n       See ?register_google for details.>')
+            print(e)
+        })
 ```
   
   * Rooted from EDO, towards a global perspective.
@@ -131,29 +142,28 @@ remapC(data, maptype='world',color=c('black','black'),
 
   1曲目の[「AMANI」](https://www.youtube.com/watch?v=zxv3F99NpYk)はBEYONDがアフリカの子供たちを慰問したのをきっかけに生まれた曲で、反戦をテーマに掲げている(｢AMANI｣はスワヒリ語で｢平和｣の意)。後にBEYONDは、アフリカの子供たちのために「BEYOND第三世界基金」を設立している。10曲目の「完全的擁有」はドラムのWINGが初めてリードヴォーカルをとった曲。3曲目「不再猶豫」と6曲目「誰伴我闖蕩」はBEYOND主演映画「BEYOND日記之莫欺少年窮」の挿入歌となっている。 
 
-```{}
-平和（AMANI 訳詞）
+>平和（AMANI 訳詞）
 作曲：ウォン・ガークィ 　
 作詩：ウォン・ガークィ 　
-
+>
 AMANI NAKUPENDA
 NAKUPENDA WE WE
 ( 平和　愛　私たちに勇気を）
 AMANI NAKUPENDA
 NAKUPENDA WE WE
-
+>
 神は　この世の全てをつかさどり
 神の御歌は　愛を生まれさせ
 神の真理は　この地球にあまねく行き渡った
-
+>
 神は　なぜ行きて再び帰られないのか
 神は　お気づきになっておられるのか
 天空と未来を　烽火が覆っていることを
-
+>
 救いもなく　凍てついたまなざし
 悲憤に涙し　天の果てを見つめる
 訴える　戦争で傷つくのは結局子どもたちなんだと
-
+>
 僕は世界に呼びかける
 AMANI NAKUPENDA
 NAKUPENDA WE WE
@@ -161,19 +171,17 @@ TUNA TAKA WE WE
 ( 繰り返し　繰り返し　呼びかける）
 AMANI NAKUPENDA
 NAKUPENDA WE WE
-
+>
 空を　鳥は飛ぶ
 せわしなく翼をはためかせて
 ただ自由を求め　天の果てにすべるように消える
 心は　あまたのあいに痛んで
 今の世の全ての困難は
 真理が地球から消え去ったのだと匂わせる
-
+>
 権力と物欲の戦い
 愚かで頑なな争い
 ここで戦いつづけたら もう平和はやって来やしない
-```
-
 
 ### B. ウォン・ガークィ
 

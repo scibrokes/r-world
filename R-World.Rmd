@@ -41,8 +41,14 @@ if(!'REmap' %in% installed.packages()){
   install_github('lchiffon/REmap')}
 
 suppressPackageStartupMessages(library('BBmisc'))
-pkgs <- c('devtools','htmltools','REmap','ggmap','lubridate')
+pkgs <- c('knitr', 'devtools','htmltools','REmap','ggmap','lubridate')
 suppressAll(lib(pkgs)); rm(pkgs)
+
+knitr::opts_chunk$set(
+  message = FALSE, warning = FALSE, error = TRUE, 
+  autodep = TRUE, aniopts = 'loop', 
+  progress = TRUE, verbose = TRUE, 
+  cache = FALSE, cache.lazy = FALSE, result = 'asis')
 ```
 
 ```{r REmap-setting, echo=FALSE}
@@ -65,7 +71,14 @@ vec = c('Tokyo','Shanghai','New York','Sydney','London','Bangkok','Taipei',
         'Istanbul','Mexico City','Sapporo','Osaka','Ulaanbaatar','Vienna')
 
 ## Get world city geocode by ggmap
-geodata = suppressAll(as.data.frame(cbind(ggmap::geocode(vec),vec)))
+geodata = tryCatch(
+        expr = {
+          suppressAll(as.data.frame(cbind(ggmap::geocode(vec),vec)))
+          },
+        error = function(e){
+            message('<simpleError: Google now requires an API key\n       See ?register_google for details.>')
+            print(e)
+        })
 
 ## Design a line data.frame
 markLinedata = data.frame(origin=rep('Tokyo',54),destination = vec[-1])
@@ -73,10 +86,24 @@ markLinedata = data.frame(origin=rep('Tokyo',54),destination = vec[-1])
 
 ```{r plot-map, echo=FALSE}
 ## Plot the REmap shining 
-p <- remapC(data, maptype='world',color=c('black','black'),
-       theme=get_theme(backgroundColor='black'),
-       markPointData=vec, markLineData=markLinedata, geoData=geodata)
-knitrREmap(p,local=F)
+p <- tryCatch(
+        expr = {
+          remapC(data, maptype='world',color=c('black','black'),
+            theme=get_theme(backgroundColor='black'),
+            markPointData=vec, markLineData=markLinedata, geoData=geodata)},
+        error = function(e){
+            message('<simpleError: Google now requires an API key\n       See ?register_google for details.>')
+            print(e)
+        })
+
+tryCatch(
+        expr = {
+          knitrREmap(p,local=F)
+          },
+        error = function(e){
+            message('<simpleError: Google now requires an API key\n       See ?register_google for details.>')
+            print(e)
+        })
 ```
 
   * Rooted from EDO, towards a global perspective.
