@@ -41,7 +41,7 @@ if(!'REmap' %in% installed.packages()){
   install_github('lchiffon/REmap')}
 
 suppressPackageStartupMessages(library('BBmisc'))
-pkgs <- c('knitr', 'devtools','htmltools','REmap','ggmap','lubridate')
+pkgs <- c('knitr', 'devtools', 'htmltools', 'REmap', 'ggmap', 'maps', 'maptools', 'lubridate')
 suppressAll(lib(pkgs)); rm(pkgs)
 
 knitr::opts_chunk$set(
