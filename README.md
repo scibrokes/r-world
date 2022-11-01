@@ -8,31 +8,37 @@
 
 Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plot a shinning map. <s>札幌起义，扎根江户，放眼全球。今の商業形勢が苛烈な競争に立ち向かい、国家富強の道を歩まねばなりませんでした。</s>
 
-🚩Great Britain = 大英帝国
-🚩Greater Chin = 大秦帝国/大秦赋
-🚩Republic of Chin = 大秦帝国/中华民国
-🚩Republic People of Chin = 大秦帝国/中华人民共和国
-🚩Greater Chinese = 大秦子民（爱民如子）
-🚩Oversea Greater Chinese = 海外大秦子民（爱民如子）
-🚩Oversea Greater Chinese Union = 海外大秦子民公会（秦孝公/姜太公 - 马华公会创办人🌟陈祯禄公爵，爱民如子）
+<br><br>
 
-《赢家ξng黄氏江夏堂大秦赋 - 关雎🇬🇧✝芈拉》
-🚩关关雎鸠，在河之洲；
-🚩窈窕淑女，君子好逑。
-🚩高频量化，对冲基金；
-🚩北京大学，统计之都。
-🚩大秦子民，商鞅变法；
-🚩根除巫裔，铲除Judi。（🕋☪回教博彩庄）
-🚩焚经坑巫，终止巫术；
-🚩终止屠杀，拯救全球。
-🚩巫裔尽弃，瓦釜雷鸣；
-🚩百家争鸣，振兴中华。
-🚩中科红旗，同舟共济；
-🚩学海无涯，唯勤是岸。
-🚩一带一路，习李经济；
-🚩大秦帝国，横跨七洲。
-🚩史无前例，一统天下；
-🚩不忘初心，方得始终。
+🚩Great Britain = 大英帝国<br>
+🚩Greater Chin = 大秦帝国/大秦赋<br>
+🚩Republic of Chin = 大秦帝国/中华民国<br>
+🚩Republic People of Chin = 大秦帝国/中华人民共和国<br>
+🚩Greater Chinese = 大秦子民（爱民如子）<br>
+🚩Oversea Greater Chinese = 海外大秦子民（爱民如子）<br>
+🚩Oversea Greater Chinese Union = 海外大秦子民公会（秦孝公/姜太公 - 马华公会创办人🌟陈祯禄公爵，爱民如子）<br>
+
+<br><br>
+
+《赢家ξng黄氏江夏堂大秦赋 - 关雎🇬🇧✝芈拉》<br>
+🚩关关雎鸠，在河之洲；<br>
+🚩窈窕淑女，君子好逑。<br>
+🚩高频量化，对冲基金；<br>
+🚩北京大学，统计之都。<br>
+🚩大秦子民，商鞅变法；<br>
+🚩根除巫裔，铲除Judi。（🕋☪回教博彩庄）<br>
+🚩焚经坑巫，终止巫术；<br>
+🚩终止屠杀，拯救全球。<br>
+🚩巫裔尽弃，瓦釜雷鸣；<br>
+🚩百家争鸣，振兴中华。<br>
+🚩中科红旗，同舟共济；<br>
+🚩学海无涯，唯勤是岸。<br>
+🚩一带一路，习李经济；<br>
+🚩大秦帝国，横跨七洲。<br>
+🚩史无前例，一统天下；<br>
+🚩不忘初心，方得始终。<br>
+
+<br>
 
 <img src="figure/ECharts.png" width="598"/>
 
