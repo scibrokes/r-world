@@ -8,7 +8,7 @@
 
 Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plot a shinning map. <s>札幌起义，扎根江户，放眼全球。今の商業形勢が苛烈な競争に立ち向かい、国家富強の道を歩まねばなりませんでした。</s>
 
-<br><br>
+<br>
 
 🚩Great Britain = 大英帝国<br>
 🚩Greater Chin = 大秦帝国/大秦赋<br>
@@ -18,7 +18,7 @@ Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plo
 🚩Oversea Greater Chinese = 海外大秦子民（爱民如子）<br>
 🚩Oversea Greater Chinese Union = 海外大秦子民公会（秦孝公/姜太公 - 马华公会创办人🌟陈祯禄公爵，爱民如子）<br>
 
-<br><br>
+<br>
 
 《赢家ξng黄氏江夏堂大秦赋 - 关雎🇬🇧✝芈拉》<br>
 🚩关关雎鸠，在河之洲；<br>
@@ -26,7 +26,7 @@ Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plo
 🚩高频量化，对冲基金；<br>
 🚩北京大学，统计之都。<br>
 🚩大秦子民，商鞅变法；<br>
-🚩根除巫裔，铲除Judi。（🕋☪回教博彩庄）<br>
+🚩根除巫裔，铲除Judi。（Judi🕋☪回教博彩庄）<br>
 🚩焚经坑巫，终止巫术；<br>
 🚩终止屠杀，拯救全球。<br>
 🚩巫裔尽弃，瓦釜雷鸣；<br>
@@ -44,7 +44,7 @@ Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plo
 
 ![](figure/ECharts.gif)
 
-油管：[笑傲江户 --- 英雄梦](https://youtu.be/LyJKz4-RUhs)
+*油管：[笑傲江户 --- 英雄梦](https://youtu.be/LyJKz4-RUhs)*
 
 `ggmap`程序包或`REmap`需要读取地图的经度与纬度，谷歌地图虽无需提供身份证，不过需要开通/注册谷歌技术开发人员的谷歌云端付费账户；而百度地图，则需要中国身份证才能开通/注册百度技术开发人员。这儿介绍个[simplemaps](https://simplemaps.com/data/world-cities)网站，不收费且一键下载使用，数据更新至最新月份。
 
