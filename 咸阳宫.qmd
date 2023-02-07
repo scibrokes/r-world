@@ -21,12 +21,16 @@ editor: source
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
-## Bullets
+## 诗经.秦风
 
-When you click the **Render** button a document will be generated that includes:
+《无衣》
 
--   Content authored with markdown
--   Output from executable code
+岂曰无衣？与子同袍。王于兴师，修我戈矛。与子同仇！
+译 谁说我们没衣穿？与你同穿那长袍。君王发兵去交战，修整我那戈与矛，杀敌与你同目标。 
+岂曰无衣？与子同泽。王于兴师，修我矛戟。与子偕作！
+译 谁说我们没衣穿？与你同穿那内衣。君王发兵去交战，修整我那矛与戟，出发与你在一起。 
+岂曰无衣？与子同裳。王于兴师，修我甲兵。与子偕行！
+译 谁说我们没衣穿？与你同穿那战裙。君王发兵去交战，修整甲胄与刀兵，杀敌与你共前进。
 
 ## Code
 
