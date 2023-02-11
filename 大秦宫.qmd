@@ -103,7 +103,7 @@ When you click the **Render** button a presentation will be generated that inclu
 参考文献
 
 - [🚩🔆🏹🌟👊🚀🦔大秦赋：ξng赢家黄氏江夏堂 - 中华民族，北京大学；中科红旗，量化对冲。一带一路，史无前例；横跨七洲，一统天下。（中华民族、越族、英国NonMuslim洋妞儿都不可以死伤病痛被抓被禁锢、只杀Extreme Jodoh白骨巫贼王刘瑾貹bin Law/binti Law和巫婆bin Teo/binti Teo，葵花宝典AlQuran巫贼王商鞅/刘瑾貹变法/葵花宝典AlQuran巫贼王商鞅/张佳坤变法）](https://github.com/englianhu/library/issues/3)
-- [**四开本（Quarto）**幻灯片演示制作（R文艺坊英文官网）](https://quarto.org/docs/presentations)
+- [**四开秦谏（Pandoc based Quarto）**幻灯片演示制作（R文艺坊英文官网）](https://quarto.org/docs/presentations)
 - [HOW TO INCLUDE A PDF IN REVEAL.JS](https://www.wjst.de/blog/sciencesurf/2019/11/how-to-include-a-pdf-in-reveal-js)
 - [「文派」RUBY TEXT 2022-03-25](https://englianhu.wordpress.com/2022/03/26/ruby-text-2022-03-25)
 - []()
