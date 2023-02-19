@@ -127,7 +127,6 @@ editor: source
 
 <img src='文艺坊图库/咸阳宫.png' height='600'>
 
-
 ## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
 
 ### <ruby>阿<rp>(</rp><rt>ē</rt><rp>)</rp>房<rp>(</rp><rt>páng</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
@@ -175,21 +174,35 @@ editor: source
 
 ## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
 
-### <ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》玄术篇
+
+- 希腊神话、十二生肖、天干地支、人类行为学公式化，俗称「毛泽东Autobus之茅山道术」。
+- 「<ruby>商<rp>(</rp><rt>shāng</rt><rp>)</rp>鞅<rp>(</rp><rt>yāng</rt><rp>)</rp>变<rp>(</rp><rt>qín</rt><rp>)</rp>法<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>」如果不允许咱们马籍NonMuslim中华民族当家做主的话，就得把当家做主的Judi回教博彩庄和美国洋人政府所有公仆断肢，兴都教徒政府（大宝森节和屠妖节都是人身攻击政府）。
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》世博量化研究所
+
+- 计量经济学，宏观与微观经济分析公式化。
+- 量化对冲，发展数学、科学、科技、金融业、农业、外汇、天然资源、能源等商品、贸易。
+- 量化分析，分析各行各业，包括农产品、天气、商业销售、客户群、市场、人口、经济、工程、金融业、贸易、产品品质、投资与回酬率、业绩、购物篮分析、客户购物喜好、人类行为学。
+- 联合「中科红旗」，红旗革命、红旗礼逆袭操作系统。
+- 世界史、世界文明、世界军事、世界经济等。
+- 希腊神话、十二生肖、天干地支、人类行为学公式化，俗称「毛泽东Autobus之茅山道术」。
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》文化篇
 
 - 六四学术始祖嬴政、孔子、墨子、兵马俑
-- 中科红旗
-- 经管之家
-- 统计之都
-- 运筹帷幄（Posit、Posix）
-- 孔子学院
-- 马来西亚华夏同盟会
-- 中国文化中心
-- 一带一路
-- 林连玉基金
-- IOI集团
-- 厦门大学
-- 明智国民华校
+- 孔子学院（中企）
+- 马来西亚华夏同盟会（马企）
+- 中国文化中心（中企）
+- 南天宫•盘古庙（马企）
+- 南兴玻璃集团，售卖兵马俑（马企）
+- 添裕五金，售卖兵马俑（马企）
+- 乐发集团（中企）
+- 世博量化研究所（马企）
 
 <style>
     .reveal section p {
@@ -202,15 +215,73 @@ editor: source
 
 ## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
 
-### <ruby>兵<rp>(</rp><rt>bīng</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp>俑<rp>(</rp><rt>yōng</rt><rp>)</rp></ruby>
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》学术金融科技篇
+
+- 中科红旗（中企）
+- 经管之家（中企）
+- 统计之都（中企）
+- 中关村在线（中企）
+- 知乎（中企）
+- 简书（中企）
+- B站（中企）
+- 运筹帷幄（Posit、Posix）（美企）
+- 中国驻马来西亚大使馆（中政）
+- 一带一路（中企）
+- 林连玉基金（马企）
+- IOI集团（马企）
+- 厦门大学（中企）
+- 明智国民华校
+- 适耕庄米厂（马企）
+- 乐发集团（中企）
+- 世博量化研究所
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》士农工商篇
+
+- 燕房
+- 南兴玻璃集团，售卖兵马俑
+- 添裕五金，售卖兵马俑
+- IOI集团，合资建工厂
+- 太阳能发电能源厂
+- 中国驻马来西亚大使馆（中政）
+- 一带一路
+- 乐发集团（中企）
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》兵法篇
+
+- 民警
+- 民兵
+- 
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### <ruby>黄<rp>(</rp><rt>qín</rt><rp>)</rp>埔<rp>(</rp><rt>qín</rt><rp>)</rp>军<rp>(</rp><rt>qín</rt><rp>)</rp>校<rp>(</rp><rt>qín</rt><rp>)</rp>兵<rp>(</rp><rt>bīng</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp>俑<rp>(</rp><rt>yōng</rt><rp>)</rp></ruby>
 
 ![](文艺坊图库/兵马俑 Terracotta Warriors.png)
 
 ## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
 
-### 诗经•秦风
+### <ruby>黄<rp>(</rp><rt>qín</rt><rp>)</rp>埔<rp>(</rp><rt>qín</rt><rp>)</rp>军<rp>(</rp><rt>qín</rt><rp>)</rp>校<rp>(</rp><rt>qín</rt><rp>)</rp>蕲<rp>(</rp><rt>qí</rt><rp>)</rp>年<rp>(</rp><rt>nián</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>（青瓦换黄瓦）
 
-**《无衣》**
+![](文艺坊图库/蕲年宫（青瓦换黄瓦）.png)
+
+- 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》<ruby>雍<rp>(</rp><rt>yōng</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp>蕲<rp>(</rp><rt>qí</rt><rp>)</rp>年<rp>(</rp><rt>nián</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>，建立《蕲年宫》，青瓦换黄瓦；手刃巫贼王。
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《诗经•秦风》无衣
 
 > 岂曰无衣？与子同袍。王于兴师，修我戈矛。与子同仇！
 
