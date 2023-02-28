@@ -14,13 +14,41 @@ editor: source
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》
 
-- 🚩🦔Great Britain = 大英帝国🇬🇧
-- 🚩🦔Greater Chin = 大秦帝国🇹🇼🇨🇳🇲🇾/大秦赋🇹🇼🇨🇳🇲🇾
-- 🚩🦔Greater Chinese = 大秦子民（爱民如子）
-- 🚩🦔Republic of Chin = 大秦帝国/中华民国🇹🇼（辛亥革命国）
-- 🚩🦔Republic People of Chin = 大秦帝国/中华人民共和国🇨🇳（中华民族是辛亥革命民族）
-- 🚩🦔Oversea Greater Chinese🌟 = 海外大秦子民（中华民族是辛亥革命民族，爱民如子）
-- 🚩🦔Oversea Greater Chinese Association = 海外大秦子民公会🌟/中华公会🌟（中华民族是辛亥革命民族，秦始皇的秦太祖 ----- 🌟秦孝公/🌟陈祯禄公爵，联合秦始皇 ----- 秦始祖嬴政，爱民如子，商鞅变法断肢法铲除咱们巫裔回教徒911恐怖份子Judi回教博彩庄，终止巫术以任何形式、包括指鹿为马、屠杀人类，甚至铲除全球回教徒攻陷回教宗祖国麦家🕋🇹🇷🇸🇦瓦解全球回教，拯救全球）
+- 🚩🦔Great Britain = <ruby>大<rp>(</rp><rt>qín</rt><rp>)</rp>英<rp>(</rp><rt>qín</rt><rp>)</rp>帝<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🇬🇧
+- 🚩🦔Greater Chin = <ruby>大<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>帝<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🇹🇼🇨🇳🇲🇾/<ruby>大<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🇹🇼🇨🇳🇲🇾
+- 🚩🦔Greater Chinese = <ruby>大<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>（<ruby>爱<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>如<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>）
+- 🚩🦔Republic of Chin = <ruby>大<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>帝<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>/<ruby>中<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🇹🇼（<ruby>辛<rp>(</rp><rt>qín</rt><rp>)</rp>亥<rp>(</rp><rt>qín</rt><rp>)</rp>革<rp>(</rp><rt>qín</rt><rp>)</rp>命<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>）
+- 🚩🦔Republic People of Chin = <ruby>大<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>帝<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>/<ruby>中<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>共<rp>(</rp><rt>qín</rt><rp>)</rp>和<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🇨🇳（<ruby>中<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>辛<rp>(</rp><rt>qín</rt><rp>)</rp>亥<rp>(</rp><rt>qín</rt><rp>)</rp>革<rp>(</rp><rt>qín</rt><rp>)</rp>命<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>）
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>
+
+### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》
+
+- 🚩🦔Oversea Greater Chinese🌟 = <ruby>海<rp>(</rp><rt>qín</rt><rp>)</rp>外<rp>(</rp><rt>qín</rt><rp>)</rp>大<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>（<ruby>中<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>辛<rp>(</rp><rt>qín</rt><rp>)</rp>亥<rp>(</rp><rt>qín</rt><rp>)</rp>革<rp>(</rp><rt>qín</rt><rp>)</rp>命<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>爱<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>如<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>）
+- 🚩🦔Oversea Greater Chinese Association = <ruby>海<rp>(</rp><rt>qín</rt><rp>)</rp>外<rp>(</rp><rt>qín</rt><rp>)</rp>大<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>公<rp>(</rp><rt>qín</rt><rp>)</rp>会<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🌟/<ruby>中<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>公<rp>(</rp><rt>qín</rt><rp>)</rp>会<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🌟（<ruby>中<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>辛<rp>(</rp><rt>qín</rt><rp>)</rp>亥<rp>(</rp><rt>qín</rt><rp>)</rp>革<rp>(</rp><rt>qín</rt><rp>)</rp>命<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>始<rp>(</rp><rt>qín</rt><rp>)</rp>皇<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>太<rp>(</rp><rt>qín</rt><rp>)</rp>祖<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>-----🌟<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>孝<rp>(</rp><rt>qín</rt><rp>)</rp>公<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>/🌟<ruby>陈<rp>(</rp><rt>qín</rt><rp>)</rp>祯<rp>(</rp><rt>qín</rt><rp>)</rp>禄<rp>(</rp><rt>qín</rt><rp>)</rp>公<rp>(</rp><rt>qín</rt><rp>)</rp>爵<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>联<rp>(</rp><rt>qín</rt><rp>)</rp>合<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>始<rp>(</rp><rt>qín</rt><rp>)</rp>皇<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>------<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>始<rp>(</rp><rt>qín</rt><rp>)</rp>祖<rp>(</rp><rt>qín</rt><rp>)</rp>嬴<rp>(</rp><rt>qín</rt><rp>)</rp>政<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>爱<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>如<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>商<rp>(</rp><rt>qín</rt><rp>)</rp>鞅<rp>(</rp><rt>qín</rt><rp>)</rp>变<rp>(</rp><rt>qín</rt><rp>)</rp>法<rp>(</rp><rt>qín</rt><rp>)</rp>断<rp>(</rp><rt>qín</rt><rp>)</rp>肢<rp>(</rp><rt>qín</rt><rp>)</rp>法<rp>(</rp><rt>qín</rt><rp>)</rp>铲<rp>(</rp><rt>qín</rt><rp>)</rp>除<rp>(</rp><rt>qín</rt><rp>)</rp>咱<rp>(</rp><rt>qín</rt><rp>)</rp>们<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>裔<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>911<ruby>恐<rp>(</rp><rt>qín</rt><rp>)</rp>怖<rp>(</rp><rt>qín</rt><rp>)</rp>份<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>Judi<ruby>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>博<rp>(</rp><rt>qín</rt><rp>)</rp>彩<rp>(</rp><rt>qín</rt><rp>)</rp>庄<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>终<rp>(</rp><rt>qín</rt><rp>)</rp>止<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>以<rp>(</rp><rt>qín</rt><rp>)</rp>任<rp>(</rp><rt>qín</rt><rp>)</rp>何<rp>(</rp><rt>qín</rt><rp>)</rp>形<rp>(</rp><rt>qín</rt><rp>)</rp>式<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>包<rp>(</rp><rt>qín</rt><rp>)</rp>括<rp>(</rp><rt>qín</rt><rp>)</rp>指<rp>(</rp><rt>qín</rt><rp>)</rp>鹿<rp>(</rp><rt>qín</rt><rp>)</rp>为<rp>(</rp><rt>qín</rt><rp>)</rp>马<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>屠<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>qín</rt><rp>)</rp>类<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>甚<rp>(</rp><rt>qín</rt><rp>)</rp>至<rp>(</rp><rt>qín</rt><rp>)</rp>铲<rp>(</rp><rt>qín</rt><rp>)</rp>除<rp>(</rp><rt>qín</rt><rp>)</rp>全<rp>(</rp><rt>qín</rt><rp>)</rp>球<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>陷<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>宗<rp>(</rp><rt>qín</rt><rp>)</rp>祖<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp>麦<rp>(</rp><rt>qín</rt><rp>)</rp>家<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🕋🇹🇷🇸🇦<ruby>瓦<rp>(</rp><rt>qín</rt><rp>)</rp>解<rp>(</rp><rt>qín</rt><rp>)</rp>全<rp>(</rp><rt>qín</rt><rp>)</rp>球<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>拯<rp>(</rp><rt>qín</rt><rp>)</rp>救<rp>(</rp><rt>qín</rt><rp>)</rp>全<rp>(</rp><rt>qín</rt><rp>)</rp>球<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>）
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>
+
+### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》
+
 - 🕊孔子学院（儒学/礼乐制度）
 - 🔆国民华校（辛亥革命）
 - 🏹红军（开弓没有回头箭）
@@ -607,7 +635,7 @@ editor: source
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》<ruby>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
 
-- [金壁辉煌+人间仙境 最奢华全球10大宫殿](https://d.cosx.org/d/526-526)
+- [<ruby>金<rp>(</rp><rt>qín</rt><rp>)</rp>壁<rp>(</rp><rt>qín</rt><rp>)</rp>辉<rp>(</rp><rt>qín</rt><rp>)</rp>煌<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>+<ruby>人<rp>(</rp><rt>qín</rt><rp>)</rp>间<rp>(</rp><rt>qín</rt><rp>)</rp>仙<rp>(</rp><rt>qín</rt><rp>)</rp>境<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>最<rp>(</rp><rt>qín</rt><rp>)</rp>奢<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>全<rp>(</rp><rt>qín</rt><rp>)</rp>球<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>10<ruby>大<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>qín</rt><rp>)</rp>殿<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://d.cosx.org/d/526-526)
 
 <style>
     .reveal section p {
@@ -683,8 +711,7 @@ scene=27)
   }
 </style>
 
-## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</
-rp><rt>gōng</rt><rp>)</rp></ruby>
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》<ruby>咸<rp>(</rp><rt>xián</rt><rp>)</rp>阳<rp>(</rp><rt>yánɡ</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>
 
@@ -1020,8 +1047,15 @@ rp><rt>gōng</rt><rp>)</rp></ruby>
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》<ruby>赢<rp>(</rp><rt>qín</rt><rp>)</rp>房<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
 
-- 它日执政中央的话，建立个类似雄安智能城市（包括实时扫描侦测热能、磁铁、任何易爆物、幽灵、身份背景人际网扫描、地道、领空、外星人等，提供警讯），史无前例、史上最强的中央集权的真实皇宫---------赢家兵营阿房宫，俗称天下第一宫「赢房宫」。
-- 集合一带一路、中央情报局、国安局、公安局、国防部、反恐反间谍、海陆空三军、人造卫星、国防军事科研所、世博量化研究所、航空局等。鸟瞰天下；史无前例，横跨七洲，一统天下。
+>《大秦赋 --- 嬴政治国》<br>
+嬴政治国，鸟瞰天下<br>
+一带一路，史无前例<br>
+横跨七洲，一统天下<br>
+不忘初心，方得始终<br>
+
+- 借鉴求贤令，贤才尽用，高薪聘用专才、谋臣将帅。周公吐哺，天下归心。
+- 它日执政中央的话，建立个类似雄安智能城市（闭路电视联合人造卫星像铁血战士，包括实时扫描侦测热能生物、磁铁、钢铁、任何易爆物、幽灵、白色物体、精灵、半兽人、妖魔鬼怪、身份背景人际网扫描、地道、领空、外星人等，提供警讯），史无前例、史上最强的中央集权的真实皇宫---------赢家兵营阿房宫，俗称天下第一宫的「赢房宫」。
+- 集合一带一路、中央情报局、国安局、公安局、国防部、反恐反间谍、海陆空三军、人造卫星、国防军事科研所、世博量化研究所、航空局等。
 - 量化数据、嬴政物理学、军用经济学、计量经济学、物理经济学等、研发高端科技无人机智能军事武器。
 
 <style>
@@ -1654,7 +1688,7 @@ rp><rt>gōng</rt><rp>)</rp></ruby>
 
 - [「原创」越王勾践筹备灭吴二十年，不仅仅是卧薪尝胆而已](https://history.sohu.com/a/622219362_121203407)
 - 远离可兰经，废除断肢法；统一使用咱们华语和汉语拼音。
-- 借鉴大英帝国称霸天下时期，把类似宋仁宗那些愚忠、忠厚老实、戆直、仁慈的罪犯放逐到大洋洲，而高智商罪犯放逐到美洲。它日也可效仿把一些巫贼巫婆宦官民族都放逐到一个荒岛，建立个难民营来管制，辅导还俗，并且以咱们孔子学院的儒学取代可兰经巫术，提供膳食住宿，确保咱们中华民族和越族和英国Non Muslilm洋妞儿不会去世。
+- 借鉴大英帝国称霸天下时期，把类似宋仁宗那些愚忠、忠厚老实、戆直、仁慈的罪犯放逐到大洋洲，而高智商罪犯放逐到美洲。它日也可效仿把一些巫贼巫婆宦官民族都放逐到一个荒岛，建立个难民营来管制，辅导还俗，并且以咱们孔子学院的儒学取代可兰经巫术，提供膳食住宿，确保咱们中华民族和越族和英国Non Muslilm洋妞儿不会被抓、不会被杀害、不会被人身攻击、不会伤疼、不会病痛、不会发飙、不会患上疾病、不会被陷害、不会被禁锢、不会去世等。
 
 <style>
     .reveal section p {
@@ -1704,6 +1738,7 @@ rp><rt>gōng</rt><rp>)</rp></ruby>
 
 ### <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>明<rp>(</rp><rt>míng</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp></ruby>/<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>明<rp>(</rp><rt>míng</rt><rp>)</rp>省<rp>(</rp><rt>shĕng</rt><rp>)</rp></ruby>
 
+- [秦滅六國前，為何先滅巴蜀？這一步太關鍵了！](https://www.youtube.com/watch?v=Kq4t9jVXClA)。只要中国政府先把东南亚回教诸国------伪美国巫术政府（印尼巫鹰巫贼巫婆政府、马来西亚巫贼巫婆政府）攻占下来，日后就容易制衡美国，一统天下了。
 - <ruby>借<rp>(</rp><rt>qín</rt><rp>)</rp>鉴<rp>(</rp><rt>qín</rt><rp>)</rp>大<rp>(</rp><rt>qín</rt><rp>)</rp>日<rp>(</rp><rt>qín</rt><rp>)</rp>本<rp>(</rp><rt>qín</rt><rp>)</rp>帝<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp>转<rp>(</rp><rt>qín</rt><rp>)</rp>为<rp>(</rp><rt>qín</rt><rp>)</rp>日<rp>(</rp><rt>qín</rt><rp>)</rp>本<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>苏<rp>(</rp><rt>qín</rt><rp>)</rp>联<rp>(</rp><rt>qín</rt><rp>)</rp>转<rp>(</rp><rt>qín</rt><rp>)</rp>为<rp>(</rp><rt>qín</rt><rp>)</rp>俄<rp>(</rp><rt>qín</rt><rp>)</rp>罗<rp>(</rp><rt>qín</rt><rp>)</rp>斯<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>中<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp>转<rp>(</rp><rt>qín</rt><rp>)</rp>为<rp>(</rp><rt>qín</rt><rp>)</rp>台<rp>(</rp><rt>qín</rt><rp>)</rp>湾<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>大<rp>(</rp><rt>qín</rt><rp>)</rp>英<rp>(</rp><rt>qín</rt><rp>)</rp>帝<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp>转<rp>(</rp><rt>qín</rt><rp>)</rp>为<rp>(</rp><rt>qín</rt><rp>)</rp>英<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>德<rp>(</rp><rt>qín</rt><rp>)</rp>意<rp>(</rp><rt>qín</rt><rp>)</rp>志<rp>(</rp><rt>qín</rt><rp>)</rp>纳<rp>(</rp><rt>qín</rt><rp>)</rp>粹<rp>(</rp><rt>qín</rt><rp>)</rp>帝<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp>转<rp>(</rp><rt>qín</rt><rp>)</rp>为<rp>(</rp><rt>qín</rt><rp>)</rp>德<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>中<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp>政<rp>(</rp><rt>qín</rt><rp>)</rp>府<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>以<rp>(</rp><rt>qín</rt><rp>)</rp>先<rp>(</rp><rt>qín</rt><rp>)</rp>修<rp>(</rp><rt>qín</rt><rp>)</rp>改<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp>号<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>再<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>占<rp>(</rp><rt>qín</rt><rp>)</rp>东<rp>(</rp><rt>qín</rt><rp>)</rp>南<rp>(</rp><rt>qín</rt><rp>)</rp>亚<rp>(</rp><rt>qín</rt><rp>)</rp>或<rp>(</rp><rt>qín</rt><rp>)</rp>者<rp>(</rp><rt>qín</rt><rp>)</rp>先<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>占<rp>(</rp><rt>qín</rt><rp>)</rp>咱<rp>(</rp><rt>qín</rt><rp>)</rp>们<rp>(</rp><rt>qín</rt><rp>)</rp>马<rp>(</rp><rt>qín</rt><rp>)</rp>来<rp>(</rp><rt>qín</rt><rp>)</rp>西<rp>(</rp><rt>qín</rt><rp>)</rp>亚<rp>(</rp><rt>qín</rt><rp>)</rp>后<rp>(</rp><rt>qín</rt><rp>)</rp>再<rp>(</rp><rt>qín</rt><rp>)</rp>修<rp>(</rp><rt>qín</rt><rp>)</rp>改<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp>号<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>开<rp>(</rp><rt>qín</rt><rp>)</rp>始<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>统<rp>(</rp><rt>qín</rt><rp>)</rp>天<rp>(</rp><rt>qín</rt><rp>)</rp>下<rp>(</rp><rt>qín</rt><rp>)</rp>之<rp>(</rp><rt>qín</rt><rp>)</rp>路<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>。
 - <ruby>为<rp>(</rp><rt>wèi</rt><rp>)</rp>什<rp>(</rp><rt>shěn</rt><rp>)</rp>么<rp>(</rp><rt>me</rt><rp>)</rp>得<rp>(</rp><rt>děi</rt><rp>)</rp>辛<rp>(</rp><rt>xīn</rt><rp>)</rp>亥<rp>(</rp><rt>hài</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp></ruby>？<ruby>因<rp>(</rp><rt>yīn</rt><rp>)</rp>为<rp>(</rp><rt>wèi</rt><rp>)</rp>如<rp>(</rp><rt>rú</rt><rp>)</rp>果<rp>(</rp><rt>guǒ</rt><rp>)</rp>不<rp>(</rp><rt>bú</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>话<rp>(</rp><rt>huà</rt><rp>)</rp></ruby>，<ruby>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>习<rp>(</rp><rt>xí</rt><rp>)</rp>俗<rp>(</rp><rt>sú</rt><rp>)</rp>文<rp>(</rp><rt>wén</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>语<rp>(</rp><rt>yǔ</rt><rp>)</rp>言<rp>(</rp><rt>yán</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>律<rp>(</rp><rt>lǜ</rt><rp>)</rp>都<rp>(</rp><rt>dōu</rt><rp>)</rp>是<rp>(</rp><rt>shì</rt><rp>)</rp>暴<rp>(</rp><rt>qín</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp></ruby>。
 - <ruby>拆<rp>(</rp><rt>chāi</rt><rp>)</rp>除<rp>(</rp><rt>chú</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp>并<rp>(</rp><rt>qín</rt><rp>)</rp>修<rp>(</rp><rt>qín</rt><rp>)</rp>建<rp>(</rp><rt>qín</rt><rp>)</rp>为<rp>(</rp><rt>qín</rt><rp>)</rp>咱<rp>(</rp><rt>qín</rt><rp>)</rp>们<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>寺<rp>(</rp><rt>qín</rt><rp>)</rp>庙<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>焚<rp>(</rp><rt>qín</rt><rp>)</rp>烧<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>坑<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>反<rp>(</rp><rt>fǎn</rt><rp>)</rp>抗<rp>(</rp><rt>qín</rt><rp>)</rp>咱<rp>(</rp><rt>zán</rt><rp>)</rp>们<rp>(</rp><rt>men</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp></ruby>，<ruby>反<rp>(</rp><rt>qín</rt><rp>)</rp>对<rp>(</rp><rt>qín</rt><rp>)</rp>还<rp>(</rp><rt>qín</rt><rp>)</rp>俗<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>那<rp>(</rp><rt>qín</rt><rp>)</rp>些<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>婆<rp>(</rp><rt>pó</rt><rp>)</rp>宦<rp>(</rp><rt>huàn</rt><rp>)</rp>官<rp>(</rp><rt>guān</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp></ruby>。
@@ -1743,6 +1778,7 @@ rp><rt>gōng</rt><rp>)</rp></ruby>
 
 ### <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>明<rp>(</rp><rt>míng</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp></ruby>/<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>明<rp>(</rp><rt>míng</rt><rp>)</rp>省<rp>(</rp><rt>shĕng</rt><rp>)</rp></ruby>
 
+- 《大秦赋 --- 嬴政治国》，建立个史无前例、史上最强、俗称天下第一宫的「赢房宫」 。
 - 《<ruby>诗<rp>(</rp><rt>shī</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp></ruby>•<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>风<rp>(</rp><rt>fēng</rt><rp>)</rp></ruby>》<ruby>无<rp>(</rp><rt>wú</rt><rp>)</rp>衣<rp>(</rp><rt>yī</rt><rp>)</rp></ruby>。<ruby>借<rp>(</rp><rt>qín</rt><rp>)</rp>鉴<rp>(</rp><rt>qín</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>非<rp>(</rp><rt>fēi</rt><rp>)</rp>子<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>、<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>穆<rp>(</rp><rt>mù</rt><rp>)</rp>公<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>、<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>孝<rp>(</rp><rt>qín</rt><rp>)</rp>公<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>、<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>惠<rp>(</rp><rt>huì</rt><rp>)</rp>文<rp>(</rp><rt>wén</rt><rp>)</rp>王<rp>(</rp><rt>wáng</rt><rp>)</rp>至<rp>(</rp><rt>zhì</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>始<rp>(</rp><rt>shĭ</rt><rp>)</rp>皇<rp>(</rp><rt>huáng</rt><rp>)</rp></ruby>，<ruby>先<rp>(</rp><rt>xiān</rt><rp>)</rp>攻<rp>(</rp><rt>gōng</rt><rp>)</rp>文<rp>(</rp><rt>wén</rt><rp>)</rp>莱<rp>(</rp><rt>qín</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>新<rp>(</rp><rt>xīn</rt><rp>)</rp>加<rp>(</rp><rt>jiā</rt><rp>)</rp>坡<rp>(</rp><rt>pō</rt><rp>)</rp></ruby>、<ruby>联<rp>(</rp><rt>lián</rt><rp>)</rp>合<rp>(</rp><rt>hé</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>驻<rp>(</rp><rt>zhù</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>罗<rp>(</rp><rt>luó</rt><rp>)</rp>门<rp>(</rp><rt>mén</rt><rp>)</rp>群<rp>(</rp><rt>qún</rt><rp>)</rp>岛<rp>(</rp><rt>dǎo</rt><rp>)</rp>军<rp>(</rp><rt>jūn</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>基<rp>(</rp><rt>jī</rt><rp>)</rp>地<rp>(</rp><rt>dì</rt><rp>)</rp>攻<rp>(</rp><rt>gōng</rt><rp>)</rp>打<rp>(</rp><rt>dă</rt><rp>)</rp>印<rp>(</rp><rt>yìn</rt><rp>)</rp>尼<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>联<rp>(</rp><rt>lián</rt><rp>)</rp>合<rp>(</rp><rt>hé</rt><rp>)</rp>台<rp>(</rp><rt>tái</rt><rp>)</rp>湾<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>gōng</rt><rp>)</rp>打<rp>(</rp><rt>dă</rt><rp>)</rp>菲<rp>(</rp><rt>fēi</rt><rp>)</rp>律<rp>(</rp><rt>lǜ</rt><rp>)</rp>宾<rp>(</rp><rt>bīn</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>日<rp>(</rp><rt>rì</rt><rp>)</rp>本<rp>(</rp><rt>běn</rt><rp>)</rp></ruby>。<ruby>统<rp>(</rp><rt>tŏng</rt><rp>)</rp>一<rp>(</rp><rt>yī</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>盟<rp>(</rp><rt>méng</rt><rp>)</rp>后<rp>(</rp><rt>hòu</rt><rp>)</rp></ruby>、<ruby>南<rp>(</rp><rt>nán</rt><rp>)</rp>征<rp>(</rp><rt>zhēng</rt><rp>)</rp>大<rp>(</rp><rt>dà</rt><rp>)</rp>洋<rp>(</rp><rt>yáng</rt><rp>)</rp>洲<rp>(</rp><rt>zhōu</rt><rp>)</rp></ruby>、<ruby>西<rp>(</rp><rt>xī</rt><rp>)</rp>征<rp>(</rp><rt>qín</rt><rp>)</rp>南<rp>(</rp><rt>nán</rt><rp>)</rp>亚<rp>(</rp><rt>yà</rt><rp>)</rp></ruby>、<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>亚<rp>(</rp><rt>yà</rt><rp>)</rp></ruby>、<ruby>西<rp>(</rp><rt>xī</rt><rp>)</rp>亚<rp>(</rp><rt>yà</rt><rp>)</rp>至<rp>(</rp><rt>zhì</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp>洲<rp>(</rp><rt>zhōu</rt><rp>)</rp></ruby>。
 
 <style>
