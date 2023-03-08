@@ -125,6 +125,21 @@ editor: source
 
 ### <ruby>从<rp>(</rp><rt>cóng</rt><rp>)</rp>满<rp>(</rp><rt>mǎn</rt><rp>)</rp>洲<rp>(</rp><rt>zhōu</rt><rp>)</rp></ruby>，<ruby>到<rp>(</rp><rt>dào</rt><rp>)</rp>星<rp>(</rp><rt>xīng</rt><rp>)</rp>洲<rp>(</rp><rt>zhōu</rt><rp>)</rp></ruby>
 
+<img src='文艺坊图库/中国人后裔陈祯禄公爵，不忘初心方得始终.png' height='600'>
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>
+
+### <ruby>从<rp>(</rp><rt>cóng</rt><rp>)</rp>满<rp>(</rp><rt>mǎn</rt><rp>)</rp>洲<rp>(</rp><rt>zhōu</rt><rp>)</rp></ruby>，<ruby>到<rp>(</rp><rt>dào</rt><rp>)</rp>星<rp>(</rp><rt>xīng</rt><rp>)</rp>洲<rp>(</rp><rt>zhōu</rt><rp>)</rp></ruby>
+
 <img src='文艺坊图库/巫贼巫婆宦官民族暴政屠杀罪，人口大减.png' height='600'>
 
 >「<ruby>拿<rp>(</rp><rt>ná</rt><rp>)</rp>督<rp>(</rp><rt>dū</rt><rp>)</rp>公<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>」<ruby>是<rp>(</rp><rt>shì</rt><rp>)</rp>戴<rp>(</rp><rt>dài</rt><rp>)</rp>乌<rp>(</rp><rt>wū</rt><rp>)</rp>纱<rp>(</rp><rt>shā</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>婆<rp>(</rp><rt>pó</rt><rp>)</rp>宦<rp>(</rp><rt>huàn</rt><rp>)</rp>官<rp>(</rp><rt>guān</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp></ruby>------<ruby>伪<rp>(</rp><rt>wěi</rt><rp>)</rp>神<rp>(</rp><rt>shén</rt><rp>)</rp>明<rp>(</rp><rt>míng</rt><rp>)</rp></ruby>，<ruby>实<rp>(</rp><rt>shí</rt><rp>)</rp>乃<rp>(</rp><rt>nǎi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>婆<rp>(</rp><rt>pó</rt><rp>)</rp>暴<rp>(</rp><rt>qín</rt><rp>)</rp>政<rp>(</rp><rt>qín</rt><rp>)</rp>与<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>屠<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>shì</rt><rp>)</rp>也<rp>(</rp><rt>yě</rt><rp>)</rp></ruby>。
@@ -797,6 +812,7 @@ editor: source
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》<ruby>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
 
 - [<ruby>金<rp>(</rp><rt>jīn</rt><rp>)</rp>壁<rp>(</rp><rt>bì</rt><rp>)</rp>辉<rp>(</rp><rt>huī</rt><rp>)</rp>煌<rp>(</rp><rt>huáng</rt><rp>)</rp></ruby>+<ruby>人<rp>(</rp><rt>rén</rt><rp>)</rp>间<rp>(</rp><rt>jiān</rt><rp>)</rp>仙<rp>(</rp><rt>xiān</rt><rp>)</rp>境<rp>(</rp><rt>jìng</rt><rp>)</rp></ruby>，<ruby>最<rp>(</rp><rt>zuì</rt><rp>)</rp>奢<rp>(</rp><rt>shē</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>全<rp>(</rp><rt>quán</rt><rp>)</rp>球<rp>(</rp><rt>qiú</rt><rp>)</rp></ruby>10<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>殿<rp>(</rp><rt>diàn</rt><rp>)</rp></ruby>](https://d.cosx.org/d/526-526)
+- 东南亚所有中华民族，几乎都是清末民初时期，漂洋过海到星洲的祖籍中国福建省永春县民族，而家翁姓名（黄永春 ξηg Tεηg 嬴政）又长得像数学家陈省身，辛亥革命的黄埔军校，身为赢家黄氏江夏堂族人，欲打造个中华文化中关村，将原本的峇东新村，改名为始祖永春庄或始祖永春乡。
 
 <style>
     .reveal section p {
