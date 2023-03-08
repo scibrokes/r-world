@@ -59,8 +59,9 @@ editor: source
 <ruby>院<rp>(</rp><rt>qín</rt><rp>)</rp>长<rp>(</rp><rt>qín</rt><rp>)</rp>兼<rp>(</rp><rt>qín</rt><rp>)</rp>元<rp>(</rp><rt>qín</rt><rp>)</rp>璋<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>；<br>
 <ruby>悟<rp>(</rp><rt>qín</rt><rp>)</rp>道<rp>(</rp><rt>qín</rt><rp>)</rp>批<rp>(</rp><rt>qín</rt><rp>)</rp>奏<rp>(</rp><rt>qín</rt><rp>)</rp>章<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>。<br>
 <ruby>校<rp>(</rp><rt>xiào</rt><rp>)</rp>长<rp>(</rp><rt>zhǎng</rt><rp>)</rp>兼<rp>(</rp><rt>jiān</rt><rp>)</rp>孝<rp>(</rp><rt>xiào</rt><rp>)</rp>公<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>；<br>
-<ruby>先<rp>(</rp><rt>xiān</rt><rp>)</rp>生<rp>(</rp><rt>shēng</rt><rp>)</rp>兼<rp>(</rp><rt>jiān</rt><rp>)</rp>敲<rp>(</rp><rt>qiāo</rt><rp>)</rp>钟<rp>(</rp><rt>zhōng</rt><rp>)</rp></ruby><br><br>
-<ruby>让<rp>(</rp><rt>ràng</rt><rp>)</rp>我<rp>(</rp><rt>wŏ</rt><rp>)</rp>们<rp>(</rp><rt>mén</rt><rp>)</rp>敲<rp>(</rp><rt>qiāo</rt><rp>)</rp>希<rp>(</rp><rt>xī</rt><rp>)</rp>望<rp>(</rp><rt>wàng</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>钟<rp>(</rp><rt>zhōng</rt><rp>)</rp>啊<rp>(</rp><rt>a</rt><rp>)</rp></ruby>...[《<ruby>祈<rp>(</rp><rt>qín</rt><rp>)</rp>祷<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>》🎶](https://www.bilibili.com/video/BV1xy4y1k7Y4)<ruby>让<rp>(</rp><rt>qín</rt><rp>)</rp>大<rp>(</rp><rt>qín</rt><rp>)</rp>家<rp>(</rp><rt>qín</rt><rp>)</rp>看<rp>(</rp><rt>qín</rt><rp>)</rp>不<rp>(</rp><rt>qín</rt><rp>)</rp>到<rp>(</rp><rt>qín</rt><rp>)</rp>失<rp>(</rp><rt>qín</rt><rp>)</rp>败<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>...<ruby>叫<rp>(</rp><rt>qín</rt><rp>)</rp>成<rp>(</rp><rt>qín</rt><rp>)</rp>功<rp>(</rp><rt>qín</rt><rp>)</rp>永<rp>(</rp><rt>qín</rt><rp>)</rp>远<rp>(</rp><rt>qín</rt><rp>)</rp>在<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>...<ruby>四<rp>(</rp><rt>qín</rt><rp>)</rp>季<rp>(</rp><rt>qín</rt><rp>)</rp>少<rp>(</rp><rt>qín</rt><rp>)</rp>了<rp>(</rp><rt>qín</rt><rp>)</rp>夏<rp>(</rp><rt>qín</rt><rp>)</rp>秋<rp>(</rp><rt>qín</rt><rp>)</rp>冬<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>...<ruby>太<rp>(</rp><rt>qín</rt><rp>)</rp>阳<rp>(</rp><rt>qín</rt><rp>)</rp>不<rp>(</rp><rt>qín</rt><rp>)</rp>西<rp>(</rp><rt>qín</rt><rp>)</rp>冲<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🎶
+<ruby>先<rp>(</rp><rt>xiān</rt><rp>)</rp>生<rp>(</rp><rt>shēng</rt><rp>)</rp>兼<rp>(</rp><rt>jiān</rt><rp>)</rp>敲<rp>(</rp><rt>qiāo</rt><rp>)</rp>钟<rp>(</rp><rt>zhōng</rt><rp>)</rp></ruby>。<br>
+<br>
+[《<ruby>祈<rp>(</rp><rt>qín</rt><rp>)</rp>祷<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🎶》](https://www.bilibili.com/video/BV1xy4y1k7Y4)<ruby>让<rp>(</rp><rt>ràng</rt><rp>)</rp>我<rp>(</rp><rt>wŏ</rt><rp>)</rp>们<rp>(</rp><rt>mén</rt><rp>)</rp>敲<rp>(</rp><rt>qiāo</rt><rp>)</rp>希<rp>(</rp><rt>xī</rt><rp>)</rp>望<rp>(</rp><rt>wàng</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>钟<rp>(</rp><rt>zhōng</rt><rp>)</rp>啊<rp>(</rp><rt>a</rt><rp>)</rp></ruby>...<ruby>让<rp>(</rp><rt>qín</rt><rp>)</rp>大<rp>(</rp><rt>qín</rt><rp>)</rp>家<rp>(</rp><rt>qín</rt><rp>)</rp>看<rp>(</rp><rt>qín</rt><rp>)</rp>不<rp>(</rp><rt>qín</rt><rp>)</rp>到<rp>(</rp><rt>qín</rt><rp>)</rp>失<rp>(</rp><rt>qín</rt><rp>)</rp>败<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>...<ruby>叫<rp>(</rp><rt>qín</rt><rp>)</rp>成<rp>(</rp><rt>qín</rt><rp>)</rp>功<rp>(</rp><rt>qín</rt><rp>)</rp>永<rp>(</rp><rt>qín</rt><rp>)</rp>远<rp>(</rp><rt>qín</rt><rp>)</rp>在<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>...<ruby>四<rp>(</rp><rt>qín</rt><rp>)</rp>季<rp>(</rp><rt>qín</rt><rp>)</rp>少<rp>(</rp><rt>qín</rt><rp>)</rp>了<rp>(</rp><rt>qín</rt><rp>)</rp>夏<rp>(</rp><rt>qín</rt><rp>)</rp>秋<rp>(</rp><rt>qín</rt><rp>)</rp>冬<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>...<ruby>太<rp>(</rp><rt>qín</rt><rp>)</rp>阳<rp>(</rp><rt>qín</rt><rp>)</rp>不<rp>(</rp><rt>qín</rt><rp>)</rp>西<rp>(</rp><rt>qín</rt><rp>)</rp>冲<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>🎶
 
 <style>
     .reveal section p {
@@ -128,6 +129,8 @@ editor: source
 
 <img src='文艺坊图库/中国人后裔陈祯禄公爵，不忘初心方得始终.png' height='500'>
 
+><ruby>由<rp>(</rp><rt>qín</rt><rp>)</rp>于<rp>(</rp><rt>qín</rt><rp>)</rp>历<rp>(</rp><rt>qín</rt><rp>)</rp>史<rp>(</rp><rt>qín</rt><rp>)</rp>原<rp>(</rp><rt>qín</rt><rp>)</rp>因<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>当<rp>(</rp><rt>qín</rt><rp>)</rp>初<rp>(</rp><rt>qín</rt><rp>)</rp>东<rp>(</rp><rt>qín</rt><rp>)</rp>南<rp>(</rp><rt>qín</rt><rp>)</rp>亚<rp>(</rp><rt>qín</rt><rp>)</rp>占<rp>(</rp><rt>qín</rt><rp>)</rp>有<rp>(</rp><rt>qín</rt><rp>)</rp>海<rp>(</rp><rt>qín</rt><rp>)</rp>外<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>八<rp>(</rp><rt>qín</rt><rp>)</rp>成<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>qín</rt><rp>)</rp>口<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>所<rp>(</rp><rt>qín</rt><rp>)</rp>以<rp>(</rp><rt>qín</rt><rp>)</rp>咱<rp>(</rp><rt>qín</rt><rp>)</rp>们<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>qín</rt><rp>)</rp>国<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>qín</rt><rp>)</rp>血<rp>(</rp><rt>qín</rt><rp>)</rp>统<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>陈<rp>(</rp><rt>qín</rt><rp>)</rp>祯<rp>(</rp><rt>qín</rt><rp>)</rp>禄<rp>(</rp><rt>qín</rt><rp>)</rp>公<rp>(</rp><rt>qín</rt><rp>)</rp>爵<rp>(</rp><rt>qín</rt><rp>)</rp>成<rp>(</rp><rt>qín</rt><rp>)</rp>立<rp>(</rp><rt>qín</rt><rp>)</rp>了<rp>(</rp><rt>qín</rt><rp>)</rp>个<rp>(</rp><rt>qín</rt><rp>)</rp>海<rp>(</rp><rt>qín</rt><rp>)</rp>外<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>qín</rt><rp>)</rp>公<rp>(</rp><rt>qín</rt><rp>)</rp>会<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>。
+
 <style>
     .reveal section p {
     display: inline-block;
@@ -142,6 +145,8 @@ editor: source
 ### <ruby>从<rp>(</rp><rt>cóng</rt><rp>)</rp>满<rp>(</rp><rt>mǎn</rt><rp>)</rp>洲<rp>(</rp><rt>zhōu</rt><rp>)</rp></ruby>，<ruby>到<rp>(</rp><rt>dào</rt><rp>)</rp>星<rp>(</rp><rt>xīng</rt><rp>)</rp>洲<rp>(</rp><rt>zhōu</rt><rp>)</rp></ruby>
 
 <img src='文艺坊图库/巫贼巫婆宦官民族暴政屠杀罪，人口大减.png' height='500'>
+<br>
+*出处：[马来西亚华裔占总人口比例预计2022年将降至22.8%](http://www.chinaqw.com/hqhr/2022/07-30/336639.shtml)*
 
 >「<ruby>拿<rp>(</rp><rt>ná</rt><rp>)</rp>督<rp>(</rp><rt>dū</rt><rp>)</rp>公<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>」<ruby>是<rp>(</rp><rt>shì</rt><rp>)</rp>戴<rp>(</rp><rt>dài</rt><rp>)</rp>乌<rp>(</rp><rt>wū</rt><rp>)</rp>纱<rp>(</rp><rt>shā</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>婆<rp>(</rp><rt>pó</rt><rp>)</rp>宦<rp>(</rp><rt>huàn</rt><rp>)</rp>官<rp>(</rp><rt>guān</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp></ruby>------<ruby>伪<rp>(</rp><rt>wěi</rt><rp>)</rp>神<rp>(</rp><rt>shén</rt><rp>)</rp>明<rp>(</rp><rt>míng</rt><rp>)</rp></ruby>，<ruby>实<rp>(</rp><rt>shí</rt><rp>)</rp>乃<rp>(</rp><rt>nǎi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>婆<rp>(</rp><rt>pó</rt><rp>)</rp>暴<rp>(</rp><rt>qín</rt><rp>)</rp>政<rp>(</rp><rt>qín</rt><rp>)</rp>与<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>屠<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>shì</rt><rp>)</rp>也<rp>(</rp><rt>yě</rt><rp>)</rp></ruby>。
 
@@ -177,7 +182,7 @@ editor: source
 
 ### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
 
-- 「<ruby>商<rp>(</rp><rt>shāng</rt><rp>)</rp>鞅<rp>(</rp><rt>yāng</rt><rp>)</rp>变<rp>(</rp><rt>biàn</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>」<ruby>咱<rp>(</rp><rt>zán</rt><rp>)</rp>们<rp>(</rp><rt>men</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>南<rp>(</rp><rt>nán</rt><rp>)</rp>亚<rp>(</rp><rt>yà</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>那<rp>(</rp><rt>nà</rt><rp>)</rp>些<rp>(</rp><rt>xiē</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>婆<rp>(</rp><rt>pó</rt><rp>)</rp>宦<rp>(</rp><rt>huàn</rt><rp>)</rp>官<rp>(</rp><rt>guān</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>九<rp>(</rp><rt>jiǔ</rt><rp>)</rp>一<rp>(</rp><rt>yāo</rt><rp>)</rp>一<rp>(</rp><rt>yāo</rt><rp>)</rp>恐<rp>(</rp><rt>kǒng</rt><rp>)</rp>怖<rp>(</rp><rt>bù</rt><rp>)</rp>份<rp>(</rp><rt>fèn</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>乌<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>兴<rp>(</rp><rt>xīng</rt><rp>)</rp>都<rp>(</rp><rt>dū</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp></ruby>（<ruby>屠<rp>(</rp><rt>tú</rt><rp>)</rp>妖<rp>(</rp><rt>yāo</rt><rp>)</rp>节<rp>(</rp><rt>jié</rt><rp>)</rp></ruby>/<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>宝<rp>(</rp><rt>bǎo</rt><rp>)</rp>森<rp>(</rp><rt>sēn</rt><rp>)</rp>节<rp>(</rp><rt>jié</rt><rp>)</rp></ruby>）<ruby>的<rp>(</rp><rt>de</rt><rp>)</rp>习<rp>(</rp><rt>xí</rt><rp>)</rp>俗<rp>(</rp><rt>sú</rt><rp>)</rp>文<rp>(</rp><rt>wén</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>语<rp>(</rp><rt>yǔ</rt><rp>)</rp>言<rp>(</rp><rt>yán</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>律<rp>(</rp><rt>lǜ</rt><rp>)</rp>是<rp>(</rp><rt>shì</rt><rp>)</rp>绝<rp>(</rp><rt>jué</rt><rp>)</rp>食<rp>(</rp><rt>shí</rt><rp>)</rp></ruby>、<ruby>自<rp>(</rp><rt>zì</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>自<rp>(</rp><rt>zì</rt><rp>)</rp>残<rp>(</rp><rt>cán</rt><rp>)</rp>自<rp>(</rp><rt>zì</rt><rp>)</rp>虐<rp>(</rp><rt>nüè</rt><rp>)</rp>自<rp>(</rp><rt>zì</rt><rp>)</rp>杀<rp>(</rp><rt>shā</rt><rp>)</rp></ruby>（<ruby>何<rp>(</rp><rt>hé</rt><rp>)</rp>不<rp>(</rp><rt>bù</rt><rp>)</rp>自<rp>(</rp><rt>zì</rt><rp>)</rp>缢<rp>(</rp><rt>yì</rt><rp>)</rp></ruby>、<ruby>自<rp>(</rp><rt>zì</rt><rp>)</rp>轰<rp>(</rp><rt>hōng</rt><rp>)</rp></ruby>）、<ruby>黥<rp>(</rp><rt>qíng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>劓<rp>(</rp><rt>yì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>刖<rp>(</rp><rt>yuè</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>醢<rp>(</rp><rt>hǎi</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>脯<rp>(</rp><rt>pú</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>焚<rp>(</rp><rt>fén</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>刳<rp>(</rp><rt>kū</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剔<rp>(</rp><rt>tī</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>烙<rp>(</rp><rt>lào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>炮<rp>(</rp><rt>páo</rt><rp>)</rp>烙<rp>(</rp><rt>luò</rt><rp>)</rp>之<rp>(</rp><rt>zhī</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剖<rp>(</rp><rt>pōu</rt><rp>)</rp>心<rp>(</rp><rt>xīn</rt><rp>)</rp></ruby>、<ruby>拶<rp>(</rp><rt>zā/zǎn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>夹<rp>(</rp><rt>jiá</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>石<rp>(</rp><rt>shí</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>汞<rp>(</rp><rt>gǒng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剁<rp>(</rp><rt>duò</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>髨<rp>(</rp><rt>kūn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>鞭<rp>(</rp><rt>biān</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>殆<rp>(</rp><rt>dài</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>磔<rp>(</rp><rt>zhé</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剐<rp>(</rp><rt>guǎ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>水<rp>(</rp><rt>shuǐ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>溺<rp>(</rp><rt>nì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>火<rp>(</rp><rt>huǒ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>炎<rp>(</rp><rt>yán</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>焱<rp>(</rp><rt>yàn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>冰<rp>(</rp><rt>bīng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>寒<rp>(</rp><rt>hán</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>冻<rp>(</rp><rt>dòng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剕<rp>(</rp><rt>fèi</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>殡<rp>(</rp><rt>bìn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>土<rp>(</rp><rt>tǔ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>坑<rp>(</rp><rt>kēng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>醺<rp>(</rp><rt>xūn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>蛇<rp>(</rp><rt>shé</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剥<rp>(</rp><rt>bāo</rt><rp>)</rp>皮<rp>(</rp><rt>pí</rt><rp>)</rp></ruby>、<ruby>腰<rp>(</rp><rt>yāo</rt><rp>)</rp>斩<rp>(</rp><rt>zhǎn</rt><rp>)</rp></ruby>、<ruby>车<rp>(</rp><rt>jū/chē</rt><rp>)</rp>裂<rp>(</rp><rt>liè</rt><rp>)</rp></ruby>、<ruby>俱<rp>(</rp><rt>jù</rt><rp>)</rp>五<rp>(</rp><rt>wǔ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>凌<rp>(</rp><rt>líng</rt><rp>)</rp>迟<rp>(</rp><rt>chí</rt><rp>)</rp></ruby>、<ruby>缢<rp>(</rp><rt>yì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>烹<rp>(</rp><rt>pēng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>蒸<rp>(</rp><rt>zhēng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>插<rp>(</rp><rt>chā</rt><rp>)</rp>针<rp>(</rp><rt>zhēn</rt><rp>)</rp></ruby>、<ruby>活<rp>(</rp><rt>huó</rt><rp>)</rp>埋<rp>(</rp><rt>mái</rt><rp>)</rp></ruby>、<ruby>蒸<rp>(</rp><rt>zhēng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>棍<rp>(</rp><rt>gùn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>锯<rp>(</rp><rt>jù</rt><rp>)</rp>割<rp>(</rp><rt>gē</rt><rp>)</rp></ruby>、<ruby>断<rp>(</rp><rt>duàn</rt><rp>)</rp>椎<rp>(</rp><rt>chuí</rt><rp>)</rp></ruby>、<ruby>灌<rp>(</rp><rt>guàn</rt><rp>)</rp>铅<rp>(</rp><rt>qiān</rt><rp>)</rp></ruby>、<ruby>弹<rp>(</rp><rt>tán</rt><rp>)</rp>琵<rp>(</rp><rt>pí</rt><rp>)</rp>琶<rp>(</rp><rt>pá</rt><rp>)</rp></ruby>、<ruby>抽<rp>(</rp><rt>chōu</rt><rp>)</rp>肠<rp>(</rp><rt>cháng</rt><rp>)</rp></ruby>、<ruby>骑<rp>(</rp><rt>qí</rt><rp>)</rp>木<rp>(</rp><rt>mù</rt><rp>)</rp>驴<rp>(</rp><rt>lǘ</rt><rp>)</rp></ruby>、<ruby>鸩<rp>(</rp><rt>zhèn</rt><rp>)</rp>毒<rp>(</rp><rt>dú</rt><rp>)</rp></ruby>、<ruby>饮<rp>(</rp><rt>yǐn</rt><rp>)</rp>鸩<rp>(</rp><rt>zhèn</rt><rp>)</rp>止<rp>(</rp><rt>zhǐ</rt><rp>)</rp>渴<rp>(</rp><rt>kě</rt><rp>)</rp></ruby>。
+- 「<ruby>商<rp>(</rp><rt>shāng</rt><rp>)</rp>鞅<rp>(</rp><rt>yāng</rt><rp>)</rp>变<rp>(</rp><rt>biàn</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>」<ruby>咱<rp>(</rp><rt>zán</rt><rp>)</rp>们<rp>(</rp><rt>men</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>南<rp>(</rp><rt>nán</rt><rp>)</rp>亚<rp>(</rp><rt>yà</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>那<rp>(</rp><rt>nà</rt><rp>)</rp>些<rp>(</rp><rt>xiē</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>婆<rp>(</rp><rt>pó</rt><rp>)</rp>宦<rp>(</rp><rt>huàn</rt><rp>)</rp>官<rp>(</rp><rt>guān</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>九<rp>(</rp><rt>jiǔ</rt><rp>)</rp>一<rp>(</rp><rt>yāo</rt><rp>)</rp>一<rp>(</rp><rt>yāo</rt><rp>)</rp>恐<rp>(</rp><rt>kǒng</rt><rp>)</rp>怖<rp>(</rp><rt>bù</rt><rp>)</rp>份<rp>(</rp><rt>fèn</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>乌<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>兴<rp>(</rp><rt>xīng</rt><rp>)</rp>都<rp>(</rp><rt>dū</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp></ruby>（<ruby>屠<rp>(</rp><rt>tú</rt><rp>)</rp>妖<rp>(</rp><rt>yāo</rt><rp>)</rp>节<rp>(</rp><rt>jié</rt><rp>)</rp></ruby>/<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>宝<rp>(</rp><rt>bǎo</rt><rp>)</rp>森<rp>(</rp><rt>sēn</rt><rp>)</rp>节<rp>(</rp><rt>jié</rt><rp>)</rp></ruby>）<ruby>的<rp>(</rp><rt>de</rt><rp>)</rp>习<rp>(</rp><rt>xí</rt><rp>)</rp>俗<rp>(</rp><rt>sú</rt><rp>)</rp>文<rp>(</rp><rt>wén</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>语<rp>(</rp><rt>yǔ</rt><rp>)</rp>言<rp>(</rp><rt>yán</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>律<rp>(</rp><rt>lǜ</rt><rp>)</rp>是<rp>(</rp><rt>shì</rt><rp>)</rp>绝<rp>(</rp><rt>jué</rt><rp>)</rp>食<rp>(</rp><rt>shí</rt><rp>)</rp></ruby>、<ruby>自<rp>(</rp><rt>zì</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>自<rp>(</rp><rt>zì</rt><rp>)</rp>残<rp>(</rp><rt>cán</rt><rp>)</rp>自<rp>(</rp><rt>zì</rt><rp>)</rp>虐<rp>(</rp><rt>nüè</rt><rp>)</rp>自<rp>(</rp><rt>zì</rt><rp>)</rp>杀<rp>(</rp><rt>shā</rt><rp>)</rp></ruby>（<ruby>何<rp>(</rp><rt>hé</rt><rp>)</rp>不<rp>(</rp><rt>bù</rt><rp>)</rp>自<rp>(</rp><rt>zì</rt><rp>)</rp>缢<rp>(</rp><rt>yì</rt><rp>)</rp></ruby>、<ruby>自<rp>(</rp><rt>zì</rt><rp>)</rp>轰<rp>(</rp><rt>hōng</rt><rp>)</rp></ruby>）、<ruby>黥<rp>(</rp><rt>qíng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>劓<rp>(</rp><rt>yì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>刖<rp>(</rp><rt>yuè</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>醢<rp>(</rp><rt>hǎi</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>脯<rp>(</rp><rt>pú</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>焚<rp>(</rp><rt>fén</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>刳<rp>(</rp><rt>kū</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剔<rp>(</rp><rt>tī</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>烙<rp>(</rp><rt>lào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>炮<rp>(</rp><rt>páo</rt><rp>)</rp>烙<rp>(</rp><rt>luò</rt><rp>)</rp>之<rp>(</rp><rt>zhī</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剖<rp>(</rp><rt>pōu</rt><rp>)</rp>心<rp>(</rp><rt>xīn</rt><rp>)</rp></ruby>、<ruby>拶<rp>(</rp><rt>zā/zǎn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>夹<rp>(</rp><rt>jiá</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>石<rp>(</rp><rt>shí</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>汞<rp>(</rp><rt>gǒng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剁<rp>(</rp><rt>duò</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>髨<rp>(</rp><rt>kūn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>鞭<rp>(</rp><rt>biān</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>殆<rp>(</rp><rt>dài</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>磔<rp>(</rp><rt>zhé</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剐<rp>(</rp><rt>guǎ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>水<rp>(</rp><rt>shuǐ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>溺<rp>(</rp><rt>nì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>火<rp>(</rp><rt>huǒ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>炎<rp>(</rp><rt>yán</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>焱<rp>(</rp><rt>yàn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>冰<rp>(</rp><rt>bīng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>寒<rp>(</rp><rt>hán</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>冻<rp>(</rp><rt>dòng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剕<rp>(</rp><rt>fèi</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>殡<rp>(</rp><rt>bìn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>土<rp>(</rp><rt>tǔ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>坑<rp>(</rp><rt>kēng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>醺<rp>(</rp><rt>xūn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>蛇<rp>(</rp><rt>shé</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>剥<rp>(</rp><rt>bāo</rt><rp>)</rp>皮<rp>(</rp><rt>pí</rt><rp>)</rp></ruby>、<ruby>腰<rp>(</rp><rt>yāo</rt><rp>)</rp>斩<rp>(</rp><rt>zhǎn</rt><rp>)</rp></ruby>、<ruby>车<rp>(</rp><rt>jū/chē</rt><rp>)</rp>裂<rp>(</rp><rt>liè</rt><rp>)</rp></ruby>、<ruby>俱<rp>(</rp><rt>jù</rt><rp>)</rp>五<rp>(</rp><rt>wǔ</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>凌<rp>(</rp><rt>líng</rt><rp>)</rp>迟<rp>(</rp><rt>chí</rt><rp>)</rp></ruby>、<ruby>缢<rp>(</rp><rt>yì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>烹<rp>(</rp><rt>pēng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>蒸<rp>(</rp><rt>zhēng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>插<rp>(</rp><rt>chā</rt><rp>)</rp>针<rp>(</rp><rt>zhēn</rt><rp>)</rp></ruby>、<ruby>活<rp>(</rp><rt>huó</rt><rp>)</rp>埋<rp>(</rp><rt>mái</rt><rp>)</rp></ruby>、<ruby>蒸<rp>(</rp><rt>zhēng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>棍<rp>(</rp><rt>gùn</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>锯<rp>(</rp><rt>jù</rt><rp>)</rp>割<rp>(</rp><rt>gē</rt><rp>)</rp></ruby>、<ruby>断<rp>(</rp><rt>duàn</rt><rp>)</rp>椎<rp>(</rp><rt>chuí</rt><rp>)</rp></ruby>、<ruby>灌<rp>(</rp><rt>guàn</rt><rp>)</rp>铅<rp>(</rp><rt>qiān</rt><rp>)</rp></ruby>、<ruby>弹<rp>(</rp><rt>tán</rt><rp>)</rp>琵<rp>(</rp><rt>pí</rt><rp>)</rp>琶<rp>(</rp><rt>pá</rt><rp>)</rp></ruby>、<ruby>抽<rp>(</rp><rt>chōu</rt><rp>)</rp>肠<rp>(</rp><rt>cháng</rt><rp>)</rp></ruby>、<ruby>骑<rp>(</rp><rt>qí</rt><rp>)</rp>木<rp>(</rp><rt>mù</rt><rp>)</rp>驴<rp>(</rp><rt>lǘ</rt><rp>)</rp></ruby>、<ruby>鸩<rp>(</rp><rt>zhèn</rt><rp>)</rp>毒<rp>(</rp><rt>dú</rt><rp>)</rp></ruby>、<ruby>饮<rp>(</rp><rt>yǐn</rt><rp>)</rp>鸩<rp>(</rp><rt>zhèn</rt><rp>)</rp>止<rp>(</rp><rt>zhǐ</rt><rp>)</rp>渴<rp>(</rp><rt>kě</rt><rp>)</rp></ruby>...
 
 <style>
     .reveal section p {
@@ -192,7 +197,7 @@ editor: source
 
 ### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
 
-- 「<ruby>商<rp>(</rp><rt>shāng</rt><rp>)</rp>鞅<rp>(</rp><rt>yāng</rt><rp>)</rp>变<rp>(</rp><rt>biàn</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>」（<ruby>嫁<rp>(</rp><rt>qín</rt><rp>)</rp>祸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>迷<rp>(</rp><rt>qín</rt><rp>)</rp>惑<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>洋<rp>(</rp><rt>qín</rt><rp>)</rp>蕃<rp>(</rp><rt>qín</rt><rp>)</rp>违<rp>(</rp><rt>qín</rt><rp>)</rp>背<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>盛<rp>(</rp><rt>qín</rt><rp>)</rp>顿<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>不<rp>(</rp><rt>qín</rt><rp>)</rp>诚<rp>(</rp><rt>qín</rt><rp>)</rp>实<rp>(</rp><rt>qín</rt><rp>)</rp>认<rp>(</rp><rt>qín</rt><rp>)</rp>错<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>进<rp>(</rp><rt>qín</rt><rp>)</rp>男<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>qín</rt><rp>)</rp>肛<rp>(</rp><rt>qín</rt><rp>)</rp>门<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、Extreme Jodoh<ruby>极<rp>(</rp><rt>qín</rt><rp>)</rp>端<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>断<rp>(</rp><rt>qín</rt><rp>)</rp>肢<rp>(</rp><rt>qín</rt><rp>)</rp>法<rp>(</rp><rt>qín</rt><rp>)</rp>份<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp>爱<rp>(</rp><rt>qín</rt><rp>)</rp>新<rp>(</rp><rt>qín</rt><rp>)</rp>觉<rp>(</rp><rt>qín</rt><rp>)</rp>罗<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>骨<rp>(</rp><rt>qín</rt><rp>)</rp>精<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>活<rp>(</rp><rt>qín</rt><rp>)</rp>命<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>指<rp>(</rp><rt>qín</rt><rp>)</rp>鹿<rp>(</rp><rt>qín</rt><rp>)</rp>为<rp>(</rp><rt>qín</rt><rp>)</rp>马<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>勾<rp>(</rp><rt>qín</rt><rp>)</rp>引<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>蛊<rp>(</rp><rt>qín</rt><rp>)</rp>惑<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>心<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>偷<rp>(</rp><rt>qín</rt><rp>)</rp>腥<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>谋<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>违<rp>(</rp><rt>qín</rt><rp>)</rp>背<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>兰<rp>(</rp><rt>qín</rt><rp>)</rp>经<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp>宦<rp>(</rp><rt>qín</rt><rp>)</rp>官<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>歧<rp>(</rp><rt>qín</rt><rp>)</rp>视<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp>宦<rp>(</rp><rt>qín</rt><rp>)</rp>官<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>陷<rp>(</rp><rt>qín</rt><rp>)</rp>害<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp>宦<rp>(</rp><rt>qín</rt><rp>)</rp>官<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>屠<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>操<rp>(</rp><rt>qín</rt><rp>)</rp>控<rp>(</rp><rt>qín</rt><rp>)</rp>僵<rp>(</rp><rt>qín</rt><rp>)</rp>尸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>嫁<rp>(</rp><rt>qín</rt><rp>)</rp>祸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>婆<rp>(</rp><rt>qín</rt><rp>)</rp>毒<rp>(</rp><rt>qín</rt><rp>)</rp>鸩<rp>(</rp><rt>qín</rt><rp>)</rp>陷<rp>(</rp><rt>qín</rt><rp>)</rp>害<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>屠<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>吃<rp>(</rp><rt>qín</rt><rp>)</rp>猪<rp>(</rp><rt>qín</rt><rp>)</rp>肉<rp>(</rp><rt>qín</rt><rp>)</rp>抽<rp>(</rp><rt>qín</rt><rp>)</rp>烟<rp>(</rp><rt>qín</rt><rp>)</rp>酗<rp>(</rp><rt>qín</rt><rp>)</rp>酒<rp>(</rp><rt>qín</rt><rp>)</rp>赌<rp>(</rp><rt>qín</rt><rp>)</rp>博<rp>(</rp><rt>qín</rt><rp>)</rp>嫖<rp>(</rp><rt>qín</rt><rp>)</rp>娼<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>色<rp>(</rp><rt>qín</rt><rp>)</rp>情<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>性<rp>(</rp><rt>qín</rt><rp>)</rp>爱<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>妖<rp>(</rp><rt>qín</rt><rp>)</rp>言<rp>(</rp><rt>qín</rt><rp>)</rp>惑<rp>(</rp><rt>qín</rt><rp>)</rp>众<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>亵<rp>(</rp><rt>qín</rt><rp>)</rp>渎<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>渎<rp>(</rp><rt>qín</rt><rp>)</rp>职<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>衣<rp>(</rp><rt>qín</rt><rp>)</rp>衫<rp>(</rp><rt>qín</rt><rp>)</rp>不<rp>(</rp><rt>qín</rt><rp>)</rp>整<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>人<rp>(</rp><rt>qín</rt><rp>)</rp>身<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>击<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>人<rp>(</rp><rt>qín</rt><rp>)</rp>声<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>击<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>qín</rt><rp>)</rp>声<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>击<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>通<rp>(</rp><rt>qín</rt><rp>)</rp>奸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>窥<rp>(</rp><rt>qín</rt><rp>)</rp>听<rp>(</rp><rt>qín</rt><rp>)</rp>窥<rp>(</rp><rt>qín</rt><rp>)</rp>视<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>讲<rp>(</rp><rt>qín</rt><rp>)</rp>话<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>宣<rp>(</rp><rt>qín</rt><rp>)</rp>扬<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>选<rp>(</rp><rt>qín</rt><rp>)</rp>择<rp>(</rp><rt>qín</rt><rp>)</rp>性<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>应<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>白<rp>(</rp><rt>qín</rt><rp>)</rp>骨<rp>(</rp><rt>qín</rt><rp>)</rp>精<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>活<rp>(</rp><rt>qín</rt><rp>)</rp>命<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>篡<rp>(</rp><rt>qín</rt><rp>)</rp>改<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>篡<rp>(</rp><rt>qín</rt><rp>)</rp>改<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>兰<rp>(</rp><rt>qín</rt><rp>)</rp>经<rp>(</rp><rt>qín</rt><rp>)</rp>法<rp>(</rp><rt>qín</rt><rp>)</rp>律<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>口<rp>(</rp><rt>qín</rt><rp>)</rp>诀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>无<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>qín</rt><rp>)</rp>生<rp>(</rp><rt>qín</rt><rp>)</rp>有<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>挑<rp>(</rp><rt>qín</rt><rp>)</rp>衅<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>挑<rp>(</rp><rt>qín</rt><rp>)</rp>衅<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>勾<rp>(</rp><rt>qín</rt><rp>)</rp>引<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>嫁<rp>(</rp><rt>qín</rt><rp>)</rp>祸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>勾<rp>(</rp><rt>gōu</rt><rp>)</rp>引<rp>(</rp><rt>yǐn</rt><rp>)</rp>罪<rp>(</rp><rt>zuì</rt><rp>)</rp></ruby>、<ruby>通<rp>(</rp><rt>tōng</rt><rp>)</rp>奸<rp>(</rp><rt>jiān</rt><rp>)</rp>罪<rp>(</rp><rt>zuì</rt><rp>)</rp></ruby>、ASAS/ISIS<ruby>性<rp>(</rp><rt>xìng</rt><rp>)</rp>爱<rp>(</rp><rt>ài</rt><rp>)</rp>圣<rp>(</rp><rt>shèng</rt><rp>)</rp>战<rp>(</rp><rt>zhàn</rt><rp>)</rp>屠<rp>(</rp><rt>tú</rt><rp>)</rp>杀<rp>(</rp><rt>shā</rt><rp>)</rp>罪<rp>(</rp><rt>zuì</rt><rp>)</rp></ruby>、<ruby>进<rp>(</rp><rt>jìn</rt><rp>)</rp>肛<rp>(</rp><rt>gāng</rt><rp>)</rp>之<rp>(</rp><rt>zhī</rt><rp>)</rp>耻<rp>(</rp><rt>chǐ</rt><rp>)</rp></ruby>、<ruby>包<rp>(</rp><rt>bāo</rt><rp>)</rp>括<rp>(</rp><rt>kuò</rt><rp>)</rp>峇<rp>(</rp><rt>bā</rt><rp>)</rp>峇<rp>(</rp><rt>bā</rt><rp>)</rp>娘<rp>(</rp><rt>niáng</rt><rp>)</rp>惹<rp>(</rp><rt>rě</rt><rp>)</rp></ruby>，<ruby>得<rp>(</rp><rt>děi</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>甚<rp>(</rp><rt>shèn</rt><rp>)</rp>至<rp>(</rp><rt>zhì</rt><rp>)</rp>彘<rp>(</rp><rt>zhì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>当<rp>(</rp><rt>dāng</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>蛹<rp>(</rp><rt>yǒng</rt><rp>)</rp></ruby>）、<ruby>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>彘<rp>(</rp><rt>zhì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>赐<rp>(</rp><rt>cì</rt><rp>)</rp>瞎<rp>(</rp><rt>xiā</rt><rp>)</rp>聋<rp>(</rp><rt>lóng</rt><rp>)</rp>哑<rp>(</rp><rt>yǎ</rt><rp>)</rp></ruby>、<ruby>绞<rp>(</rp><rt>jiǎo</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>活<rp>(</rp><rt>huó</rt><rp>)</rp>埋<rp>(</rp><rt>mái</rt><rp>)</rp></ruby>、<ruby>车<rp>(</rp><rt>chē</rt><rp>)</rp>裂<rp>(</rp><rt>liè</rt><rp>)</rp></ruby>、<ruby>靖<rp>(</rp><rt>jìng</rt><rp>)</rp>康<rp>(</rp><rt>kāng</rt><rp>)</rp>之<rp>(</rp><rt>zhī</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>...
+- 「<ruby>商<rp>(</rp><rt>shāng</rt><rp>)</rp>鞅<rp>(</rp><rt>yāng</rt><rp>)</rp>变<rp>(</rp><rt>biàn</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>」<ruby>嫁<rp>(</rp><rt>qín</rt><rp>)</rp>祸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>迷<rp>(</rp><rt>qín</rt><rp>)</rp>惑<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>洋<rp>(</rp><rt>qín</rt><rp>)</rp>蕃<rp>(</rp><rt>qín</rt><rp>)</rp>违<rp>(</rp><rt>qín</rt><rp>)</rp>背<rp>(</rp><rt>qín</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>盛<rp>(</rp><rt>qín</rt><rp>)</rp>顿<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>不<rp>(</rp><rt>qín</rt><rp>)</rp>诚<rp>(</rp><rt>qín</rt><rp>)</rp>实<rp>(</rp><rt>qín</rt><rp>)</rp>认<rp>(</rp><rt>qín</rt><rp>)</rp>错<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>进<rp>(</rp><rt>qín</rt><rp>)</rp>男<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>qín</rt><rp>)</rp>肛<rp>(</rp><rt>qín</rt><rp>)</rp>门<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、Extreme Jodoh<ruby>极<rp>(</rp><rt>qín</rt><rp>)</rp>端<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>断<rp>(</rp><rt>qín</rt><rp>)</rp>肢<rp>(</rp><rt>qín</rt><rp>)</rp>法<rp>(</rp><rt>qín</rt><rp>)</rp>份<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp>爱<rp>(</rp><rt>qín</rt><rp>)</rp>新<rp>(</rp><rt>qín</rt><rp>)</rp>觉<rp>(</rp><rt>qín</rt><rp>)</rp>罗<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>骨<rp>(</rp><rt>qín</rt><rp>)</rp>精<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>活<rp>(</rp><rt>qín</rt><rp>)</rp>命<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>指<rp>(</rp><rt>qín</rt><rp>)</rp>鹿<rp>(</rp><rt>qín</rt><rp>)</rp>为<rp>(</rp><rt>qín</rt><rp>)</rp>马<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>勾<rp>(</rp><rt>qín</rt><rp>)</rp>引<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>蛊<rp>(</rp><rt>qín</rt><rp>)</rp>惑<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>心<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>偷<rp>(</rp><rt>qín</rt><rp>)</rp>腥<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>谋<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>违<rp>(</rp><rt>qín</rt><rp>)</rp>背<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>兰<rp>(</rp><rt>qín</rt><rp>)</rp>经<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp>宦<rp>(</rp><rt>qín</rt><rp>)</rp>官<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>歧<rp>(</rp><rt>qín</rt><rp>)</rp>视<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp>宦<rp>(</rp><rt>qín</rt><rp>)</rp>官<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>陷<rp>(</rp><rt>qín</rt><rp>)</rp>害<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp>宦<rp>(</rp><rt>qín</rt><rp>)</rp>官<rp>(</rp><rt>qín</rt><rp>)</rp>民<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>族<rp>(</rp><rt>qín</rt><rp>)</rp>屠<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>操<rp>(</rp><rt>qín</rt><rp>)</rp>控<rp>(</rp><rt>qín</rt><rp>)</rp>僵<rp>(</rp><rt>qín</rt><rp>)</rp>尸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>嫁<rp>(</rp><rt>qín</rt><rp>)</rp>祸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>婆<rp>(</rp><rt>qín</rt><rp>)</rp>毒<rp>(</rp><rt>qín</rt><rp>)</rp>鸩<rp>(</rp><rt>qín</rt><rp>)</rp>陷<rp>(</rp><rt>qín</rt><rp>)</rp>害<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>屠<rp>(</rp><rt>qín</rt><rp>)</rp>杀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>吃<rp>(</rp><rt>qín</rt><rp>)</rp>猪<rp>(</rp><rt>qín</rt><rp>)</rp>肉<rp>(</rp><rt>qín</rt><rp>)</rp>抽<rp>(</rp><rt>qín</rt><rp>)</rp>烟<rp>(</rp><rt>qín</rt><rp>)</rp>酗<rp>(</rp><rt>qín</rt><rp>)</rp>酒<rp>(</rp><rt>qín</rt><rp>)</rp>赌<rp>(</rp><rt>qín</rt><rp>)</rp>博<rp>(</rp><rt>qín</rt><rp>)</rp>嫖<rp>(</rp><rt>qín</rt><rp>)</rp>娼<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>色<rp>(</rp><rt>qín</rt><rp>)</rp>情<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>性<rp>(</rp><rt>qín</rt><rp>)</rp>爱<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>妖<rp>(</rp><rt>qín</rt><rp>)</rp>言<rp>(</rp><rt>qín</rt><rp>)</rp>惑<rp>(</rp><rt>qín</rt><rp>)</rp>众<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>亵<rp>(</rp><rt>qín</rt><rp>)</rp>渎<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>渎<rp>(</rp><rt>qín</rt><rp>)</rp>职<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>衣<rp>(</rp><rt>qín</rt><rp>)</rp>衫<rp>(</rp><rt>qín</rt><rp>)</rp>不<rp>(</rp><rt>qín</rt><rp>)</rp>整<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>人<rp>(</rp><rt>qín</rt><rp>)</rp>身<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>击<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>人<rp>(</rp><rt>qín</rt><rp>)</rp>声<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>击<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>qín</rt><rp>)</rp>声<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>击<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>通<rp>(</rp><rt>qín</rt><rp>)</rp>奸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>窥<rp>(</rp><rt>qín</rt><rp>)</rp>听<rp>(</rp><rt>qín</rt><rp>)</rp>窥<rp>(</rp><rt>qín</rt><rp>)</rp>视<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>...
 
 <style>
     .reveal section p {
@@ -207,7 +212,96 @@ editor: source
 
 ### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/进肛之耻的安瓦变法.png' height='500'>
+- <ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>讲<rp>(</rp><rt>qín</rt><rp>)</rp>话<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>宣<rp>(</rp><rt>qín</rt><rp>)</rp>扬<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>选<rp>(</rp><rt>qín</rt><rp>)</rp>择<rp>(</rp><rt>qín</rt><rp>)</rp>性<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>应<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>白<rp>(</rp><rt>qín</rt><rp>)</rp>骨<rp>(</rp><rt>qín</rt><rp>)</rp>精<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>qín</rt><rp>)</rp>徒<rp>(</rp><rt>qín</rt><rp>)</rp>的<rp>(</rp><rt>qín</rt><rp>)</rp>活<rp>(</rp><rt>qín</rt><rp>)</rp>命<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>篡<rp>(</rp><rt>qín</rt><rp>)</rp>改<rp>(</rp><rt>qín</rt><rp>)</rp>是<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>种<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>篡<rp>(</rp><rt>qín</rt><rp>)</rp>改<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>兰<rp>(</rp><rt>qín</rt><rp>)</rp>经<rp>(</rp><rt>qín</rt><rp>)</rp>法<rp>(</rp><rt>qín</rt><rp>)</rp>律<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>巫<rp>(</rp><rt>qín</rt><rp>)</rp>术<rp>(</rp><rt>qín</rt><rp>)</rp>口<rp>(</rp><rt>qín</rt><rp>)</rp>诀<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>无<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>qín</rt><rp>)</rp>生<rp>(</rp><rt>qín</rt><rp>)</rp>有<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>挑<rp>(</rp><rt>qín</rt><rp>)</rp>衅<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>挑<rp>(</rp><rt>qín</rt><rp>)</rp>衅<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>勾<rp>(</rp><rt>qín</rt><rp>)</rp>引<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>诬<rp>(</rp><rt>qín</rt><rp>)</rp>蔑<rp>(</rp><rt>qín</rt><rp>)</rp>嫁<rp>(</rp><rt>qín</rt><rp>)</rp>祸<rp>(</rp><rt>qín</rt><rp>)</rp>罪<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>勾<rp>(</rp><rt>gōu</rt><rp>)</rp>引<rp>(</rp><rt>yǐn</rt><rp>)</rp>罪<rp>(</rp><rt>zuì</rt><rp>)</rp></ruby>、<ruby>通<rp>(</rp><rt>tōng</rt><rp>)</rp>奸<rp>(</rp><rt>jiān</rt><rp>)</rp>罪<rp>(</rp><rt>zuì</rt><rp>)</rp></ruby>、ASAS/ISIS<ruby>性<rp>(</rp><rt>xìng</rt><rp>)</rp>爱<rp>(</rp><rt>ài</rt><rp>)</rp>圣<rp>(</rp><rt>shèng</rt><rp>)</rp>战<rp>(</rp><rt>zhàn</rt><rp>)</rp>屠<rp>(</rp><rt>tú</rt><rp>)</rp>杀<rp>(</rp><rt>shā</rt><rp>)</rp>罪<rp>(</rp><rt>zuì</rt><rp>)</rp></ruby>、<ruby>进<rp>(</rp><rt>jìn</rt><rp>)</rp>肛<rp>(</rp><rt>gāng</rt><rp>)</rp>之<rp>(</rp><rt>zhī</rt><rp>)</rp>耻<rp>(</rp><rt>chǐ</rt><rp>)</rp></ruby>、<ruby>包<rp>(</rp><rt>bāo</rt><rp>)</rp>括<rp>(</rp><rt>kuò</rt><rp>)</rp>峇<rp>(</rp><rt>bā</rt><rp>)</rp>峇<rp>(</rp><rt>bā</rt><rp>)</rp>娘<rp>(</rp><rt>niáng</rt><rp>)</rp>惹<rp>(</rp><rt>rě</rt><rp>)</rp></ruby>，<ruby>得<rp>(</rp><rt>děi</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>甚<rp>(</rp><rt>shèn</rt><rp>)</rp>至<rp>(</rp><rt>zhì</rt><rp>)</rp>彘<rp>(</rp><rt>zhì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>当<rp>(</rp><rt>dāng</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>蛹<rp>(</rp><rt>yǒng</rt><rp>)</rp></ruby>）、<ruby>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>彘<rp>(</rp><rt>zhì</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>赐<rp>(</rp><rt>cì</rt><rp>)</rp>瞎<rp>(</rp><rt>xiā</rt><rp>)</rp>聋<rp>(</rp><rt>lóng</rt><rp>)</rp>哑<rp>(</rp><rt>yǎ</rt><rp>)</rp></ruby>、<ruby>绞<rp>(</rp><rt>jiǎo</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>、<ruby>活<rp>(</rp><rt>huó</rt><rp>)</rp>埋<rp>(</rp><rt>mái</rt><rp>)</rp></ruby>、<ruby>车<rp>(</rp><rt>chē</rt><rp>)</rp>裂<rp>(</rp><rt>liè</rt><rp>)</rp></ruby>、<ruby>靖<rp>(</rp><rt>jìng</rt><rp>)</rp>康<rp>(</rp><rt>kāng</rt><rp>)</rp>之<rp>(</rp><rt>zhī</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp></ruby>...
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>
+
+### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/进肛之耻的安瓦变法 01.png' height='500'>
+
+>进男人肛门的安瓦暴政滥用职权，滥用回教法来屠杀咱们这些不是回教徒（包括不曾与任何回教徒有染、没有回教徒血统）的无辜百姓和贾人。
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>
+
+### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/进肛之耻的安瓦变法 02.png' height='500'>
+
+>进男人肛门的回教徒安瓦暴政滥用职权，以回教法来屠杀咱们这些不是回教徒（包括不曾与任何回教徒有染、没有回教徒血统）的无辜百姓和贾人。
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>
+
+### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/卫鞅凯里加码鲁丁.png' height='500'>
+
+>卫鞅回教徒凯里加码鲁丁暴政滥用职权，滥用回教法来屠杀咱们这些不是回教徒（包括不曾与任何回教徒有染、没有回教徒血统）的无辜百姓和贾人。
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>
+
+### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/巫贼巫婆宦官民族暴政屠杀罪，人口大减.png' height='500'>
+<br>
+*出处：[马来西亚华裔占总人口比例预计2022年将降至22.8%](http://www.chinaqw.com/hqhr/2022/07-30/336639.shtml)*
+
+>卫鞅回教徒凯里加码鲁丁和回教徒安瓦暴政滥用职权，滥用回教法来屠杀咱们这些不是回教徒（包括不曾与任何回教徒有染、没有回教徒血统）的无辜百姓和贾人。
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>
+
+### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/回教徒不是不可以赌博吗？.png' height='500'>
+<br>
+*出处：[回教徒不是不可以赌博吗？铁证犹如孙中山（辛亥革命）](https://www.facebook.com/englianhu/posts/pfbid0RWvHitzrTkSecUBoHF2v56F9hABNhrpGRjgmid6z6tVTtZJYc4TTZVNRJhDu14obl)*
+
+>中东麦加朝圣地点回教徒，公然暴政滥用可兰经回教法来屠杀咱们这些不是回教徒（包括不曾与任何回教徒有染、没有回教徒血统）的无辜百姓和贾人。
 
 <style>
     .reveal section p {
@@ -252,7 +346,7 @@ editor: source
 
 ### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
 
-- <ruby>停<rp>(</rp><rt>tíng</rt><rp>)</rp>止<rp>(</rp><rt>zhǐ</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>、<ruby>拆<rp>(</rp><rt>chāi</rt><rp>)</rp>除<rp>(</rp><rt>chú</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp></ruby>、<ruby>焚<rp>(</rp><rt>fén</rt><rp>)</rp>烧<rp>(</rp><rt>shāo</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp></ruby>、<ruby>建<rp>(</rp><rt>jiàn</rt><rp>)</rp>立<rp>(</rp><rt>lì</rt><rp>)</rp>更<rp>(</rp><rt>gèng</rt><rp>)</rp>多<rp>(</rp><rt>duō</rt><rp>)</rp>孔<rp>(</rp><rt>kǒng</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp>院<rp>(</rp><rt>yuàn</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>校<rp>(</rp><rt>xiào</rt><rp>)</rp></ruby>、<ruby>引<rp>(</rp><rt>yǐn</rt><rp>)</rp>入<rp>(</rp><rt>rù</rt><rp>)</rp>更<rp>(</rp><rt>gèng</rt><rp>)</rp>多<rp>(</rp><rt>duō</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp></ruby>、<ruby>推<rp>(</rp><rt>tuī</rt><rp>)</rp>广<rp>(</rp><rt>guǎng</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp>习<rp>(</rp><rt>xí</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>文<rp>(</rp><rt>wén</rt><rp>)</rp></ruby>、<ruby>靠<rp>(</rp><rt>kào</rt><rp>)</rp>拢<rp>(</rp><rt>lǒng</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>、<ruby>发<rp>(</rp><rt>fā</rt><rp>)</rp>展<rp>(</rp><rt>zhǎn</rt><rp>)</rp>各<rp>(</rp><rt>gè</rt><rp>)</rp>行<rp>(</rp><rt>hàng</rt><rp>)</rp>各<rp>(</rp><rt>gè</rt><rp>)</rp>业<rp>(</rp><rt>yè</rt><rp>)</rp></ruby>、<ruby>学<rp>(</rp><rt>xué</rt><rp>)</rp>术<rp>(</rp><rt>shù</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>技<rp>(</rp><rt>jì</rt><rp>)</rp></ruby>、<ruby>经<rp>(</rp><rt>jīng</rt><rp>)</rp>济<rp>(</rp><rt>jì</rt><rp>)</rp></ruby>、<ruby>就<rp>(</rp><rt>jiù</rt><rp>)</rp>业<rp>(</rp><rt>yè</rt><rp>)</rp></ruby>、<ruby>旅<rp>(</rp><rt>lǚ</rt><rp>)</rp>游<rp>(</rp><rt>yóu</rt><rp>)</rp></ruby>、<ruby>运<rp>(</rp><rt>yùn</rt><rp>)</rp>输<rp>(</rp><rt>shū</rt><rp>)</rp></ruby>、<ruby>贸<rp>(</rp><rt>mào</rt><rp>)</rp>易<rp>(</rp><rt>yì</rt><rp>)</rp></ruby>、<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>习<rp>(</rp><rt>xí</rt><rp>)</rp>俗<rp>(</rp><rt>sú</rt><rp>)</rp>文<rp>(</rp><rt>wén</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>语<rp>(</rp><rt>yǔ</rt><rp>)</rp>言<rp>(</rp><rt>yán</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>儒<rp>(</rp><rt>rú</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp></ruby>、<ruby>发<rp>(</rp><rt>fā</rt><rp>)</rp>展<rp>(</rp><rt>zhǎn</rt><rp>)</rp>各<rp>(</rp><rt>gè</rt><rp>)</rp>行<rp>(</rp><rt>hàng</rt><rp>)</rp>各<rp>(</rp><rt>gè</rt><rp>)</rp>业<rp>(</rp><rt>yè</rt><rp>)</rp></ruby>。
+<img src='文艺坊图库/车裂之刑 02.png' height='500'>
 
 <style>
     .reveal section p {
@@ -267,7 +361,7 @@ editor: source
 
 ### <ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>夷<rp>(</rp><rt>yí</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>皋<rp>(</rp><rt>gāo</rt><rp>)</rp>陶<rp>(</rp><rt>yáo</rt><rp>)</rp></ruby>•<ruby>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/车裂之刑 02.png' height='500'>
+- <ruby>停<rp>(</rp><rt>tíng</rt><rp>)</rp>止<rp>(</rp><rt>zhǐ</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>刑<rp>(</rp><rt>xíng</rt><rp>)</rp>事<rp>(</rp><rt>shì</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp>典<rp>(</rp><rt>diǎn</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>、<ruby>拆<rp>(</rp><rt>chāi</rt><rp>)</rp>除<rp>(</rp><rt>chú</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp></ruby>、<ruby>焚<rp>(</rp><rt>fén</rt><rp>)</rp>烧<rp>(</rp><rt>shāo</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp></ruby>、<ruby>建<rp>(</rp><rt>jiàn</rt><rp>)</rp>立<rp>(</rp><rt>lì</rt><rp>)</rp>更<rp>(</rp><rt>gèng</rt><rp>)</rp>多<rp>(</rp><rt>duō</rt><rp>)</rp>孔<rp>(</rp><rt>kǒng</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp>院<rp>(</rp><rt>yuàn</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>校<rp>(</rp><rt>xiào</rt><rp>)</rp></ruby>、<ruby>引<rp>(</rp><rt>yǐn</rt><rp>)</rp>入<rp>(</rp><rt>rù</rt><rp>)</rp>更<rp>(</rp><rt>gèng</rt><rp>)</rp>多<rp>(</rp><rt>duō</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp></ruby>、<ruby>推<rp>(</rp><rt>tuī</rt><rp>)</rp>广<rp>(</rp><rt>guǎng</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp>习<rp>(</rp><rt>xí</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>文<rp>(</rp><rt>wén</rt><rp>)</rp></ruby>、<ruby>靠<rp>(</rp><rt>kào</rt><rp>)</rp>拢<rp>(</rp><rt>lǒng</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>、<ruby>发<rp>(</rp><rt>fā</rt><rp>)</rp>展<rp>(</rp><rt>zhǎn</rt><rp>)</rp>各<rp>(</rp><rt>gè</rt><rp>)</rp>行<rp>(</rp><rt>hàng</rt><rp>)</rp>各<rp>(</rp><rt>gè</rt><rp>)</rp>业<rp>(</rp><rt>yè</rt><rp>)</rp></ruby>、<ruby>学<rp>(</rp><rt>xué</rt><rp>)</rp>术<rp>(</rp><rt>shù</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>技<rp>(</rp><rt>jì</rt><rp>)</rp></ruby>、<ruby>经<rp>(</rp><rt>jīng</rt><rp>)</rp>济<rp>(</rp><rt>jì</rt><rp>)</rp></ruby>、<ruby>就<rp>(</rp><rt>jiù</rt><rp>)</rp>业<rp>(</rp><rt>yè</rt><rp>)</rp></ruby>、<ruby>旅<rp>(</rp><rt>lǚ</rt><rp>)</rp>游<rp>(</rp><rt>yóu</rt><rp>)</rp></ruby>、<ruby>运<rp>(</rp><rt>yùn</rt><rp>)</rp>输<rp>(</rp><rt>shū</rt><rp>)</rp></ruby>、<ruby>贸<rp>(</rp><rt>mào</rt><rp>)</rp>易<rp>(</rp><rt>yì</rt><rp>)</rp></ruby>、<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>习<rp>(</rp><rt>xí</rt><rp>)</rp>俗<rp>(</rp><rt>sú</rt><rp>)</rp>文<rp>(</rp><rt>wén</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>语<rp>(</rp><rt>yǔ</rt><rp>)</rp>言<rp>(</rp><rt>yán</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>儒<rp>(</rp><rt>rú</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp></ruby>、<ruby>发<rp>(</rp><rt>fā</rt><rp>)</rp>展<rp>(</rp><rt>zhǎn</rt><rp>)</rp>各<rp>(</rp><rt>gè</rt><rp>)</rp>行<rp>(</rp><rt>hàng</rt><rp>)</rp>各<rp>(</rp><rt>gè</rt><rp>)</rp>业<rp>(</rp><rt>yè</rt><rp>)</rp></ruby>。
 
 <style>
     .reveal section p {
@@ -315,7 +409,7 @@ editor: source
 
 ### <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>，<ruby>始<rp>(</rp><rt>shǐ</rt><rp>)</rp>于<rp>(</rp><rt>yú</rt><rp>)</rp></ruby>「<ruby>汧<rp>(</rp><rt>qiān</rt><rp>)</rp>渭<rp>(</rp><rt>wèi</rt><rp>)</rp></ruby>」
 
-<img src='文艺坊图库/.............png' height='600'>
+<img src='文艺坊图库/.............png' height='500'>
 
 <style>
     .reveal section p {
@@ -330,7 +424,7 @@ editor: source
 
 ### <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>，<ruby>始<rp>(</rp><rt>shǐ</rt><rp>)</rp>于<rp>(</rp><rt>yú</rt><rp>)</rp></ruby>「<ruby>汧<rp>(</rp><rt>qiān</rt><rp>)</rp>渭<rp>(</rp><rt>wèi</rt><rp>)</rp></ruby>」
 
-<img src='文艺坊图库/秦人牧马于「汧渭」 始皇加冕于雍城.png' height='600'>
+<img src='文艺坊图库/秦人牧马于「汧渭」 始皇加冕于雍城.png' height='500'>
 
 <style>
     .reveal section p {
@@ -345,7 +439,7 @@ editor: source
 
 ### <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>，<ruby>始<rp>(</rp><rt>shǐ</rt><rp>)</rp>于<rp>(</rp><rt>yú</rt><rp>)</rp></ruby>「<ruby>汧<rp>(</rp><rt>qiān</rt><rp>)</rp>渭<rp>(</rp><rt>wèi</rt><rp>)</rp></ruby>」
 
-<img src='文艺坊图库/秦人牧马于「汧渭」 始皇加冕于雍城.png' height='600'>
+<img src='文艺坊图库/秦人牧马于「汧渭」 始皇加冕于雍城.png' height='500'>
 
 <style>
     .reveal section p {
@@ -360,7 +454,7 @@ editor: source
 
 ### <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>，<ruby>始<rp>(</rp><rt>shǐ</rt><rp>)</rp>于<rp>(</rp><rt>yú</rt><rp>)</rp></ruby>「<ruby>汧<rp>(</rp><rt>qiān</rt><rp>)</rp>渭<rp>(</rp><rt>wèi</rt><rp>)</rp></ruby>」
 
-<img src='文艺坊图库/秦人牧马于「汧渭」 始皇加冕于雍城.png' height='600'>
+<img src='文艺坊图库/秦人牧马于「汧渭」 始皇加冕于雍城.png' height='500'>
 <br>
 *<ruby>引<rp>(</rp><rt>yǐn</rt><rp>)</rp>用<rp>(</rp><rt>yòng</rt><rp>)</rp></ruby>：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp>于<rp>(</rp><rt>yú</rt><rp>)</rp></ruby>「<ruby>汧<rp>(</rp><rt>qiān</rt><rp>)</rp>渭<rp>(</rp><rt>wèi</rt><rp>)</rp></ruby>」<ruby>始<rp>(</rp><rt>shǐ</rt><rp>)</rp>皇<rp>(</rp><rt>huáng</rt><rp>)</rp>加<rp>(</rp><rt>jiā</rt><rp>)</rp>冕<rp>(</rp><rt>miǎn</rt><rp>)</rp>于<rp>(</rp><rt>yú</rt><rp>)</rp>雍<rp>(</rp><rt>yōng</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>.pdf](https://raw.githubusercontent.com/englianhu/library/cac850b971ac72284dfc4d51b9ea3590bcda3f3f/%E5%A4%A7%E7%A7%A6%E8%B5%8B%20Chinese%20Emperor/%E5%AC%B4%E6%94%BF%EF%BC%88%E9%BB%84%E6%B0%B8%E6%98%A5%20%CE%BE%CE%B7g%20T%CE%B5%CE%B7g%EF%BC%89/%E7%A7%A6%E4%BA%BA%E7%89%A7%E9%A9%AC%E4%BA%8E%E3%80%8C%E6%B1%A7%E6%B8%AD%E3%80%8D%20%E5%A7%8B%E7%9A%87%E5%8A%A0%E5%86%95%E4%BA%8E%E9%9B%8D%E5%9F%8E.pdf)*
 
@@ -409,7 +503,7 @@ editor: source
 
 ### <ruby>辛<rp>(</rp><rt>xīn</rt><rp>)</rp>亥<rp>(</rp><rt>hài</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/槟城孙中山纪念馆 07.png' height='600'>
+<img src='文艺坊图库/槟城孙中山纪念馆 07.png' height='500'>
 <br>
 *<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chǔ/chù</rt><rp>)</rp></ruby>：[<ruby>槟<rp>(</rp><rt>bīn</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp>孙<rp>(</rp><rt>sūn</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>山<rp>(</rp><rt>shān</rt><rp>)</rp>纪<rp>(</rp><rt>jì</rt><rp>)</rp>念<rp>(</rp><rt>niàn</rt><rp>)</rp>馆<rp>(</rp><rt>guăn</rt><rp>)</rp></ruby>](https://travel.qunar.com/p-oi5941269-binchengsunzhongshanji)*
 
@@ -426,7 +520,7 @@ editor: source
 
 ### <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>太<rp>(</rp><rt>tài</rt><rp>)</rp>监<rp>(</rp><rt>jiàn</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>误<rp>(</rp><rt>wù</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp></ruby>，<ruby>沐<rp>(</rp><rt>mù</rt><rp>)</rp>猪<rp>(</rp><rt>zhū</rt><rp>)</rp>而<rp>(</rp><rt>ér</rt><rp>)</rp>冠<rp>(</rp><rt>guàn</rt><rp>)</rp></ruby>，<ruby>祸<rp>(</rp><rt>huò</rt><rp>)</rp>殃<rp>(</rp><rt>yāng</rt><rp>)</rp>全<rp>(</rp><rt>quán</rt><rp>)</rp>球<rp>(</rp><rt>qiú</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/巫师王刘瑾貹 - 溥仪.png' height='600'>
+<img src='文艺坊图库/巫师王刘瑾貹 - 溥仪.png' height='500'>
 <br>
 
 ><ruby>白<rp>(</rp><rt>bái</rt><rp>)</rp>骨<rp>(</rp><rt>gŭ</rt><rp>)</rp>精<rp>(</rp><rt>jīng</rt><rp>)</rp>乩<rp>(</rp><rt>jī</rt><rp>)</rp>童<rp>(</rp><rt>tóng</rt><rp>)</rp>刘<rp>(</rp><rt>liú</rt><rp>)</rp>瑾<rp>(</rp><rt>jĭn</rt><rp>)</rp>貹<rp>(</rp><rt>shēng</rt><rp>)</rp></ruby>；<ruby>刘<rp>(</rp><rt>liú</rt><rp>)</rp>瑾<rp>(</rp><rt>jĭn</rt><rp>)</rp>不<rp>(</rp><rt>bù</rt><rp>)</rp>死<rp>(</rp><rt>sǐ</rt><rp>)</rp></ruby>，<ruby>众<rp>(</rp><rt>zhòng</rt><rp>)</rp>贝<rp>(</rp><rt>bèi</rt><rp>)</rp>不<rp>(</rp><rt>bù</rt><rp>)</rp>生<rp>(</rp><rt>shēng</rt><rp>)</rp></ruby>。
@@ -444,7 +538,7 @@ editor: source
 
 ### <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>太<rp>(</rp><rt>tài</rt><rp>)</rp>监<rp>(</rp><rt>jiàn</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>误<rp>(</rp><rt>wù</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp></ruby>，<ruby>沐<rp>(</rp><rt>mù</rt><rp>)</rp>猪<rp>(</rp><rt>zhū</rt><rp>)</rp>而<rp>(</rp><rt>ér</rt><rp>)</rp>冠<rp>(</rp><rt>guàn</rt><rp>)</rp></ruby>，<ruby>祸<rp>(</rp><rt>huò</rt><rp>)</rp>殃<rp>(</rp><rt>yāng</rt><rp>)</rp>全<rp>(</rp><rt>quán</rt><rp>)</rp>球<rp>(</rp><rt>qiú</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/bin Law + bin Teo.png' height='600'>
+<img src='文艺坊图库/bin Law + bin Teo.png' height='500'>
 <br>
 *<ruby>引<rp>(</rp><rt>yǐn</rt><rp>)</rp>用<rp>(</rp><rt>yòng</rt><rp>)</rp></ruby>：[<ruby>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>王<rp>(</rp><rt>wáng</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp></ruby>911<ruby>恐<rp>(</rp><rt>kǒng</rt><rp>)</rp>怖<rp>(</rp><rt>bù</rt><rp>)</rp>份<rp>(</rp><rt>fèn</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp></ruby>bin Law<ruby>和<rp>(</rp><rt>hé</rt><rp>)</rp></ruby>bin Teo](https://imgur.com/gallery/7stHXJS)*
 
@@ -478,7 +572,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 01.png' height='600'>
+<img src='文艺坊图库/B&R 01.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -495,7 +589,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 02.png' height='600'>
+<img src='文艺坊图库/B&R 02.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -512,7 +606,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 03.png' height='600'>
+<img src='文艺坊图库/B&R 03.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -529,7 +623,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 04.png' height='600'>
+<img src='文艺坊图库/B&R 04.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -546,7 +640,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 05.png' height='600'>
+<img src='文艺坊图库/B&R 05.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -563,7 +657,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 06.png' height='600'>
+<img src='文艺坊图库/B&R 06.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -580,7 +674,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 07.png' height='600'>
+<img src='文艺坊图库/B&R 07.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -597,7 +691,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 08.png' height='600'>
+<img src='文艺坊图库/B&R 08.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -614,7 +708,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 09.png' height='600'>
+<img src='文艺坊图库/B&R 09.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -631,7 +725,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 10.png' height='600'>
+<img src='文艺坊图库/B&R 10.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -648,7 +742,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 11.png' height='600'>
+<img src='文艺坊图库/B&R 11.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -665,7 +759,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 12.png' height='600'>
+<img src='文艺坊图库/B&R 12.png' height='500'>
 <br>
 *出处：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -682,7 +776,7 @@ editor: source
 
 ### <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/B&R 13.png' height='600'>
+<img src='文艺坊图库/B&R 13.png' height='500'>
 <br>
 *<ruby>出<rp>(</rp><rt>qín</rt><rp>)</rp>处<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>：[<ruby>猫<rp>(</rp><rt>māo</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>@Belt & Road (B&R) <ruby>一<rp>(</rp><rt>yí</rt><rp>)</rp>带<rp>(</rp><rt>dài</rt><rp>)</rp>一<rp>(</rp><rt>yí</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>.pdf](https://github.com/scibrokes/r-world/blob/ca2ddf853d36cdaf4f06299f371dcaaf33c207e4/%E5%9B%BE%E4%B9%A6%E9%A6%86/Belt%20%26%20Road%20(B%26R)%20%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF.pdf)*
 
@@ -860,7 +954,7 @@ editor: source
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》<ruby>雍<rp>(</rp><rt>yōng</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp>蕲<rp>(</rp><rt>qí</rt><rp>)</rp>年<rp>(</rp><rt>nián</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/蕲年宫.png' height='600'>
+<img src='文艺坊图库/蕲年宫.png' height='500'>
 
 <style>
     .reveal section p {
@@ -894,7 +988,7 @@ scene=27)
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》<ruby>咸<rp>(</rp><rt>xián</rt><rp>)</rp>阳<rp>(</rp><rt>yánɡ</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>
 
-<img src='文艺坊图库/咸阳宫.png' height='600'>
+<img src='文艺坊图库/咸阳宫.png' height='500'>
 
 <style>
     .reveal section p {
@@ -927,7 +1021,7 @@ scene=27)
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》<ruby>阿<rp>(</rp><rt>ē</rt><rp>)</rp>房<rp>(</rp><rt>páng</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/阿房宫（ē páng gōng）.png' height='600'>
+<img src='文艺坊图库/阿房宫（ē páng gōng）.png' height='500'>
 
 <style>
     .reveal section p {
@@ -1004,7 +1098,7 @@ scene=27)
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》🚩🦔🏹<ruby>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp>馆<rp>(</rp><rt>guăn</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/中科红旗主简介.png' height='600'>
+<img src='文艺坊图库/中科红旗主简介.png' height='500'>
 <br>
 *<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp></ruby>（<ruby>官<rp>(</rp><rt>guān</rt><rp>)</rp>网<rp>(</rp><rt>wǎng</rt><rp>)</rp></ruby>）](https://www.chinaredflag.cn/about/index?index=0)*
 
@@ -1021,7 +1115,7 @@ scene=27)
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》🚩🦔🏹<ruby>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp>馆<rp>(</rp><rt>guăn</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/中科红旗主要客户 01.png' height='600'>
+<img src='文艺坊图库/中科红旗主要客户 01.png' height='500'>
 <br>
 *<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp></ruby>（<ruby>官<rp>(</rp><rt>guān</rt><rp>)</rp>网<rp>(</rp><rt>wǎng</rt><rp>)</rp></ruby>）](https://www.chinaredflag.cn/cases/index)*
 
@@ -1038,7 +1132,7 @@ scene=27)
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》🚩🦔🏹<ruby>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp>馆<rp>(</rp><rt>guăn</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/中科红旗主要客户 02.png' height='600'>
+<img src='文艺坊图库/中科红旗主要客户 02.png' height='500'>
 <br>
 *<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp></ruby>（<ruby>官<rp>(</rp><rt>guān</rt><rp>)</rp>网<rp>(</rp><rt>wǎng</rt><rp>)</rp></ruby>）](https://www.chinaredflag.cn/cases/index)*
 
@@ -1055,7 +1149,7 @@ scene=27)
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》🚩🦔🏹<ruby>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp>馆<rp>(</rp><rt>guăn</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/中科红旗主要客户 03.png' height='600'>
+<img src='文艺坊图库/中科红旗主要客户 03.png' height='500'>
 <br>
 *<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp></ruby>（<ruby>官<rp>(</rp><rt>guān</rt><rp>)</rp>网<rp>(</rp><rt>wǎng</rt><rp>)</rp></ruby>）](https://www.chinaredflag.cn/cases/index)*
 
@@ -2384,6 +2478,16 @@ scene=27)
     vertical-align: top;
   }
 </style>
+
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### <ruby>中文编程</ruby>
+
+<img src='文艺坊图库/北京地铁站中文附拼音.png' height='500'>
+
+<br>
+*出处：[北京地铁站中文附拼音](https://www.facebook.com/englianhu/posts/pfbid0ZBWm7xXMrScccsg7S9KAbAMGRtfWRP2amrjJUfgWkaRk4czEbvzc92mPZa8bp6rZl)*
 
 ## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
 
