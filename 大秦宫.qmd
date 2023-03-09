@@ -409,7 +409,9 @@ editor: source
 
 ### <ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>牧<rp>(</rp><rt>mù</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp></ruby>，<ruby>始<rp>(</rp><rt>shǐ</rt><rp>)</rp>于<rp>(</rp><rt>yú</rt><rp>)</rp></ruby>「<ruby>汧<rp>(</rp><rt>qiān</rt><rp>)</rp>渭<rp>(</rp><rt>wèi</rt><rp>)</rp></ruby>」
 
-<img src='文艺坊图库/.............png' height='500'>
+```{r}
+#<img src='文艺坊图库/.............png' height='500'>
+```
 
 <style>
     .reveal section p {
@@ -2484,7 +2486,9 @@ scene=27)
 
 ### <ruby>中文编程</ruby>
 
-><img src='文艺坊图库/北京地铁站中文附拼音.png' height='500'>
+```{r}
+#<img src='文艺坊图库/北京地铁站中文附拼音.png' height='500'>
+```
 
 <br>
 *出处：[北京地铁站中文附拼音](https://www.facebook.com/englianhu/posts/pfbid0ZBWm7xXMrScccsg7S9KAbAMGRtfWRP2amrjJUfgWkaRk4czEbvzc92mPZa8bp6rZl)*
