@@ -2484,7 +2484,7 @@ scene=27)
 
 ### <ruby>中文编程</ruby>
 
-<img src='文艺坊图库/北京地铁站中文附拼音.png' height='500'>
+><img src='文艺坊图库/北京地铁站中文附拼音.png' height='500'>
 
 <br>
 *出处：[北京地铁站中文附拼音](https://www.facebook.com/englianhu/posts/pfbid0ZBWm7xXMrScccsg7S9KAbAMGRtfWRP2amrjJUfgWkaRk4czEbvzc92mPZa8bp6rZl)*
