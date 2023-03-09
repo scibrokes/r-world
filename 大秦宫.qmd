@@ -2484,7 +2484,7 @@ scene=27)
 
 ## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
 
-### <ruby>中文编程</ruby>
+### <ruby>中<rp>(</rp><rt>qín</rt><rp>)</rp>文<rp>(</rp><rt>qín</rt><rp>)</rp>编<rp>(</rp><rt>qín</rt><rp>)</rp>程<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>
 
 ```{r}
 #<img src='文艺坊图库/北京地铁站中文附拼音.png' height='500'>
@@ -2581,6 +2581,9 @@ scene=27)
 
 ### <ruby>秦谏</ruby>
 
+>人人都能立本纪；<br>
+好让人生不迷悟。
+
 - 借鉴台商黄朝阳的陵骨塔事业，将每个人物的一生传记都记载下来。建立许多类似自动提款机让每个人通过身份证件或脸部人体扫描辨认身份后，查询所有自传。那么所有从事殡馆生意都可以在各灵位设置个电脑电板来列传。奎秒计数据详细记载整个人生包括智商、颜值、诚信值、名气等、人均国民生产总值贡献值等、各功勋值、各行各业的能力值（奎秒计数据，除非人造卫星也扫描侦测不到该人物），整个人生列传就万无一失了，列传主页显示重大人类记录。
 - 借鉴winning Eleven足球电子游戏、三国志网游、春秋战国网游的文武百官能力值，天下苍生的各行各业的能力值甚至颜值和审美观和各功勋值，都能通过量化数据和精算统计学计算出来。
 - 借鉴皇觉寺与百家诸子（商鞅变法和管仲法治的分别在于残酷刑法与专制），现代版史记，俗称秦谏。好让后世人类借鉴别人的历史、自传、诸子百家来启发悟道，决定人生路来从事各行各业，好让人生不迷悟。
@@ -2662,6 +2665,25 @@ scene=27)
 ### <ruby>作者简介</ruby>
 
 - 
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+# <ruby>幕<rp>(</rp><rt>mù</rt><rp>)</rp>后<rp>(</rp><rt>hòu</rt><rp>)</rp>花<rp>(</rp><rt>huā</rt><rp>)</rp>絮<rp>(</rp><rt>xù</rt><rp>)</rp></ruby>
+
+## <ruby>附<rp>(</rp><rt>qín</rt><rp>)</rp>录<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>
+
+- [世博量化registered](https://github.com/scibrokes/owner)
+- [「威客原创帖」中科红旗，量化对冲：只要不是人蛹，有手有脚就能被邪教🇵🇭🇰🇭🇮🇲Judi博彩庄家录用，铲单卡款屠杀人类了](https://vk.com/englianhu?w=wall611842020_84)
+- [二元期权（binary.com）量化分析员/量化交易员面试题](https://github.com/englianhu/binary.com-interview-question)
+- [猫城@ FXCM 量化对冲实时数据](https://github.com/scibrokes/real-time-fxcm)
+- [猫城@ 量化数学中国共识加油赞](https://github.com/englianhu/report)
 
 <style>
     .reveal section p {
