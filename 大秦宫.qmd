@@ -2320,11 +2320,27 @@ scene=27)
 
 - [美記者拍攝中國武漢“春耕”現場，被眼前一幕驚呆了！2萬畝農田，找不到一個人，20小時插秧完畢？](https://www.youtube.com/watch?v=0mNbXYcxys0)
 - [超千万亩农田使用农田灌溉新技术](https://www.bilibili.com/video/BV1vt4y187EV)
-- [马来西亚榴莲是果王，也是草药！吃了有什么功效？有什么禁忌？](https://www.youtube.com/watch?v=gU5N4r-95Ss)
+- [马来西亚范文10篇](https://www.gwyoo.com/jiayou/malaixiya)
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>士<rp>(</rp><rt>shì</rt><rp>)</rp>农<rp>(</rp><rt>nóng</rt><rp>)</rp>工<rp>(</rp><rt>gōng</rt><rp>)</rp>商<rp>(</rp><rt>shāng</rt><rp>)</rp>篇<rp>(</rp><rt>piān</rt><rp>)</rp></ruby>
+
+- [图说棕榈油工业史](https://chinadialogue.net/zh/5/70183)
 - [减少依赖棕油业务 IOI集团计划种榴梿](https://www.enanyang.my/%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB/%E5%87%8F%E5%B0%91%E4%BE%9D%E8%B5%96%E6%A3%95%E6%B2%B9%E4%B8%9A%E5%8A%A1-ioi%E9%9B%86%E5%9B%A2%E8%AE%A1%E5%88%92%E7%A7%8D%E6%A6%B4%E6%A2%BF)
 - [每公顷盈利高油棕19倍 榴梿成为摇钱树?](https://www.enanyang.my/%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB/%E6%AF%8F%E5%85%AC%E9%A1%B7%E7%9B%88%E5%88%A9%E9%AB%98%E6%B2%B9%E6%A3%9519%E5%80%8D-%E6%A6%B4%E6%A2%BF%E6%88%90%E4%B8%BA%E6%91%87%E9%92%B1%E6%A0%91)
 - [回酬比棕油高 马国要发展榴梿经济](https://www.zaobao.com.sg/beltandroad/news/story20190210-930591)
 - [中国人的狂热导致马来西亚棕榈油种植园纷纷转向榴莲产业](http://zmqzcyyq.gxzf.gov.cn/zmhz/mlcyzx/t3198243.shtml)
+- [马来西亚榴莲是果王，也是草药！吃了有什么功效？有什么禁忌？](https://www.youtube.com/watch?v=gU5N4r-95Ss)
 
 <style>
     .reveal section p {
@@ -2341,7 +2357,7 @@ scene=27)
 
 <img src='文艺坊图库/每公顷盈利高油棕19倍，榴梿成为摇钱树 01.png' height='500'>
 <br>
-*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby></ruby>]*
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>每公顷盈利高油棕19倍</ruby>，<ruby>榴梿成为摇钱树</ruby>.pdf]()*
 
 <style>
     .reveal section p {
