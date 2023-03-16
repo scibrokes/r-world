@@ -8,9 +8,9 @@ format: html
 editor: source
 ---
 
-# Quarto
+# 田邑秦谏
 
-
+<ruby>东<rp>(</rp><rt>dōng</rt><rp>)</rp>大<rp>(</rp><rt>dà</rt><rp>)</rp>桥<rp>(</rp><rt>qiáo</rt><rp>)</rp>路<rp>(</rp><rt>lù</rt><rp>)</rp></ruby>
 
 # 秦明谏
 
