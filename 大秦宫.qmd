@@ -2798,7 +2798,45 @@ scene=27)
 
 <img src='文艺坊图库/马来与美国四面楚歌.png' height='400'>
 <br>
-*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>先<rp>(</rp><rt>xiān</rt><rp>)</rp>攻<rp>(</rp><rt>gōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>盟<rp>(</rp><rt>méng</rt><rp>)</rp></ruby>，<ruby>再<rp>(</rp><rt>zài</rt><rp>)</rp>部<rp>(</rp><rt>bù</rt><rp>)</rp>署<rp>(</rp><rt>shǔ</rt><rp>)</rp>边<rp>(</rp><rt>biān</rt><rp>)</rp>反<rp>(</rp><rt>fǎn</rt><rp>)</rp>击<rp>(</rp><rt>jī/jí</rt><rp>)</rp>美<rp>(</rp><rt>měi</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>洋<rp>(</rp><rt>yáng</rt><rp>)</rp>蕃<rp>(</rp><rt>fān</rt><rp>)</rp>边<rp>(</rp><rt>biān</rt><rp>)</rp>西<rp>(</rp><rt>xī</rt><rp>)</rp>进<rp>(</rp><rt>jìn</rt><rp>)</rp>南<rp>(</rp><rt>nán</rt><rp>)</rp>征<rp>(</rp><rt>zhēng</rt><rp>)</rp></ruby>](https://www.facebook.com/englianhu/posts/pfbid02ayA99tYXX57FxDoAE6zFmxcFb8ZqzGNNmrPxdr9kWhwrffhVV53tTGLoTy4mXvUEl)*
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>破<rp>(</rp><rt>qín</rt><rp>)</rp>乌<rp>(</rp><rt>qín</rt><rp>)</rp>及<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>先<rp>(</rp><rt>xiān</rt><rp>)</rp>攻<rp>(</rp><rt>gōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>盟<rp>(</rp><rt>méng</rt><rp>)</rp></ruby>，<ruby>再<rp>(</rp><rt>zài</rt><rp>)</rp>部<rp>(</rp><rt>bù</rt><rp>)</rp>署<rp>(</rp><rt>shǔ</rt><rp>)</rp>边<rp>(</rp><rt>biān</rt><rp>)</rp>反<rp>(</rp><rt>fǎn</rt><rp>)</rp>击<rp>(</rp><rt>jī/jí</rt><rp>)</rp>美<rp>(</rp><rt>měi</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>洋<rp>(</rp><rt>yáng</rt><rp>)</rp>蕃<rp>(</rp><rt>fān</rt><rp>)</rp>边<rp>(</rp><rt>biān</rt><rp>)</rp>西<rp>(</rp><rt>xī</rt><rp>)</rp>进<rp>(</rp><rt>jìn</rt><rp>)</rp>南<rp>(</rp><rt>nán</rt><rp>)</rp>征<rp>(</rp><rt>zhēng</rt><rp>)</rp></ruby>](https://www.facebook.com/englianhu/posts/pfbid02ayA99tYXX57FxDoAE6zFmxcFb8ZqzGNNmrPxdr9kWhwrffhVV53tTGLoTy4mXvUEl)*
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诗<rp>(</rp><rt>shī</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp></ruby>•<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>风<rp>(</rp><rt>fēng</rt><rp>)</rp></ruby>》<ruby>无<rp>(</rp><rt>wú</rt><rp>)</rp>衣<rp>(</rp><rt>yī</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/破乌及巫.png' height='400'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>破<rp>(</rp><rt>qín</rt><rp>)</rp>乌<rp>(</rp><rt>qín</rt><rp>)</rp>及<rp>(</rp><rt>qín</rt><rp>)</rp>巫<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>先<rp>(</rp><rt>xiān</rt><rp>)</rp>攻<rp>(</rp><rt>gōng</rt><rp>)</rp>东<rp>(</rp><rt>dōng</rt><rp>)</rp>盟<rp>(</rp><rt>méng</rt><rp>)</rp></ruby>，<ruby>再<rp>(</rp><rt>zài</rt><rp>)</rp>部<rp>(</rp><rt>bù</rt><rp>)</rp>署<rp>(</rp><rt>shǔ</rt><rp>)</rp>边<rp>(</rp><rt>biān</rt><rp>)</rp>反<rp>(</rp><rt>fǎn</rt><rp>)</rp>击<rp>(</rp><rt>jī/jí</rt><rp>)</rp>美<rp>(</rp><rt>měi</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>洋<rp>(</rp><rt>yáng</rt><rp>)</rp>蕃<rp>(</rp><rt>fān</rt><rp>)</rp>边<rp>(</rp><rt>biān</rt><rp>)</rp>西<rp>(</rp><rt>xī</rt><rp>)</rp>进<rp>(</rp><rt>jìn</rt><rp>)</rp>南<rp>(</rp><rt>nán</rt><rp>)</rp>征<rp>(</rp><rt>zhēng</rt><rp>)</rp></ruby>](https://www.facebook.com/englianhu/posts/pfbid02ayA99tYXX57FxDoAE6zFmxcFb8ZqzGNNmrPxdr9kWhwrffhVV53tTGLoTy4mXvUEl)*
+
+>破乌既破巫，得蜀既得楚。
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诗<rp>(</rp><rt>shī</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp></ruby>•<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>风<rp>(</rp><rt>fēng</rt><rp>)</rp></ruby>》<ruby>无<rp>(</rp><rt>wú</rt><rp>)</rp>衣<rp>(</rp><rt>yī</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/破乌及巫.png' height='400'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>明朝大将平定云南下令</ruby>：<ruby>高过车轮的鞑子全斩首</ruby>](https://k.sina.cn/article_6434510096_17f86d510001005zc3.html)*
+
+>破乌既破巫，得蜀既得楚。以赢家黄氏江夏堂的江泽民铲除法轮功的名义，攻占东南亚歼灭所有男女宦官民族回教徒911恐怖份子。傅友德与司马错的战略不谋而合。
 
 <style>
     .reveal section p {
