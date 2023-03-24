@@ -2306,42 +2306,6 @@ scene=27)
 
 ### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>世<rp>(</rp><rt>shì</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>量<rp>(</rp><rt>liáng</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>研<rp>(</rp><rt>yán</rt><rp>)</rp>究<rp>(</rp><rt>jiū</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp></ruby>
 
-<img src='文艺坊图库/中科红旗操作系统.png' height='500'>
-<br>
-*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>马<rp>(</rp><rt>qín</rt><rp>)</rp>尔<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>夫<rp>(</rp><rt>qín</rt><rp>)</rp>链<rp>(</rp><rt>qín</rt><rp>)</rp>预<rp>(</rp><rt>qín</rt><rp>)</rp>测<rp>(</rp><rt>qín</rt><rp>)</rp>模<rp>(</rp><rt>qín</rt><rp>)</rp>型<rp>(</rp><rt>qín</rt><rp>)</rp>及<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>些<rp>(</rp><rt>qín</rt><rp>)</rp>应<rp>(</rp><rt>qín</rt><rp>)</rp>用<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://max.book118.com/html/2019/0511/5130344031002034.shtm)*
-
-<style>
-    .reveal section p {
-    display: inline-block;
-    font-size: 0.6em;
-    line-height: 1.2em;
-    vertical-align: top;
-  }
-</style>
-
-## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
-
-### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>世<rp>(</rp><rt>shì</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>量<rp>(</rp><rt>liáng</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>研<rp>(</rp><rt>yán</rt><rp>)</rp>究<rp>(</rp><rt>jiū</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp></ruby>
-
-```r
-
-```
-<br>
-*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>马<rp>(</rp><rt>qín</rt><rp>)</rp>尔<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>夫<rp>(</rp><rt>qín</rt><rp>)</rp>链<rp>(</rp><rt>qín</rt><rp>)</rp>预<rp>(</rp><rt>qín</rt><rp>)</rp>测<rp>(</rp><rt>qín</rt><rp>)</rp>模<rp>(</rp><rt>qín</rt><rp>)</rp>型<rp>(</rp><rt>qín</rt><rp>)</rp>及<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>些<rp>(</rp><rt>qín</rt><rp>)</rp>应<rp>(</rp><rt>qín</rt><rp>)</rp>用<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://max.book118.com/html/2019/0511/5130344031002034.shtm)*
-
-<style>
-    .reveal section p {
-    display: inline-block;
-    font-size: 0.6em;
-    line-height: 1.2em;
-    vertical-align: top;
-  }
-</style>
-
-## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
-
-### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>世<rp>(</rp><rt>shì</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>量<rp>(</rp><rt>liáng</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>研<rp>(</rp><rt>yán</rt><rp>)</rp>究<rp>(</rp><rt>jiū</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp></ruby>
-
 - [<ruby>从<rp>(</rp><rt>cóng</rt><rp>)</rp>量<rp>(</rp><rt>liàng</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>到<rp>(</rp><rt>dào</rt><rp>)</rp>宇<rp>(</rp><rt>yǔ</rt><rp>)</rp>宙<rp>(</rp><rt>zhòu</rt><rp>)</rp></ruby>：<ruby>北<rp>(</rp><rt>běi</rt><rp>)</rp>师<rp>(</rp><rt>shī</rt><rp>)</rp>大<rp>(</rp><rt>dà</rt><rp>)</rp>赵<rp>(</rp><rt>zhào</rt><rp>)</rp>峥<rp>(</rp><rt>zhēng</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>授<rp>(</rp><rt>shòu</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>物<rp>(</rp><rt>wù</rt><rp>)</rp>理<rp>(</rp><rt>lǐ</rt><rp>)</rp>课<rp>(</rp><rt>kè</rt><rp>)</rp></ruby>](https://www.bilibili.com/cheese/play/ep25827?csource=UGCplayer_relevantclass)
 - [<ruby>陈<rp>(</rp><rt>chén</rt><rp>)</rp>省<rp>(</rp><rt>xǐng</rt><rp>)</rp>身<rp>(</rp><rt>shēn</rt><rp>)</rp></ruby>：<ruby>现<rp>(</rp><rt>xiàn</rt><rp>)</rp>代<rp>(</rp><rt>dài</rt><rp>)</rp>微<rp>(</rp><rt>wēi</rt><rp>)</rp>分<rp>(</rp><rt>fēn</rt><rp>)</rp>几<rp>(</rp><rt>jǐ</rt><rp>)</rp>何<rp>(</rp><rt>hé</rt><rp>)</rp>之<rp>(</rp><rt>zhī</rt><rp>)</rp>父<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>，<ruby>杨<rp>(</rp><rt>yáng</rt><rp>)</rp>振<rp>(</rp><rt>zhèn</rt><rp>)</rp>宁<rp>(</rp><rt>níng</rt><rp>)</rp></ruby>、<ruby>丘<rp>(</rp><rt>qiū</rt><rp>)</rp>成<rp>(</rp><rt>chéng</rt><rp>)</rp>桐<rp>(</rp><rt>tóng</rt><rp>)</rp>都<rp>(</rp><rt>dōu</rt><rp>)</rp>是<rp>(</rp><rt>shì</rt><rp>)</rp>他<rp>(</rp><rt>tā</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp>生<rp>(</rp><rt>shēng</rt><rp>)</rp></ruby>](https://new.qq.com/rain/a/20200309A073KW00)
 - [「<ruby>原<rp>(</rp><rt>yuán</rt><rp>)</rp>创<rp>(</rp><rt>chuàng</rt><rp>)</rp></ruby>」<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>近<rp>(</rp><rt>jìn</rt><rp>)</rp>代<rp>(</rp><rt>dài</rt><rp>)</rp>数<rp>(</rp><rt>shù</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp>第<rp>(</rp><rt>dì</rt><rp>)</rp>一<rp>(</rp><rt>yī</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp></ruby>，<ruby>竟<rp>(</rp><rt>jìng</rt><rp>)</rp>当<rp>(</rp><rt>dāng</rt><rp>)</rp>过<rp>(</rp><rt>guò</rt><rp>)</rp>杨<rp>(</rp><rt>yáng</rt><rp>)</rp>振<rp>(</rp><rt>zhèn</rt><rp>)</rp>宁<rp>(</rp><rt>níng</rt><rp>)</rp>老<rp>(</rp><rt>lǎo</rt><rp>)</rp>师<rp>(</rp><rt>shī</rt><rp>)</rp></ruby>，<ruby>还<rp>(</rp><rt>hái</rt><rp>)</rp>拒<rp>(</rp><rt>jù</rt><rp>)</rp>绝<rp>(</rp><rt>jué</rt><rp>)</rp>爱<rp>(</rp><rt>ài</rt><rp>)</rp>因<rp>(</rp><rt>yīn</rt><rp>)</rp>斯<rp>(</rp><rt>sī</rt><rp>)</rp>坦<rp>(</rp><rt>tǎn</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>合<rp>(</rp><rt>hé</rt><rp>)</rp>作<rp>(</rp><rt>zuò</rt><rp>)</rp></ruby>](https://www.sohu.com/a/488030359_121080227)
@@ -2377,8 +2341,46 @@ scene=27)
 
 ### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>世<rp>(</rp><rt>shì</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>量<rp>(</rp><rt>liáng</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>研<rp>(</rp><rt>yán</rt><rp>)</rp>究<rp>(</rp><rt>jiū</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp></ruby>
 
+<img src='文艺坊图库/马尔可夫链预测模型及一些应用（第38页）.png' height='500'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>马<rp>(</rp><rt>qín</rt><rp>)</rp>尔<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>夫<rp>(</rp><rt>qín</rt><rp>)</rp>链<rp>(</rp><rt>qín</rt><rp>)</rp>预<rp>(</rp><rt>qín</rt><rp>)</rp>测<rp>(</rp><rt>qín</rt><rp>)</rp>模<rp>(</rp><rt>qín</rt><rp>)</rp>型<rp>(</rp><rt>qín</rt><rp>)</rp>及<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>些<rp>(</rp><rt>qín</rt><rp>)</rp>应<rp>(</rp><rt>qín</rt><rp>)</rp>用<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://max.book118.com/html/2019/0511/5130344031002034.shtm)*
+
+><ruby>上<rp>(</rp><rt>qín</rt><rp>)</rp>图<rp>(</rp><rt>qín</rt><rp>)</rp>显<rp>(</rp><rt>qín</rt><rp>)</rp>示<rp>(</rp><rt>qín</rt><rp>)</rp>论<rp>(</rp><rt>qín</rt><rp>)</rp>文<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>qín</rt><rp>)</rp>第<rp>(</rp><rt>qín</rt><rp>)</rp>3<rp>(</rp><rt>qín</rt><rp>)</rp>8<rp>(</rp><rt>qín</rt><rp>)</rp>页<rp>(</rp><rt>qín</rt><rp>)</rp>案<rp>(</rp><rt>qín</rt><rp>)</rp>例<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>分<rp>(</rp><rt>qín</rt><rp>)</rp>析<rp>(</rp><rt>qín</rt><rp>)</rp>十<rp>(</rp><rt>qín</rt><rp>)</rp>二<rp>(</rp><rt>qín</rt><rp>)</rp>生<rp>(</rp><rt>qín</rt><rp>)</rp>肖<rp>(</rp><rt>qín</rt><rp>)</rp>彩<rp>(</rp><rt>qín</rt><rp>)</rp>票<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>。
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>世<rp>(</rp><rt>shì</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>量<rp>(</rp><rt>liáng</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>研<rp>(</rp><rt>yán</rt><rp>)</rp>究<rp>(</rp><rt>jiū</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp></ruby>
+
+```r
+
+```
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>马<rp>(</rp><rt>qín</rt><rp>)</rp>尔<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>夫<rp>(</rp><rt>qín</rt><rp>)</rp>链<rp>(</rp><rt>qín</rt><rp>)</rp>预<rp>(</rp><rt>qín</rt><rp>)</rp>测<rp>(</rp><rt>qín</rt><rp>)</rp>模<rp>(</rp><rt>qín</rt><rp>)</rp>型<rp>(</rp><rt>qín</rt><rp>)</rp>及<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>些<rp>(</rp><rt>qín</rt><rp>)</rp>应<rp>(</rp><rt>qín</rt><rp>)</rp>用<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://max.book118.com/html/2019/0511/5130344031002034.shtm)*
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>世<rp>(</rp><rt>shì</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>量<rp>(</rp><rt>liáng</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>研<rp>(</rp><rt>yán</rt><rp>)</rp>究<rp>(</rp><rt>jiū</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp></ruby>
+
 - <ruby>联<rp>(</rp><rt>lián</rt><rp>)</rp>合<rp>(</rp><rt>hé</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>研<rp>(</rp><rt>yán</rt><rp>)</rp>究<rp>(</rp><rt>jiū</rt><rp>)</rp>院<rp>(</rp><rt>yuàn</rt><rp>)</rp></ruby>、<ruby>知<rp>(</rp><rt>zhī</rt><rp>)</rp>乎<rp>(</rp><rt>hū</rt><rp>)</rp></ruby>、<ruby>经<rp>(</rp><rt>jīnɡ</rt><rp>)</rp>管<rp>(</rp><rt>guǎn</rt><rp>)</rp>之<rp>(</rp><rt>zhī</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>、<ruby>统<rp>(</rp><rt>tŏng</rt><rp>)</rp>计<rp>(</rp><rt>jì</rt><rp>)</rp>之<rp>(</rp><rt>zhī</rt><rp>)</rp>都<rp>(</rp><rt>dū</rt><rp>)</rp></ruby>、<ruby>简<rp>(</rp><rt>jiǎn</rt><rp>)</rp>书<rp>(</rp><rt>shū</rt><rp>)</rp></ruby>、β<ruby>站<rp>(</rp><rt>zhàn</rt><rp>)</rp></ruby>、<ruby>个<rp>(</rp><rt>gè</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>图<rp>(</rp><rt>tú</rt><rp>)</rp>书<rp>(</rp><rt>shū</rt><rp>)</rp>馆<rp>(</rp><rt>guăn</rt><rp>)</rp></ruby>、「<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>科<rp>(</rp><rt>kē</rt><rp>)</rp>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp></ruby>」<ruby>等<rp>(</rp><rt>děng</rt><rp>)</rp></ruby>，<ruby>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp>将<rp>(</rp><rt>jiāng</rt><rp>)</rp>红<rp>(</rp><rt>hóng</rt><rp>)</rp>旗<rp>(</rp><rt>qí</rt><rp>)</rp>礼<rp>(</rp><rt>lǐ</rt><rp>)</rp>逆<rp>(</rp><rt>nì</rt><rp>)</rp>袭<rp>(</rp><rt>xí</rt><rp>)</rp>打<rp>(</rp><rt>dă</rt><rp>)</rp>造<rp>(</rp><rt>zào</rt><rp>)</rp>成<rp>(</rp><rt>chéng</rt><rp>)</rp></ruby>（<ruby>开<rp>(</rp><rt>kāi</rt><rp>)</rp>源<rp>(</rp><rt>yuán</rt><rp>)</rp>版<rp>(</rp><rt>bǎn</rt><rp>)</rp>与<rp>(</rp><rt>yǔ</rt><rp>)</rp>专<rp>(</rp><rt>zhuān</rt><rp>)</rp>业<rp>(</rp><rt>yè</rt><rp>)</rp>版<rp>(</rp><rt>bǎn</rt><rp>)</rp></ruby>）<ruby>专<rp>(</rp><rt>zhuān</rt><rp>)</rp>业<rp>(</rp><rt>yè</rt><rp>)</rp></ruby>、<ruby>高<rp>(</rp><rt>gāo</rt><rp>)</rp>端<rp>(</rp><rt>duān</rt><rp>)</rp></ruby>、<ruby>科<rp>(</rp><rt>kē</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp></ruby>、<ruby>科<rp>(</rp><rt>kē</rt><rp>)</rp>技<rp>(</rp><rt>jì</rt><rp>)</rp></ruby>、<ruby>技<rp>(</rp><rt>jì</rt><rp>)</rp>术<rp>(</rp><rt>shù</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>量<rp>(</rp><rt>liàng</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>操<rp>(</rp><rt>cāo</rt><rp>)</rp>作<rp>(</rp><rt>zuò</rt><rp>)</rp>系<rp>(</rp><rt>xì</rt><rp>)</rp>统<rp>(</rp><rt>tŏng</rt><rp>)</rp></ruby>。
-- [<ruby>移<rp>(</rp><rt>yí</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp>来<rp>(</rp><rt>lái</rt><rp>)</rp>西<rp>(</rp><rt>xī</rt><rp>)</rp>亚<rp>(</rp><rt>yà</rt><rp>)</rp>很<rp>(</rp><rt>hěn</rt><rp>)</rp>快<rp>(</rp><rt>kuài</rt><rp>)</rp>就<rp>(</rp><rt>jiù</rt><rp>)</rp>能<rp>(</rp><rt>néng</rt><rp>)</rp>适<rp>(</rp><rt>shì</rt><rp>)</rp>应<rp>(</rp><rt>yìng</rt><rp>)</rp>生<rp>(</rp><rt>shēng</rt><rp>)</rp>活<rp>(</rp><rt>huó</rt><rp>)</rp></ruby>](https://new.qq.com/rain/a/20230308A05UJV00)<ruby>介<rp>(</rp><rt>jiè</rt><rp>)</rp>绍<rp>(</rp><rt>shào</rt><rp>)</rp>咱<rp>(</rp><rt>zǎn</rt><rp>)</rp>们<rp>(</rp><rt>men</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp>来<rp>(</rp><rt>lái</rt><rp>)</rp>西<rp>(</rp><rt>xī</rt><rp>)</rp>亚<rp>(</rp><rt>yà</rt><rp>)</rp></ruby>。<ruby>宦<rp>(</rp><rt>huàn</rt><rp>)</rp>官<rp>(</rp><rt>guān</rt><rp>)</rp>误<rp>(</rp><rt>wù</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp></ruby>，<ruby>祸<rp>(</rp><rt>huò</rt><rp>)</rp>殃<rp>(</rp><rt>yāng</rt><rp>)</rp>全<rp>(</rp><rt>quán</rt><rp>)</rp>球<rp>(</rp><rt>qiú</rt><rp>)</rp></ruby>。<ruby>歼<rp>(</rp><rt>jiān</rt><rp>)</rp>灭<rp>(</rp><rt>miè</rt><rp>)</rp>美<rp>(</rp><rt>měi</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>府<rp>(</rp><rt>fǔ</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>共<rp>(</rp><rt>gòng</rt><rp>)</rp>同<rp>(</rp><rt>tóng</rt><rp>)</rp>敌<rp>(</rp><rt>dí</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>婆<rp>(</rp><rt>pó</rt><rp>)</rp>宦<rp>(</rp><rt>huàn</rt><rp>)</rp>官<rp>(</rp><rt>guān</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp></ruby>911<ruby>恐<rp>(</rp><rt>kǒng</rt><rp>)</rp>怖<rp>(</rp><rt>bù</rt><rp>)</rp>份<rp>(</rp><rt>fèn</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp></ruby>。
+- [<ruby>移<rp>(</rp><rt>yí</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp>来<rp>(</rp><rt>lái</rt><rp>)</rp>西<rp>(</rp><rt>xī</rt><rp>)</rp>亚<rp>(</rp><rt>yà</rt><rp>)</rp>很<rp>(</rp><rt>hěn</rt><rp>)</rp>快<rp>(</rp><rt>kuài</rt><rp>)</rp>就<rp>(</rp><rt>jiù</rt><rp>)</rp>能<rp>(</rp><rt>néng</rt><rp>)</rp>适<rp>(</rp><rt>shì</rt><rp>)</rp>应<rp>(</rp><rt>yìng</rt><rp>)</rp>生<rp>(</rp><rt>shēng</rt><rp>)</rp>活<rp>(</rp><rt>huó</rt><rp>)</rp></ruby>](https://new.qq.com/rain/a/20230308A05UJV00)<ruby>介<rp>(</rp><rt>jiè</rt><rp>)</rp>绍<rp>(</rp><rt>shào</rt><rp>)</rp>咱<rp>(</rp><rt>zǎn</rt><rp>)</rp>们<rp>(</rp><rt>men</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp>来<rp>(</rp><rt>lái</rt><rp>)</rp>西<rp>(</rp><rt>xī</rt><rp>)</rp>亚<rp>(</rp><rt>yà</rt><rp>)</rp></ruby>。<ruby>由<rp>(</rp><rt>qín</rt><rp>)</rp>于<rp>(</rp><rt>qín</rt><rp>)</rp>宦<rp>(</rp><rt>huàn</rt><rp>)</rp>官<rp>(</rp><rt>guān</rt><rp>)</rp>误<rp>(</rp><rt>wù</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp></ruby>，<ruby>祸<rp>(</rp><rt>huò</rt><rp>)</rp>殃<rp>(</rp><rt>yāng</rt><rp>)</rp>全<rp>(</rp><rt>quán</rt><rp>)</rp>球<rp>(</rp><rt>qiú</rt><rp>)</rp></ruby>；<ruby>所<rp>(</rp><rt>qín</rt><rp>)</rp>以<rp>(</rp><rt>qín</rt><rp>)</rp>别<rp>(</rp><rt>qín</rt><rp>)</rp>入<rp>(</rp><rt>qín</rt><rp>)</rp>籍<rp>(</rp><rt>qín</rt><rp>)</rp>马<rp>(</rp><rt>qín</rt><rp>)</rp>来<rp>(</rp><rt>qín</rt><rp>)</rp>西<rp>(</rp><rt>qín</rt><rp>)</rp>亚<rp>(</rp><rt>qín</rt><rp>)</rp>并<rp>(</rp><rt>qín</rt><rp>)</rp>歼<rp>(</rp><rt>jiān</rt><rp>)</rp>灭<rp>(</rp><rt>miè</rt><rp>)</rp>美<rp>(</rp><rt>měi</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>府<rp>(</rp><rt>fǔ</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>共<rp>(</rp><rt>gòng</rt><rp>)</rp>同<rp>(</rp><rt>tóng</rt><rp>)</rp>敌<rp>(</rp><rt>dí</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>巫<rp>(</rp><rt>wū</rt><rp>)</rp>婆<rp>(</rp><rt>pó</rt><rp>)</rp>宦<rp>(</rp><rt>huàn</rt><rp>)</rp>官<rp>(</rp><rt>guān</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp></ruby>911<ruby>恐<rp>(</rp><rt>kǒng</rt><rp>)</rp>怖<rp>(</rp><rt>bù</rt><rp>)</rp>份<rp>(</rp><rt>fèn</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp></ruby>。
 
 <style>
     .reveal section p {
