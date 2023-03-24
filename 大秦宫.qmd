@@ -2306,11 +2306,28 @@ scene=27)
 
 ### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>世<rp>(</rp><rt>shì</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>量<rp>(</rp><rt>liáng</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>研<rp>(</rp><rt>yán</rt><rp>)</rp>究<rp>(</rp><rt>jiū</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp></ruby>
 
+<img src='文艺坊图库/中科红旗操作系统.png' height='500'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>马<rp>(</rp><rt>qín</rt><rp>)</rp>尔<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>夫<rp>(</rp><rt>qín</rt><rp>)</rp>链<rp>(</rp><rt>qín</rt><rp>)</rp>预<rp>(</rp><rt>qín</rt><rp>)</rp>测<rp>(</rp><rt>qín</rt><rp>)</rp>模<rp>(</rp><rt>qín</rt><rp>)</rp>型<rp>(</rp><rt>qín</rt><rp>)</rp>及<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>些<rp>(</rp><rt>qín</rt><rp>)</rp>应<rp>(</rp><rt>qín</rt><rp>)</rp>用<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://max.book118.com/html/2019/0511/5130344031002034.shtm)*
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>
+
+### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>世<rp>(</rp><rt>shì</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>量<rp>(</rp><rt>liáng</rt><rp>)</rp>化<rp>(</rp><rt>huà</rt><rp>)</rp>研<rp>(</rp><rt>yán</rt><rp>)</rp>究<rp>(</rp><rt>jiū</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp></ruby>
+
 ```r
 
 ```
 <br>
-*出处：[马尔可夫链预测模型及一些应用-应用数学专业毕业论文.docx](https://max.book118.com/html/2019/0511/5130344031002034.shtm)*
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>马<rp>(</rp><rt>qín</rt><rp>)</rp>尔<rp>(</rp><rt>qín</rt><rp>)</rp>可<rp>(</rp><rt>qín</rt><rp>)</rp>夫<rp>(</rp><rt>qín</rt><rp>)</rp>链<rp>(</rp><rt>qín</rt><rp>)</rp>预<rp>(</rp><rt>qín</rt><rp>)</rp>测<rp>(</rp><rt>qín</rt><rp>)</rp>模<rp>(</rp><rt>qín</rt><rp>)</rp>型<rp>(</rp><rt>qín</rt><rp>)</rp>及<rp>(</rp><rt>qín</rt><rp>)</rp>一<rp>(</rp><rt>qín</rt><rp>)</rp>些<rp>(</rp><rt>qín</rt><rp>)</rp>应<rp>(</rp><rt>qín</rt><rp>)</rp>用<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://max.book118.com/html/2019/0511/5130344031002034.shtm)*
 
 <style>
     .reveal section p {
