@@ -49,7 +49,8 @@ editor: source
 
 ### 《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>》
 
-- <ruby>阻<rp>(</rp><rt>zǔ</rt><rp>)</rp>止<rp>(</rp><rt>zhǐ</rt><rp>)</rp>天<rp>(</rp><rt>tiān</rt><rp>)</rp>下<rp>(</rp><rt>xià</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp>传<rp>(</rp><rt>chuán</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>接<rp>(</rp><rt>jiē</rt><rp>)</rp>代<rp>(</rp><rt>dài</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>最<rp>(</rp><rt>zuì</rt><rp>)</rp>佳<rp>(</rp><rt>jiā</rt><rp>)</rp>方<rp>(</rp><rt>fāng</rt><rp>)</rp>案<rp>(</rp><rt>àn</rt><rp>)</rp></ruby>：<ruby>拆<rp>(</rp><rt>chāi</rt><rp>)</rp>除<rp>(</rp><rt>chú</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>拿<rp>(</rp><rt>ná</rt><rp>)</rp>督<rp>(</rp><rt>dū</rt><rp>)</rp>公<rp>(</rp><rt>gōng</rt><rp>)</rp>庙<rp>(</rp><rt>miào</rt><rp>)</rp></ruby>、<ruby>焚<rp>(</rp><rt>fén</rt><rp>)</rp>烧<rp>(</rp><rt>shāo</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp></ruby>、<ruby>峇<rp>(</rp><rt>bā</rt><rp>)</rp>峇<rp>(</rp><rt>bā</rt><rp>)</rp>娘<rp>(</rp><rt>niáng</rt><rp>)</rp>惹<rp>(</rp><rt>rě</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>策<rp>(</rp><rt>cè</rt><rp>)</rp></ruby>、<ruby>歼<rp>(</rp><rt>jiān</rt><rp>)</rp>灭<rp>(</rp><rt>miè</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp></ruby>、<ruby>任<rp>(</rp><rt>rèn</rt><rp>)</rp>何<rp>(</rp><rt>hé</rt><rp>)</rp>与<rp>(</rp><rt>yú</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>染<rp>(</rp><rt>rǎn</rt><rp>)</rp>者<rp>(</rp><rt>zhě</rt><rp>)</rp></ruby>、<ruby>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp>混<rp>(</rp><rt>hùn</rt><rp>)</rp>血<rp>(</rp><rt>xuè</rt><rp>)</rp>儿<rp>(</rp><rt>ér</rt><rp>)</rp></ruby>、<ruby>重<rp>(</rp><rt>chóng</rt><rp>)</rp>八<rp>(</rp><rt>bā</rt><rp>)</rp>起<rp>(</rp><rt>qǐ</rt><rp>)</rp>义<rp>(</rp><rt>yì</rt><rp>)</rp></ruby>、<ruby>辛<rp>(</rp><rt>xīn</rt><rp>)</rp>亥<rp>(</rp><rt>hài</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp></ruby>。
+- <ruby>阻<rp>(</rp><rt>zǔ</rt><rp>)</rp>止<rp>(</rp><rt>zhǐ</rt><rp>)</rp>天<rp>(</rp><rt>tiān</rt><rp>)</rp>下<rp>(</rp><rt>xià</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp>传<rp>(</rp><rt>chuán</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>接<rp>(</rp><rt>jiē</rt><rp>)</rp>代<rp>(</rp><rt>dài</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp><s>最<rp>(</rp><rt>zuì</rt><rp>)</rp>佳<rp>(</rp><rt>jiā</rt><rp>)</rp></s>方<rp>(</rp><rt>fāng</rt><rp>)</rp>案<rp>(</rp><rt>àn</rt><rp>)</rp></ruby>：<ruby>拆<rp>(</rp><rt>chāi</rt><rp>)</rp>除<rp>(</rp><rt>chú</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>拿<rp>(</rp><rt>ná</rt><rp>)</rp>督<rp>(</rp><rt>dū</rt><rp>)</rp>公<rp>(</rp><rt>gōng</rt><rp>)</rp>庙<rp>(</rp><rt>miào</rt><rp>)</rp></ruby>、<ruby>焚<rp>(</rp><rt>fén</rt><rp>)</rp>烧<rp>(</rp><rt>shāo</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>可<rp>(</rp><rt>kě</rt><rp>)</rp>兰<rp>(</rp><rt>lán</rt><rp>)</rp>经<rp>(</rp><rt>jīng</rt><rp>)</rp></ruby>、<ruby>峇<rp>(</rp><rt>bā</rt><rp>)</rp>峇<rp>(</rp><rt>bā</rt><rp>)</rp>娘<rp>(</rp><rt>niáng</rt><rp>)</rp>惹<rp>(</rp><rt>rě</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>策<rp>(</rp><rt>cè</rt><rp>)</rp></ruby>、<ruby>歼<rp>(</rp><rt>jiān</rt><rp>)</rp>灭<rp>(</rp><rt>miè</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp></ruby>、<ruby>任<rp>(</rp><rt>rèn</rt><rp>)</rp>何<rp>(</rp><rt>hé</rt><rp>)</rp>与<rp>(</rp><rt>yú</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>染<rp>(</rp><rt>rǎn</rt><rp>)</rp>者<rp>(</rp><rt>zhě</rt><rp>)</rp></ruby>、<ruby>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp>混<rp>(</rp><rt>hùn</rt><rp>)</rp>血<rp>(</rp><rt>xuè</rt><rp>)</rp>儿<rp>(</rp><rt>ér</rt><rp>)</rp></ruby>、<ruby>重<rp>(</rp><rt>chóng</rt><rp>)</rp>八<rp>(</rp><rt>bā</rt><rp>)</rp>起<rp>(</rp><rt>qǐ</rt><rp>)</rp>义<rp>(</rp><rt>yì</rt><rp>)</rp></ruby>、<ruby>辛<rp>(</rp><rt>xīn</rt><rp>)</rp>亥<rp>(</rp><rt>hài</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>命<rp>(</rp><rt>mìng</rt><rp>)</rp></ruby>。
+- [<ruby>八<rp>(</rp><rt>qín</rt><rp>)</rp>年<rp>(</rp><rt>qín</rt><rp>)</rp>级<rp>(</rp><rt>qín</rt><rp>)</rp>历<rp>(</rp><rt>qín</rt><rp>)</rp>史<rp>(</rp><rt>qín</rt><rp>)</rp>上<rp>(</rp><rt>qín</rt><rp>)</rp>册<rp>(</rp><rt>qín</rt><rp>)</rp>专<rp>(</rp><rt>qín</rt><rp>)</rp>题<rp>(</rp><rt>qín</rt><rp>)</rp>知<rp>(</rp><rt>qín</rt><rp>)</rp>识<rp>(</rp><rt>qín</rt><rp>)</rp>提<rp>(</rp><rt>qín</rt><rp>)</rp>纲<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://www.bilibili.com/read/mobile?id=14330843)<ruby>叙述从</ruby>1840<ruby>年鸦片战争开始</ruby>，<ruby>到</ruby>1949<ruby>年新中国成立</ruby>。<ruby>鸦片战争-太平天国运动-第二次鸦片战争-洋务运动-甲午中日战争-戊戌变法-义和团运动-八国联军侵华-辛亥革命-新文化运动</ruby>。
 
 <style>
     .reveal section p {
@@ -2128,6 +2129,97 @@ scene=27)
 
 ### <ruby>建<rp>(</rp><rt>jiàn</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>旨<rp>(</rp><rt>zhǐ</rt><rp>)</rp></ruby>
 
+- 赢家黄氏江夏堂，黄埔军校兵马俑始祖•永春；军事与学术量化对冲为主，儒教为辅。
+- 借鉴[各种宗教在世界范围内的分布及信仰人数](https://wenku.baidu.com/view/5cf65f6ccc84b9d528ea81c758f5f61fb6362847.html?_wkts_=1679727972993)，推广孔子礼乐制度的孺子可教也------儒教，在宗教上才不会群龙无首。
+- 赢家黄氏江夏堂黄埔军校兵马俑学术量化始祖•永春（嬴政）坐中台、孔子•儒教坐左座、管仲•经济学<s>墨翟•墨教</s>坐右座。
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
+
+### <ruby>建<rp>(</rp><rt>jiàn</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>旨<rp>(</rp><rt>zhǐ</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/孔子.png' height='400'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[《<ruby>孔子</ruby>》Confucius 半部论语治天下！孔子对中国乃至世界的影响究竟有多大？【CCTV纪录】](https://www.youtube.com/watch?v=iGCwN4keHSc)*
+
+>孔子诞生于两千五百多年前，那是一个礼坏乐崩、天下大乱的时代，而他穷其一生开创的儒学思想正是试图为那个王室衰微、诸侯争霸的时代重新建立秩序与和谐，并从此深深影响了中国乃至世界几十亿人的生活。孔子的一生历尽挫折与磨难，他的思想和学说并没有被他的时代接受。然而在他辞世数百年之后，他的思想却逐渐成为了中华文明的精髓所在。 
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
+
+### <ruby>建<rp>(</rp><rt>jiàn</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>旨<rp>(</rp><rt>zhǐ</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/各种宗教在世界范围内的分布及信仰人数 02.png' height='400'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[各种宗教在世界范围内的分布及信仰人数](https://wenku.baidu.com/view/5cf65f6ccc84b9d528ea81c758f5f61fb6362847.html?_wkts_=1679727972993)*
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
+
+### <ruby>建<rp>(</rp><rt>jiàn</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>旨<rp>(</rp><rt>zhǐ</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/崇祯皇帝 - 豪鬼瞬狱杀------天.png' height='400'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[「抖音」修炼波动拳](https://www.youtube.com/watch?v=9w5WiIN8jOI)*
+
+>量化对冲Hedgehog崇祯皇帝。
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
+
+### <ruby>建<rp>(</rp><rt>jiàn</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>旨<rp>(</rp><rt>zhǐ</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/崇祯皇帝 - 豪鬼与豪猪.png' height='400'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[]()*
+
+>量化对冲Hedgehog崇祯皇帝。
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
+
+### <ruby>建<rp>(</rp><rt>jiàn</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp>宗<rp>(</rp><rt>zōng</rt><rp>)</rp>旨<rp>(</rp><rt>zhǐ</rt><rp>)</rp></ruby>
+
 >《<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>赋<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>-<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>明<rp>(</rp><rt>míng</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp></ruby>》<br>
 ><ruby>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>误<rp>(</rp><rt>wù</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp></ruby>，<ruby>祸<rp>(</rp><rt>huò</rt><rp>)</rp>殃<rp>(</rp><rt>yāng</rt><rp>)</rp>全<rp>(</rp><rt>quán</rt><rp>)</rp>球<rp>(</rp><rt>qiú</rt><rp>)</rp></ruby>；<br>
 ><ruby>巫<rp>(</rp><rt>wū</rt><rp>)</rp>贼<rp>(</rp><rt>zéi</rt><rp>)</rp>尽<rp>(</rp><rt>jìn</rt><rp>)</rp>弃<rp>(</rp><rt>qì</rt><rp>)</rp></ruby>，<ruby>瓦<rp>(</rp><rt>wǎ</rt><rp>)</rp>釜<rp>(</rp><rt>fǔ</rt><rp>)</rp>雷<rp>(</rp><rt>léi</rt><rp>)</rp>鸣<rp>(</rp><rt>míng</rt><rp>)</rp></ruby>。<br>
@@ -2221,8 +2313,9 @@ scene=27)
 
 ### 《<ruby>诸<rp>(</rp><rt>zhū</rt><rp>)</rp>子<rp>(</rp><rt>zǐ</rt><rp>)</rp>百<rp>(</rp><rt>bǎi</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp></ruby>》<ruby>玄<rp>(</rp><rt>xuán</rt><rp>)</rp>术<rp>(</rp><rt>shù</rt><rp>)</rp>篇<rp>(</rp><rt>piān</rt><rp>)</rp></ruby>
 
-- 「<ruby>商<rp>(</rp><rt>shāng</rt><rp>)</rp>鞅<rp>(</rp><rt>yāng</rt><rp>)</rp>变<rp>(</rp><rt>biàn</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>」<ruby>如<rp>(</rp><rt>rú</rt><rp>)</rp>果<rp>(</rp><rt>guǒ</rt><rp>)</rp>不<rp>(</rp><rt>bù</rt><rp>)</rp>允<rp>(</rp><rt>yǔn</rt><rp>)</rp>许<rp>(</rp><rt>xǔ</rt><rp>)</rp>咱<rp>(</rp><rt>zǎn</rt><rp>)</rp>们<rp>(</rp><rt>men</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp>籍<rp>(</rp><rt>jí</rt><rp>)</rp></ruby>NonMuslim<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>当<rp>(</rp><rt>dāng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>做<rp>(</rp><rt>zuò</rt><rp>)</rp>主<rp>(</rp><rt>zhǔ</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>话<rp>(</rp><rt>huà</rt><rp>)</rp></ruby>，<ruby>就<rp>(</rp><rt>jiù</rt><rp>)</rp>得<rp>(</rp><rt>děi</rt><rp>)</rp>把<rp>(</rp><rt>bă</rt><rp>)</rp>当<rp>(</rp><rt>dāng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>做<rp>(</rp><rt>zuò</rt><rp>)</rp>主<rp>(</rp><rt>zhǔ</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp></ruby>Judi<ruby>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>彩<rp>(</rp><rt>căi</rt><rp>)</rp>庄<rp>(</rp><rt>zhuāng</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>美<rp>(</rp><rt>mĕi</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>洋<rp>(</rp><rt>yáng</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>府<rp>(</rp><rt>fŭ</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>公<rp>(</rp><rt>gōng</rt><rp>)</rp>仆<rp>(</rp><rt>pǔ</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp></ruby>，<ruby>兴<rp>(</rp><rt>xīng</rt><rp>)</rp>都<rp>(</rp><rt>dū</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>府<rp>(</rp><rt>fŭ</rt><rp>)</rp></ruby>（<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>宝<rp>(</rp><rt>bǎo</rt><rp>)</rp>森<rp>(</rp><rt>sēn</rt><rp>)</rp>节<rp>(</rp><rt>jié</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>屠<rp>(</rp><rt>tú</rt><rp>)</rp>妖<rp>(</rp><rt>yāo</rt><rp>)</rp>节<rp>(</rp><rt>jié</rt><rp>)</rp>都<rp>(</rp><rt>dōu</rt><rp>)</rp>是<rp>(</rp><rt>shì</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>身<rp>(</rp><rt>shēn</rt><rp>)</rp>攻<rp>(</rp><rt>gōng</rt><rp>)</rp>击<rp>(</rp><rt>jī/jí</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>府<rp>(</rp><rt>fŭ</rt><rp>)</rp></ruby>）。
+- 「<ruby>商<rp>(</rp><rt>shāng</rt><rp>)</rp>鞅<rp>(</rp><rt>yāng</rt><rp>)</rp>变<rp>(</rp><rt>biàn</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>」<ruby>如<rp>(</rp><rt>rú</rt><rp>)</rp>果<rp>(</rp><rt>guǒ</rt><rp>)</rp>不<rp>(</rp><rt>bù</rt><rp>)</rp>允<rp>(</rp><rt>yǔn</rt><rp>)</rp>许<rp>(</rp><rt>xǔ</rt><rp>)</rp>咱<rp>(</rp><rt>zǎn</rt><rp>)</rp>们<rp>(</rp><rt>men</rt><rp>)</rp>马<rp>(</rp><rt>mǎ</rt><rp>)</rp>籍<rp>(</rp><rt>jí</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>huá</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>族<rp>(</rp><rt>zú</rt><rp>)</rp>当<rp>(</rp><rt>dāng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>做<rp>(</rp><rt>zuò</rt><rp>)</rp>主<rp>(</rp><rt>zhǔ</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp>话<rp>(</rp><rt>huà</rt><rp>)</rp></ruby>，<ruby>就<rp>(</rp><rt>jiù</rt><rp>)</rp>得<rp>(</rp><rt>děi</rt><rp>)</rp>把<rp>(</rp><rt>bă</rt><rp>)</rp>当<rp>(</rp><rt>dāng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>做<rp>(</rp><rt>zuò</rt><rp>)</rp>主<rp>(</rp><rt>zhǔ</rt><rp>)</rp>的<rp>(</rp><rt>de</rt><rp>)</rp></ruby>Judi<ruby>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>博<rp>(</rp><rt>bó</rt><rp>)</rp>彩<rp>(</rp><rt>căi</rt><rp>)</rp>庄<rp>(</rp><rt>zhuāng</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>美<rp>(</rp><rt>mĕi</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>洋<rp>(</rp><rt>yáng</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>府<rp>(</rp><rt>fŭ</rt><rp>)</rp>所<rp>(</rp><rt>suǒ</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>公<rp>(</rp><rt>gōng</rt><rp>)</rp>仆<rp>(</rp><rt>pǔ</rt><rp>)</rp>断<rp>(</rp><rt>duàn</rt><rp>)</rp>肢<rp>(</rp><rt>zhī</rt><rp>)</rp></ruby>，<ruby>兴<rp>(</rp><rt>xīng</rt><rp>)</rp>都<rp>(</rp><rt>dū</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>徒<rp>(</rp><rt>tú</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>府<rp>(</rp><rt>fŭ</rt><rp>)</rp></ruby>（<ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>宝<rp>(</rp><rt>bǎo</rt><rp>)</rp>森<rp>(</rp><rt>sēn</rt><rp>)</rp>节<rp>(</rp><rt>jié</rt><rp>)</rp>和<rp>(</rp><rt>hé</rt><rp>)</rp>屠<rp>(</rp><rt>tú</rt><rp>)</rp>妖<rp>(</rp><rt>yāo</rt><rp>)</rp>节<rp>(</rp><rt>jié</rt><rp>)</rp>都<rp>(</rp><rt>dōu</rt><rp>)</rp>是<rp>(</rp><rt>shì</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>身<rp>(</rp><rt>shēn</rt><rp>)</rp>攻<rp>(</rp><rt>gōng</rt><rp>)</rp>击<rp>(</rp><rt>jī/jí</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>府<rp>(</rp><rt>fŭ</rt><rp>)</rp></ruby>）。
 - <ruby>儒<rp>(</rp><rt>rú</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp></ruby>、<ruby>墨<rp>(</rp><rt>mò</rt><rp>)</rp>学<rp>(</rp><rt>xué</rt><rp>)</rp></ruby>、<ruby>道<rp>(</rp><rt>dào</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp></ruby>、<ruby>佛<rp>(</rp><rt>fó</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp></ruby>、<ruby>兵<rp>(</rp><rt>bīng</rt><rp>)</rp>法<rp>(</rp><rt>fǎ</rt><rp>)</rp></ruby>、<ruby>基<rp>(</rp><rt>jī</rt><rp>)</rp>督<rp>(</rp><rt>dū</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp></ruby>、<ruby>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>等<rp>(</rp><rt>děng</rt><rp>)</rp></ruby>。
+- 借鉴[各种宗教在世界范围内的分布及信仰人数](https://wenku.baidu.com/view/5cf65f6ccc84b9d528ea81c758f5f61fb6362847.html?_wkts_=1679727972993)，推广孔子礼乐制度的孺子可教也------儒教，才不会群龙无首。
 
 <style>
     .reveal section p {
@@ -3888,7 +3981,8 @@ scene=27)
 
 ### <ruby>募<rp>(</rp><rt>mù</rt><rp>)</rp>款<rp>(</rp><rt>kuǎn</rt><rp>)</rp></ruby>
 
-- <s><ruby>目<rp>(</rp><rt>mù</rt><rp>)</rp>前<rp>(</rp><rt>qián</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>不<rp>(</rp><rt>bù</rt><rp>)</rp>聊<rp>(</rp><rt>liáo</rt><rp>)</rp>生<rp>(</rp><rt>shēng</rt><rp>)</rp></ruby>，<ruby>尚<rp>(</rp><rt>shàng</rt><rp>)</rp>未<rp>(</rp><rt>wèi</rt><rp>)</rp>有<rp>(</rp><rt>yǒu</rt><rp>)</rp>任<rp>(</rp><rt>rèn</rt><rp>)</rp>何<rp>(</rp><rt>hé</rt><rp>)</rp>方<rp>(</rp><rt>fāng</rt><rp>)</rp>案<rp>(</rp><rt>àn</rt><rp>)</rp>能<rp>(</rp><rt>néng</rt><rp>)</rp>让<rp>(</rp><rt>ràng</rt><rp>)</rp>村<rp>(</rp><rt>cūn</rt><rp>)</rp>民<rp>(</rp><rt>mín</rt><rp>)</rp>或<rp>(</rp><rt>huò</rt><rp>)</rp>附<rp>(</rp><rt>fù</rt><rp>)</rp>近<rp>(</rp><rt>jìn</rt><rp>)</rp>村<rp>(</rp><rt>cūn</rt><rp>)</rp>庄<rp>(</rp><rt>zhuāng</rt><rp>)</rp>甚<rp>(</rp><rt>shèn</rt><rp>)</rp>至<rp>(</rp><rt>zhì</rt><rp>)</rp>许<rp>(</rp><rt>xǔ</rt><rp>)</rp>多<rp>(</rp><rt>duō</rt><rp>)</rp>人<rp>(</rp><rt>rén</rt><rp>)</rp>安<rp>(</rp><rt>ān</rt><rp>)</rp>居<rp>(</rp><rt>jū</rt><rp>)</rp>乐<rp>(</rp><rt>lè</rt><rp>)</rp>业<rp>(</rp><rt>yè</rt><rp>)</rp></ruby>。</s>
+- 赢家黄氏江夏堂，黄埔军校兵马俑始祖•永春；军事与学术量化对冲为主，儒教为辅。
+- 借鉴[各种宗教在世界范围内的分布及信仰人数](https://wenku.baidu.com/view/5cf65f6ccc84b9d528ea81c758f5f61fb6362847.html?_wkts_=1679727972993)，推广孔子礼乐制度的孺子可教也------儒教，在宗教上才不会群龙无首。
 - <ruby>报<rp>(</rp><rt>qín</rt><rp>)</rp>读<rp>(</rp><rt>qín</rt><rp>)</rp>孔<rp>(</rp><rt>qín</rt><rp>)</rp>子<rp>(</rp><rt>qín</rt><rp>)</rp>学<rp>(</rp><rt>qín</rt><rp>)</rp>院<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>文<rp>(</rp><rt>qín</rt><rp>)</rp>化<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>心<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>学<rp>(</rp><rt>qín</rt><rp>)</rp>习<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>文<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>华<rp>(</rp><rt>qín</rt><rp>)</rp>习<rp>(</rp><rt>qín</rt><rp>)</rp>俗<rp>(</rp><rt>sú</rt><rp>)</rp>文<rp>(</rp><rt>qín</rt><rp>)</rp>化<rp>(</rp><rt>qín</rt><rp>)</rp>宗<rp>(</rp><rt>qín</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp>语<rp>(</rp><rt>qín</rt><rp>)</rp>言<rp>(</rp><rt>qín</rt><rp>)</rp>法<rp>(</rp><rt>qín</rt><rp>)</rp>律<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>、<ruby>神<rp>(</rp><rt>qín</rt><rp>)</rp>经<rp>(</rp><rt>qín</rt><rp>)</rp>网<rp>(</rp><rt>qín</rt><rp>)</rp>络<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>明<rp>(</rp><rt>qín</rt><rp>)</rp>哲<rp>(</rp><rt>qín</rt><rp>)</rp>保<rp>(</rp><rt>qín</rt><rp>)</rp>身<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>。
 - <ruby>文<rp>(</rp><rt>qín</rt><rp>)</rp>革<rp>(</rp><rt>gé</rt><rp>)</rp>经<rp>(</rp><rt>qín</rt><rp>)</rp>济<rp>(</rp><rt>qín</rt><rp>)</rp>学<rp>(</rp><rt>qín</rt><rp>)</rp>与<rp>(</rp><rt>qín</rt><rp>)</rp>引<rp>(</rp><rt>qín</rt><rp>)</rp>入<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp>政<rp>(</rp><rt>zhèng</rt><rp>)</rp>府<rp>(</rp><rt>qín</rt><rp>)</rp>攻<rp>(</rp><rt>qín</rt><rp>)</rp>占<rp>(</rp><rt>qín</rt><rp>)</rp>马<rp>(</rp><rt>qín</rt><rp>)</rp>来<rp>(</rp><rt>qín</rt><rp>)</rp>西<rp>(</rp><rt>qín</rt><rp>)</rp>亚<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>入<rp>(</rp><rt>qín</rt><rp>)</rp>籍<rp>(</rp><rt>qín</rt><rp>)</rp>中<rp>(</rp><rt>zhōng</rt><rp>)</rp>国<rp>(</rp><rt>guó</rt><rp>)</rp></ruby>，<ruby>根<rp>(</rp><rt>qín</rt><rp>)</rp>除<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>huí</rt><rp>)</rp>教<rp>(</rp><rt>jiào</rt><rp>)</rp></ruby>，<ruby>拯<rp>(</rp><rt>qín</rt><rp>)</rp>救<rp>(</rp><rt>qín</rt><rp>)</rp>天<rp>(</rp><rt>tiān</rt><rp>)</rp>下<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>。
 
