@@ -1431,6 +1431,41 @@ editor: source
 
 ## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
 
+### <ruby>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/秦汉建筑.png' height='400'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>汉<rp>(</rp><rt>qín</rt><rp>)</rp>建<rp>(</rp><rt>qín</rt><rp>)</rp>筑<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>：<ruby>气<rp>(</rp><rt>qín</rt><rp>)</rp>势<rp>(</rp><rt>qín</rt><rp>)</rp>恢<rp>(</rp><rt>qín</rt><rp>)</rp>宏<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>千<rp>(</rp><rt>qín</rt><rp>)</rp>转<rp>(</rp><rt>qín</rt><rp>)</rp>百<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://baike.baidu.com/item/%E7%A7%A6%E6%B1%89%E5%BB%BA%E7%AD%91/8297123)*
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
+
+### <ruby>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
+
+<img src='文艺坊图库/秦汉建筑 - 气势恢宏，千转百回.gif' height='400'>
+<br>
+*<ruby>出<rp>(</rp><rt>chū</rt><rp>)</rp>处<rp>(</rp><rt>chù</rt><rp>)</rp></ruby>：[<ruby>秦<rp>(</rp><rt>qín</rt><rp>)</rp>汉<rp>(</rp><rt>qín</rt><rp>)</rp>建<rp>(</rp><rt>qín</rt><rp>)</rp>筑<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>：<ruby>气<rp>(</rp><rt>qín</rt><rp>)</rp>势<rp>(</rp><rt>qín</rt><rp>)</rp>恢<rp>(</rp><rt>qín</rt><rp>)</rp>宏<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>，<ruby>千<rp>(</rp><rt>qín</rt><rp>)</rp>转<rp>(</rp><rt>qín</rt><rp>)</rp>百<rp>(</rp><rt>qín</rt><rp>)</rp>回<rp>(</rp><rt>qín</rt><rp>)</rp></ruby>](https://baike.baidu.com/item/%E7%A7%A6%E6%B1%89%E5%BB%BA%E7%AD%91/8297123)*
+
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+  }
+</style>
+
+## <ruby>大<rp>(</rp><rt>dà</rt><rp>)</rp>秦<rp>(</rp><rt>qín</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
+
 ### <ruby>雍<rp>(</rp><rt>yōng</rt><rp>)</rp>城<rp>(</rp><rt>chéng</rt><rp>)</rp>蕲<rp>(</rp><rt>qí</rt><rp>)</rp>年<rp>(</rp><rt>nián</rt><rp>)</rp>宫<rp>(</rp><rt>gōng</rt><rp>)</rp></ruby>
 
 <img src='文艺坊图库/蕲年宫（青瓦换黄瓦）.png' height='400'>
