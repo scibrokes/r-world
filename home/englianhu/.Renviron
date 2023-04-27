@@ -1,0 +1,19 @@
+## https://d.cosx.org/d/422196-xaringan
+#http_proxy = http://127.0.0.1:12333
+#https_proxy = http://127.0.0.1:12333
+
+## Scibrokes.com ip address
+## https://ipinfo.info/html/ip_checker.php
+#http_proxy = http://217.160.0.1:8080
+#https_proxy = http://217.160.0.1:8080
+#Sys.setenv(http_proxy="http://0.0.0.0:8080")
+
+## https://askubuntu.com/a/1160369/424049
+Zotero_Web_API = RtS6gKyd3kEG6g8vdfLEqxZY
+
+## https://gist.github.com/Z3tt/3dab3535007acf108391649766409421
+GITHUB_PAT = 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
+
+## https://www.flyvpn.com
+## https://www.vpnunlimited.com
+## https://www.ivacy.com
