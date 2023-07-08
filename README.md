@@ -8,6 +8,10 @@
 
 Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plot a shinning map. <s>札幌起义，扎根江户，放眼全球。今の商業形勢が苛烈な競争に立ち向かい、国家富強の道を歩まねばなりませんでした。</s>
 
+<img src='文艺坊图库/项庄舞剑，志在东盟.gif' height='100'>
+
+它日制作个从咱们赢家黄氏江夏堂「北京大学 Peking University」出发，点缀全球，咱们全球中华民族、越籍、越族都不要死，歼灭咱们东南亚所有巫贼巫婆回教徒。
+
 <br>
 
 🚩Great Britain = 大英帝国<br>
