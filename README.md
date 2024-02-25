@@ -66,7 +66,9 @@ Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plo
 - [百度：『原创』秦国几乎没有出现一个昏君，为什么长达163年才完成统一？](https://baijiahao.baidu.com/s?id=1719029203047214585&wfr=spider&for=pc&searchword=%E7%A7%A6%E5%9B%BD%E5%87%A0%E4%B9%8E%E6%9C%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%98%8F%E5%90%9B,%E4%B8%BA%E4%BD%95%E8%80%97%E6%97%B6163%E5%B9%B4%E6%89%8D%E5%AE%8C%E6%88%90%E7%BB%9F%E4%B8%80?)
 - [百度：『原创』秦国几乎未出现一个昏君，为何耗时163年才完成统一？](https://baijiahao.baidu.com/s?id=1745772547731472044&wfr=spider&for=pc&searchword=%E7%A7%A6%E5%9B%BD%E5%87%A0%E4%B9%8E%E6%B2%A1%E6%9C%89%E5%87%BA%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%98%8F%E5%90%9B,%E4%B8%BA%E4%BB%80%E4%B9%88%E9%95%BF%E8%BE%BE163%E5%B9%B4%E6%89%8D%E5%AE%8C%E6%88%90%E7%BB%9F%E4%B8%80?)
 
+<br><br>
+
 ---
 
-[<img src="诸子百家考工记/世博量化.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src="诸子百家考工记/世博量化.png" width="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
+[<img src='诸子百家考工记/世博量化.png' height='14'/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src='诸子百家考工记/世博量化.png' height='14'/> 世博量化®](http://www.scibrokes.com)企业知识产权®及版权®所有，盗版必究。**</span>
