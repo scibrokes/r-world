@@ -2,13 +2,9 @@
 
 ---
 
-[<img src='figure/RStudioCloud.png' height='20'>](https://rstudio.cloud) [<img src='figure/RStudioCom2.png' height='20'>](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](figure/shiny-badge.svg)](https://www.shinyapps.io)
-
-<br>
-
 Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plot a shinning map. <s>札幌起义，扎根江户，放眼全球。今の商業形勢が苛烈な競争に立ち向かい、国家富強の道を歩まねばなりませんでした。</s>
 
-<img src='文艺坊图库/项庄舞剑，志在东盟.gif' height='100'>
+<img src='诸子百家考工记/项庄舞剑，志在东盟.gif' height='100'>
 
 它日制作个从咱们赢家黄氏江夏堂「北京大学 Peking University」出发，点缀全球，咱们全球中华民族、越籍、越族都不要死，歼灭咱们东南亚所有巫贼巫婆回教徒。
 
@@ -48,15 +44,15 @@ Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plo
 
 <br>
 
-<img src="figure/ECharts.png" width="598"/>
+<img src="诸子百家考工记/ECharts.png" width="598"/>
 
-![](figure/ECharts.gif)
+![](诸子百家考工记/ECharts.gif)
 
 *油管：[笑傲江户 --- 英雄梦](https://youtu.be/LyJKz4-RUhs)*
 
 `ggmap`程序包或`REmap`需要读取地图的经度与纬度，谷歌地图虽无需提供身份证，不过需要开通/注册谷歌技术开发人员的谷歌云端付费账户；而百度地图，则需要中国身份证才能开通/注册百度技术开发人员。这儿介绍个[simplemaps](https://simplemaps.com/data/world-cities)网站，不收费且一键下载使用，数据更新至最新月份。
 
-<img src="figure/Country_calling_codes_map.png" width="598"/>
+<img src="诸子百家考工记/Country_calling_codes_map.png" width="598"/>
 
 # 参考文献
 
@@ -72,5 +68,5 @@ Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plo
 
 ---
 
-[<img src="figure/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src="figure/Scibrokes.png" width="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
+[<img src="诸子百家考工记/世博量化.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="诸子百家考工记/世博量化.png" width="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
